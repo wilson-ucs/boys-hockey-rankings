@@ -342,13 +342,13 @@
    "name": "Compuware",
    "gsName": "COMPUWARE",
    "group": "D",
-   "rating": 85.99,
-   "band": 0.52,
-   "mhrName": "Compuware 11U AAA (MI)",
+   "rating": 79.24,
+   "band": 0.65,
+   "mhrName": "Compuware 11U A (MI)",
    "basis": "mhr",
-   "ratingForPrediction": 85.99,
-   "naRank": 73,
-   "note": "Compuware 11U AAA, confirmed by the Jets on 5 November. MHR also has a Compuware 11U A (79.24), which is a different team."
+   "ratingForPrediction": 79.24,
+   "note": "Compuware 11U A, confirmed by the Jets on 6 November. MHR also rates a Compuware 11U AAA (85.99), a different team.",
+   "naRank": 189
   },
   {
    "id": "cincinnati-jr-cyclones",

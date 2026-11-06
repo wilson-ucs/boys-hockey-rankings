@@ -30,8 +30,9 @@ TWELVE_U = [
     ('Chicago Stallions 12U A2 (IL)', '5-2-0', 77.89),
     ('San Francisco Sabercats 12U BB (CA)', '4-4-0', 72.41),
     ('Naperville Sabres 12U A2 (IL)', '4-6-0', 78.08),
-    # Given as "(#1) 12U A3", which MHR does not have; A3 is the (#2) team.
-    ('Twin Bridges Lightning (#2) 12U A3 (MO)', '7-2-0', 78.97),
+    # Under MHR's five-game minimum, so on no list; read off its team page
+    # (t=17560), which shows a provisional rating.
+    ('Twin Bridges Lightning (#1) 12U A3 (IL)', '2-2-0', 78.01),
 ]
 
 

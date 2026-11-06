@@ -5,7 +5,7 @@
   "dates": "November 6-8, 2026",
   "location": "Chicago area, IL",
   "timezone": "America/Chicago",
-  "updated": "2026-11-06T03:38:32Z",
+  "updated": "2026-11-06T03:40:01Z",
   "source": "https://my.200x85.com/tournaments/1a0a158e-5bf4-4e1e-93a9-01bb7e7963ba/schedules?division=990",
   "rulesSource": "https://200x85.com/ccm-world-invite/?event=Rules",
   "note": "Twenty-four teams in four pools of six, three pool games each on Friday and Saturday morning. The top four in each pool play Saturday afternoon's round of 16, pool A against D and B against C: 1st v 4th and 2nd v 3rd. Fifth and sixth play a like finisher from the paired pool. Round-of-16 winners play Sunday's quarterfinals (two 15-minute halves), losers a consolation game; the final is at 2:30 PM. Rinks: Robert Crown Center (Evanston) and Heartland. Seven teams are rated on MyHockeyRankings' 12U list, which shares one scale with 11U."
@@ -216,12 +216,12 @@
    "name": "Twin Bridges Lightning",
    "gsName": "TWIN BRIDGES LIGHTNING",
    "group": "B",
-   "rating": 78.97,
-   "band": 0.94,
-   "mhrName": "Twin Bridges Lightning (#2) 12U A3 (MO)",
+   "rating": 78.01,
+   "band": 1.41,
+   "mhrName": "Twin Bridges Lightning (#1) 12U A3 (IL)",
    "basis": "mhr",
-   "ratingForPrediction": 78.97,
-   "note": "The Jets named this team as Twin Bridges Lightning (#1) 12U A3, which MHR does not have; read as MHR's (#2) 12U A3, the club's A3 team. If it is (#1) 12U B2 instead, they are about 2.8 goals weaker. On the 12U list only, so no USA 11U rank."
+   "ratingForPrediction": 78.01,
+   "note": "Twin Bridges Lightning (#1) 12U A3, named by the Jets. Four games played, one short of MHR's minimum, so it is off MHR's lists and its 78.01 is provisional; the band is wide to match. No USA 11U rank."
   },
   {
    "id": "naperville-sabres",

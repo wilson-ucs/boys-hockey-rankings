@@ -3536,12 +3536,12 @@
    "rank": null
   },
   {
-   "n": "Twin Bridges Lightning (#2) 12U A3 (MO)",
-   "proj": 78.97,
-   "band": 0.94,
-   "live": 78.97,
-   "liveBand": 0.94,
-   "mgp": 9,
+   "n": "Twin Bridges Lightning (#1) 12U A3 (IL)",
+   "proj": 78.01,
+   "band": 1.41,
+   "live": 78.01,
+   "liveBand": 1.41,
+   "mgp": 4,
    "usa": false,
    "na": false,
    "rank": null

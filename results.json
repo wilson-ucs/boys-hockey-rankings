@@ -75,6 +75,15 @@
   {
    "event": "ccm-world-invite-chicago",
    "date": "2026-11-06",
+   "start": "2026-11-06T14:15:00-06:00",
+   "home": "Highland Park Falcons (CSDHL) 11U AA (IL)",
+   "away": "Columbus Capitals (White) 11U A (OH)",
+   "homeScore": 8,
+   "awayScore": 2
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-06",
    "start": "2026-11-06T09:40:00-06:00",
    "home": "Music City Marauders 11U AA (TN)",
    "away": "Orland Park Vikings (CSDHL) 11U AA (IL)",
@@ -89,6 +98,15 @@
    "away": "Naperville Sabres 12U A2 (IL)",
    "homeScore": 0,
    "awayScore": 7
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-06",
+   "start": "2026-11-06T13:55:00-06:00",
+   "home": "Peoria Jr Mustangs 11U A1 (IL)",
+   "away": "Allegheny Badgers (#2) 11U A (PA)",
+   "homeScore": 7,
+   "awayScore": 2
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -116,6 +134,15 @@
    "away": "Northwest Chargers (CSDHL) 11U AA (IL)",
    "homeScore": 5,
    "awayScore": 3
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-06",
+   "start": "2026-11-06T13:40:00-06:00",
+   "home": "Winnetka Warriors (CSDHL) 11U AA (IL)",
+   "away": "Canton Wolves 11U A (MI)",
+   "homeScore": 5,
+   "awayScore": 0
   }
  ],
  "stormName": "Chicago Jets",

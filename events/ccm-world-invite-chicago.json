@@ -5,7 +5,7 @@
   "dates": "November 6-8, 2026",
   "location": "Chicago area, IL",
   "timezone": "America/Chicago",
-  "updated": "2026-11-06T20:10:31Z",
+  "updated": "2026-11-06T21:53:08Z",
   "source": "https://my.200x85.com/tournaments/1a0a158e-5bf4-4e1e-93a9-01bb7e7963ba/schedules?division=990",
   "rulesSource": "https://200x85.com/ccm-world-invite/?event=Rules",
   "note": "Twenty-four teams in four pools of six, three pool games each on Friday and Saturday morning. The top four in each pool play Saturday afternoon's round of 16, pool A against D and B against C: 1st v 4th and 2nd v 3rd. Fifth and sixth play a like finisher from the paired pool. Round-of-16 winners play Sunday's quarterfinals (two 15-minute halves), losers a consolation game; the final is at 2:30 PM. Rinks: Robert Crown Center (Evanston) and Heartland. Seven teams are rated on MyHockeyRankings' 12U list, which shares one scale with 11U."
@@ -518,8 +518,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "winnetka-warriors",
    "away": "canton-wolves",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 5,
+   "awayScore": 0
   },
   {
    "id": "14",
@@ -529,8 +529,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "peoria-jr-mustangs",
    "away": "allegheny-badgers",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 7,
+   "awayScore": 2
   },
   {
    "id": "15",
@@ -540,8 +540,8 @@
    "rink": "Heartland",
    "home": "highland-park-falcons",
    "away": "columbus-capitals-white",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 8,
+   "awayScore": 2
   },
   {
    "id": "16",

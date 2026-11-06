@@ -5,7 +5,7 @@
   "dates": "November 6-8, 2026",
   "location": "Chicago area, IL",
   "timezone": "America/Chicago",
-  "updated": "2026-11-06T03:40:01Z",
+  "updated": "2026-11-06T19:20:08Z",
   "source": "https://my.200x85.com/tournaments/1a0a158e-5bf4-4e1e-93a9-01bb7e7963ba/schedules?division=990",
   "rulesSource": "https://200x85.com/ccm-world-invite/?event=Rules",
   "note": "Twenty-four teams in four pools of six, three pool games each on Friday and Saturday morning. The top four in each pool play Saturday afternoon's round of 16, pool A against D and B against C: 1st v 4th and 2nd v 3rd. Fifth and sixth play a like finisher from the paired pool. Round-of-16 winners play Sunday's quarterfinals (two 15-minute halves), losers a consolation game; the final is at 2:30 PM. Rinks: Robert Crown Center (Evanston) and Heartland. Seven teams are rated on MyHockeyRankings' 12U list, which shares one scale with 11U."
@@ -385,8 +385,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "columbus-capitals-white",
    "away": "winnetka-warriors",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 0,
+   "awayScore": 7
   },
   {
    "id": "2",
@@ -396,8 +396,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "canton-wolves",
    "away": "peoria-jr-mustangs",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 1,
+   "awayScore": 7
   },
   {
    "id": "3",
@@ -407,8 +407,8 @@
    "rink": "Heartland",
    "home": "allegheny-badgers",
    "away": "highland-park-falcons",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 5,
+   "awayScore": 2
   },
   {
    "id": "4",
@@ -418,8 +418,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "arizona-bobcats",
    "away": "chicago-hawks",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 6,
+   "awayScore": 3
   },
   {
    "id": "5",
@@ -429,8 +429,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "twin-bridges-lightning",
    "away": "northwest-chargers",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 5,
+   "awayScore": 3
   },
   {
    "id": "6",
@@ -440,8 +440,8 @@
    "rink": "Heartland",
    "home": "music-city-marauders",
    "away": "orland-park-vikings",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 7,
+   "awayScore": 2
   },
   {
    "id": "7",
@@ -451,8 +451,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "omaha-jr-mavericks-red",
    "away": "naperville-sabres",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 0,
+   "awayScore": 7
   },
   {
    "id": "8",
@@ -462,8 +462,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "traverse-city-north-stars",
    "away": "glenview-stars",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 6,
+   "awayScore": 9
   },
   {
    "id": "9",
@@ -473,8 +473,9 @@
    "rink": "Heartland",
    "home": "arizona-jr-sun-devils",
    "away": "northern-express",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 4,
+   "awayScore": 4,
+   "shootout": "away"
   },
   {
    "id": "10",

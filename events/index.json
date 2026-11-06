@@ -1,0 +1,13 @@
+{
+ "events": [
+  {
+   "id": "ccm-world-invite-chicago",
+   "name": "CCM World Invite Chicago",
+   "dates": "November 6-8, 2026",
+   "location": "Chicago area, IL",
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "file": "events/ccm-world-invite-chicago.json"
+  }
+ ]
+}

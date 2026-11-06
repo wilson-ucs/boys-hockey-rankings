@@ -1,0 +1,67 @@
+{
+ "events": [
+  {
+   "id": "ccm-world-invite-chicago",
+   "kind": "tournament",
+   "name": "CCM World Invite Chicago",
+   "dates": "November 6-8, 2026",
+   "file": "events/ccm-world-invite-chicago.json"
+  }
+ ],
+ "games": [],
+ "stormName": "Chicago Jets",
+ "stormMhr": "Chicago Jets (CSDHL) 11U AA (IL)",
+ "storm": [
+  {
+   "event": "ccm-world-invite-chicago",
+   "eventName": "CCM World Invite Chicago",
+   "kind": "tournament",
+   "date": "2026-11-06",
+   "start": "2026-11-06T12:30:00-06:00",
+   "home": false,
+   "opp": "San Francisco Sabercats",
+   "oppMhr": null,
+   "oppRating": 81.22,
+   "rated": false,
+   "gf": null,
+   "ga": null,
+   "decision": null,
+   "rink": "Heartland",
+   "round": "group"
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "eventName": "CCM World Invite Chicago",
+   "kind": "tournament",
+   "date": "2026-11-06",
+   "start": "2026-11-06T19:35:00-06:00",
+   "home": true,
+   "opp": "Cincinnati Jr Cyclones",
+   "oppMhr": "Cincinnati Jr Cyclones (Watson) 11U AA (OH)",
+   "oppRating": 77.65,
+   "rated": true,
+   "gf": null,
+   "ga": null,
+   "decision": null,
+   "rink": "Robert Crown / Rink 2",
+   "round": "group"
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "eventName": "CCM World Invite Chicago",
+   "kind": "tournament",
+   "date": "2026-11-07",
+   "start": "2026-11-07T12:15:00-06:00",
+   "home": false,
+   "opp": "Compuware",
+   "oppMhr": "Compuware 11U A (MI)",
+   "oppRating": 79.24,
+   "rated": true,
+   "gf": null,
+   "ga": null,
+   "decision": null,
+   "rink": "Robert Crown / Rink 1",
+   "round": "group"
+  }
+ ]
+}

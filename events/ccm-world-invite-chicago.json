@@ -5,7 +5,7 @@
   "dates": "November 6-8, 2026",
   "location": "Chicago area, IL",
   "timezone": "America/Chicago",
-  "updated": "2026-11-06T21:53:08Z",
+  "updated": "2026-11-06T22:46:35Z",
   "source": "https://my.200x85.com/tournaments/1a0a158e-5bf4-4e1e-93a9-01bb7e7963ba/schedules?division=990",
   "rulesSource": "https://200x85.com/ccm-world-invite/?event=Rules",
   "note": "Twenty-four teams in four pools of six, three pool games each on Friday and Saturday morning. The top four in each pool play Saturday afternoon's round of 16, pool A against D and B against C: 1st v 4th and 2nd v 3rd. Fifth and sixth play a like finisher from the paired pool. Round-of-16 winners play Sunday's quarterfinals (two 15-minute halves), losers a consolation game; the final is at 2:30 PM. Rinks: Robert Crown Center (Evanston) and Heartland. Seven teams are rated on MyHockeyRankings' 12U list, which shares one scale with 11U."
@@ -551,8 +551,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "chicago-hawks",
    "away": "twin-bridges-lightning",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 1,
+   "awayScore": 3
   },
   {
    "id": "17",
@@ -562,8 +562,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "northwest-chargers",
    "away": "music-city-marauders",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 3,
+   "awayScore": 4
   },
   {
    "id": "18",
@@ -573,8 +573,8 @@
    "rink": "Heartland",
    "home": "orland-park-vikings",
    "away": "arizona-bobcats",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 5,
+   "awayScore": 3
   },
   {
    "id": "19",

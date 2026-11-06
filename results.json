@@ -48,6 +48,15 @@
   {
    "event": "ccm-world-invite-chicago",
    "date": "2026-11-06",
+   "start": "2026-11-06T15:05:00-06:00",
+   "home": "Chicago Hawks (CSDHL) 11U AA (IL)",
+   "away": "Twin Bridges Lightning (#1) 12U A3 (IL)",
+   "homeScore": 1,
+   "awayScore": 3
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-06",
    "start": "2026-11-06T12:15:00-06:00",
    "home": "Cincinnati Jr Cyclones (Watson) 11U AA (OH)",
    "away": "Chicago Stallions 12U A2 (IL)",
@@ -93,11 +102,29 @@
   {
    "event": "ccm-world-invite-chicago",
    "date": "2026-11-06",
+   "start": "2026-11-06T15:20:00-06:00",
+   "home": "Northwest Chargers (CSDHL) 11U AA (IL)",
+   "away": "Music City Marauders 11U AA (TN)",
+   "homeScore": 3,
+   "awayScore": 4
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-06",
    "start": "2026-11-06T10:50:00-06:00",
    "home": "Omaha Jr Mavericks (Red) 12U A (NE)",
    "away": "Naperville Sabres 12U A2 (IL)",
    "homeScore": 0,
    "awayScore": 7
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-06",
+   "start": "2026-11-06T15:40:00-06:00",
+   "home": "Orland Park Vikings (CSDHL) 11U AA (IL)",
+   "away": "Arizona Bobcats 11U AA (AZ)",
+   "homeScore": 5,
+   "awayScore": 3
   },
   {
    "event": "ccm-world-invite-chicago",

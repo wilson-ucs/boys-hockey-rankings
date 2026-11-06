@@ -26,6 +26,12 @@ NOISE = 8.0
 TWELVE_U = [
     ('Allegheny Badgers (#2) 11U A (PA)', '10-3-2', 83.34),
     ('Omaha Jr Mavericks (Red) 12U A (NE)', '2-3-0', 79.16),
+    # Named by the Jets on 5 November as the 2015 rosters these clubs bring.
+    ('Chicago Stallions 12U A2 (IL)', '5-2-0', 77.89),
+    ('San Francisco Sabercats 12U BB (CA)', '4-4-0', 72.41),
+    ('Naperville Sabres 12U A2 (IL)', '4-6-0', 78.08),
+    # Given as "(#1) 12U A3", which MHR does not have; A3 is the (#2) team.
+    ('Twin Bridges Lightning (#2) 12U A3 (MO)', '7-2-0', 78.97),
 ]
 
 

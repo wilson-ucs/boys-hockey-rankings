@@ -3501,6 +3501,50 @@
    "usa": false,
    "na": false,
    "rank": null
+  },
+  {
+   "n": "Chicago Stallions 12U A2 (IL)",
+   "proj": 77.89,
+   "band": 1.07,
+   "live": 77.89,
+   "liveBand": 1.07,
+   "mgp": 7,
+   "usa": false,
+   "na": false,
+   "rank": null
+  },
+  {
+   "n": "San Francisco Sabercats 12U BB (CA)",
+   "proj": 72.41,
+   "band": 1.0,
+   "live": 72.41,
+   "liveBand": 1.0,
+   "mgp": 8,
+   "usa": false,
+   "na": false,
+   "rank": null
+  },
+  {
+   "n": "Naperville Sabres 12U A2 (IL)",
+   "proj": 78.08,
+   "band": 0.89,
+   "live": 78.08,
+   "liveBand": 0.89,
+   "mgp": 10,
+   "usa": false,
+   "na": false,
+   "rank": null
+  },
+  {
+   "n": "Twin Bridges Lightning (#2) 12U A3 (MO)",
+   "proj": 78.97,
+   "band": 0.94,
+   "live": 78.97,
+   "liveBand": 0.94,
+   "mgp": 9,
+   "usa": false,
+   "na": false,
+   "rank": null
   }
  ]
 }

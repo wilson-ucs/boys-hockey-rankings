@@ -5,7 +5,7 @@
   "dates": "November 6-8, 2026",
   "location": "Chicago area, IL",
   "timezone": "America/Chicago",
-  "updated": "2026-11-06T03:34:08Z",
+  "updated": "2026-11-06T03:37:47Z",
   "source": "https://my.200x85.com/tournaments/1a0a158e-5bf4-4e1e-93a9-01bb7e7963ba/schedules?division=990",
   "rulesSource": "https://200x85.com/ccm-world-invite/?event=Rules",
   "note": "Twenty-four teams in four pools of six, three pool games each on Friday and Saturday morning. The top four in each pool play Saturday afternoon's round of 16, pool A against D and B against C: 1st v 4th and 2nd v 3rd. Fifth and sixth play a like finisher from the paired pool. Round-of-16 winners play Sunday's quarterfinals (two 15-minute halves), losers a consolation game; the final is at 2:30 PM. Rinks: Robert Crown Center (Evanston) and Heartland. Four teams have no 11U rating on MyHockeyRankings and carry an estimate, badged unranked."
@@ -220,7 +220,7 @@
    "band": 2.5,
    "mhrName": null,
    "basis": "unranked",
-   "ratingForPrediction": 81.22,
+   "ratingForPrediction": 81.56,
    "note": "No 11U team on MHR. The club's 12U teams are (#2) A3 78.97, (#1) B2 76.15 and B3 68.21, and none is marked as the 2015 team, so this is an estimate: the division's average, with a wide band."
   },
   {
@@ -232,7 +232,7 @@
    "band": 2.5,
    "mhrName": null,
    "basis": "unranked",
-   "ratingForPrediction": 81.22,
+   "ratingForPrediction": 81.56,
    "note": "No 11U team on MHR. The club's 12U teams are (CSDHL) AA 87.41, A1 84.45, A2 78.08 and A3 75.29, and none is marked as the 2015 team, so this is an estimate: the division's average, with a wide band."
   },
   {
@@ -321,7 +321,7 @@
    "band": 2.5,
    "mhrName": null,
    "basis": "unranked",
-   "ratingForPrediction": 81.22,
+   "ratingForPrediction": 81.56,
    "note": "No 11U team on MHR. The club's 12U teams are AA 84.61, A2 77.89, A1 76.14 and A3 69.30, and none is marked as the 2015 team, so this is an estimate: the division's average, with a wide band."
   },
   {
@@ -342,13 +342,13 @@
    "name": "Compuware",
    "gsName": "COMPUWARE",
    "group": "D",
-   "rating": 79.24,
-   "band": 0.65,
-   "mhrName": "Compuware 11U A (MI)",
+   "rating": 85.99,
+   "band": 0.52,
+   "mhrName": "Compuware 11U AAA (MI)",
    "basis": "mhr",
-   "ratingForPrediction": 79.24,
-   "naRank": 189,
-   "note": "MHR has two Compuware 11U teams: AAA (85.99) and A (79.24). A Ribcor division reads as the A team; if it is the AAA team they are about 6.8 goals stronger."
+   "ratingForPrediction": 85.99,
+   "naRank": 73,
+   "note": "Compuware 11U AAA, confirmed by the Jets on 5 November. MHR also has a Compuware 11U A (79.24), which is a different team."
   },
   {
    "id": "cincinnati-jr-cyclones",
@@ -372,7 +372,7 @@
    "band": 2.5,
    "mhrName": null,
    "basis": "unranked",
-   "ratingForPrediction": 81.22,
+   "ratingForPrediction": 81.56,
    "note": "No 11U team on MHR. The club's 12U teams are BB 72.41 and B 63.58, and none is marked as the 2015 team, so this is an estimate: the division's average, with a wide band. It may well be too high."
   }
  ],

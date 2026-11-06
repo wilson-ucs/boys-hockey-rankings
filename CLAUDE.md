@@ -56,6 +56,13 @@ alone**, because nothing on the list marks the 2015 roster. Those teams carry
 When the owner says which team it is, set `mhrName`, `rating`, `band` and
 `ratingForPrediction` from `ratings.json` (adding the team to `TWELVE_U`).
 
+**A capped blowout lowers the favourite, and that is deliberate.** A margin
+counts at most 7 goals (`ADJ_CAP`), so a team 12 goals better that wins 17-0
+is credited with 7 and drops -- the Jets went 84.20 to 83.99 on 6 November.
+MHR does the same, and the owner's decision is to match MHR: do not add an
+exemption for maxed-out wins. Enter the score the tournament posts (it caps
+at 7 too), not the true one.
+
 ## Crossover playoffs
 
 200x85's pooled formats pair pools rather than mirroring a seeding:

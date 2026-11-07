@@ -5,7 +5,7 @@
   "dates": "November 6-8, 2026",
   "location": "Chicago area, IL",
   "timezone": "America/Chicago",
-  "updated": "2026-11-06T22:46:35Z",
+  "updated": "2026-11-07T02:50:00Z",
   "source": "https://my.200x85.com/tournaments/1a0a158e-5bf4-4e1e-93a9-01bb7e7963ba/schedules?division=990",
   "rulesSource": "https://200x85.com/ccm-world-invite/?event=Rules",
   "note": "Twenty-four teams in four pools of six, three pool games each on Friday and Saturday morning. The top four in each pool play Saturday afternoon's round of 16, pool A against D and B against C: 1st v 4th and 2nd v 3rd. Fifth and sixth play a like finisher from the paired pool. Round-of-16 winners play Sunday's quarterfinals (two 15-minute halves), losers a consolation game; the final is at 2:30 PM. Rinks: Robert Crown Center (Evanston) and Heartland. Seven teams are rated on MyHockeyRankings' 12U list, which shares one scale with 11U."
@@ -584,8 +584,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "naperville-sabres",
    "away": "traverse-city-north-stars",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 7,
+   "awayScore": 0
   },
   {
    "id": "20",
@@ -595,8 +595,9 @@
    "rink": "Robert Crown / Rink 2",
    "home": "glenview-stars",
    "away": "arizona-jr-sun-devils",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 5,
+   "awayScore": 5,
+   "shootout": "away"
   },
   {
    "id": "21",
@@ -606,8 +607,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "northern-express",
    "away": "omaha-jr-mavericks-red",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 5,
+   "awayScore": 0
   },
   {
    "id": "22",
@@ -617,8 +618,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "chicago-stallions",
    "away": "compuware",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 4,
+   "awayScore": 7
   },
   {
    "id": "23",
@@ -628,8 +629,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "st-louis-knights",
    "away": "san-francisco-sabercats",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 7,
+   "awayScore": 0
   },
   {
    "id": "24",
@@ -639,8 +640,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "chicago-jets",
    "away": "cincinnati-jr-cyclones",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 8,
+   "awayScore": 1
   },
   {
    "id": "25",

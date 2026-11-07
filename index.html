@@ -1080,6 +1080,15 @@ function decisionOf(g){
 }
 
 function isPlayed(g){ return g.homeScore != null && g.awayScore != null; }
+
+// A pool game can be recorded as the level score after regulation plus who
+// took the shootout. That is a win and a loss, never a tie: +1 for the side
+// that won it, -1 for the side that lost it, 0 for anything else.
+function soEdge(g, home){
+  if(g.homeScore !== g.awayScore) return 0;
+  if(g.shootout !== 'home' && g.shootout !== 'away') return 0;
+  return (g.shootout === 'home') === home ? 1 : -1;
+}
 function isStorm(t){ return !!t && String(t.name).indexOf(STORM_PREFIX) === 0; }
 
 // `instead` replaces the seed in the brackets, already escaped -- the Storm
@@ -2898,12 +2907,15 @@ function drawScout(storm, mine, next, games, byId){
       const home = x.home === t.id, o = byId[home ? x.away : x.home];
       const us = home ? x.homeScore : x.awayScore, them = home ? x.awayScore : x.homeScore;
       const how = decisionOf(x);
+      const so = soEdge(x, home);
       gf += us; ga += them;
-      if(us === them) tie++;
+      if(so > 0){ w++; otw++; }
+      else if(so < 0){ l++; otl++; }
+      else if(us === them) tie++;
       else if(us > them){ w++; if(how !== 'REG') otw++; }
       else { l++; if(how !== 'REG') otl++; }
       if(r(o) != null) opp.push(r(o));
-      lines.push((us > them ? 'W' : us < them ? 'L' : 'T') + ' ' + us + '&ndash;' + them
+      lines.push((us > them || so > 0 ? 'W' : us < them || so < 0 ? 'L' : 'T') + ' ' + us + '&ndash;' + them
         + (how !== 'REG' ? ' ' + how : '') + ' vs ' + nm(o)
         + (r(o) != null ? ' <span class="muted">(' + r(o).toFixed(2) + ')</span>' : ''));
     });
@@ -3004,7 +3016,11 @@ function gameRows(team, mine, byId, gap){
     if(isPlayed(g)){
       const us = home ? g.homeScore : g.awayScore;
       const them = home ? g.awayScore : g.homeScore;
-      right = '<span class="t-score">' + us + '&ndash;' + them + '</span>';
+      const so = soEdge(g, home);
+      const how = decisionOf(g);
+      const tag = so > 0 ? ' SO W' : so < 0 ? ' SO L' : how !== 'REG' ? ' ' + how : '';
+      right = '<span class="t-score">' + us + '&ndash;' + them + '</span>'
+            + (tag ? '<span class="muted">' + tag + '</span>' : '');
     } else {
       right = ours == null ? '<span class="muted">&mdash;</span>' : signed(ours);
     }
@@ -3389,7 +3405,10 @@ function drawTeam(){
     const them = home ? g.awayScore : g.homeScore;
     gf += us; ga += them;
     const how = decisionOf(g);
-    if(us > them){
+    const so = soEdge(g, home);
+    if(so > 0){ w++; points += pts.soWin; }
+    else if(so < 0){ l++; points += pts.soLoss; }
+    else if(us > them){
       w++; points += how === 'SO' ? pts.soWin : how === 'OT' ? pts.otWin : pts.reg;
     } else if(us < them){
       l++; points += how === 'SO' ? pts.soLoss : how === 'OT' ? pts.otLoss : pts.loss;

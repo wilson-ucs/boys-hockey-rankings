@@ -300,11 +300,47 @@
   {
    "event": "ccm-world-invite-chicago",
    "date": "2026-11-07",
+   "start": "2026-11-07T16:30:00-06:00",
+   "home": "Naperville Sabres 12U A2 (IL)",
+   "away": "Chicago Hawks (CSDHL) 11U AA (IL)",
+   "homeScore": 3,
+   "awayScore": 4
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T15:40:00-06:00",
+   "home": "Northern Express (CSDHL) 11U AA (IL)",
+   "away": "Music City Marauders 11U AA (TN)",
+   "homeScore": 3,
+   "awayScore": 2
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T14:15:00-06:00",
+   "home": "Northwest Chargers (CSDHL) 11U AA (IL)",
+   "away": "Omaha Jr Mavericks (Red) 12U A (NE)",
+   "homeScore": 3,
+   "awayScore": 1
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
    "start": "2026-11-07T08:00:00-06:00",
    "home": "Omaha Jr Mavericks (Red) 12U A (NE)",
    "away": "Glenview Stars (CSDHL) 11U AA (IL)",
    "homeScore": 1,
    "awayScore": 8
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T15:05:00-06:00",
+   "home": "Orland Park Vikings (CSDHL) 11U AA (IL)",
+   "away": "Traverse City North Stars 11U A (MI)",
+   "homeScore": 2,
+   "awayScore": 6
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -332,6 +368,15 @@
    "away": "Orland Park Vikings (CSDHL) 11U AA (IL)",
    "homeScore": 3,
    "awayScore": 2
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T15:20:00-06:00",
+   "home": "Twin Bridges Lightning (#1) 12U A3 (IL)",
+   "away": "Arizona Jr Sun Devils 11U AA (AZ)",
+   "homeScore": 0,
+   "awayScore": 7
   }
  ],
  "stormName": "Chicago Jets",

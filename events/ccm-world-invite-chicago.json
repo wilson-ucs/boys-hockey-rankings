@@ -5,7 +5,7 @@
   "dates": "November 6-8, 2026",
   "location": "Chicago area, IL",
   "timezone": "America/Chicago",
-  "updated": "2026-11-07T02:50:00Z",
+  "updated": "2026-11-07T17:41:12Z",
   "source": "https://my.200x85.com/tournaments/1a0a158e-5bf4-4e1e-93a9-01bb7e7963ba/schedules?division=990",
   "rulesSource": "https://200x85.com/ccm-world-invite/?event=Rules",
   "note": "Twenty-four teams in four pools of six, three pool games each on Friday and Saturday morning. The top four in each pool play Saturday afternoon's round of 16, pool A against D and B against C: 1st v 4th and 2nd v 3rd. Fifth and sixth play a like finisher from the paired pool. Round-of-16 winners play Sunday's quarterfinals (two 15-minute halves), losers a consolation game; the final is at 2:30 PM. Rinks: Robert Crown Center (Evanston) and Heartland. Seven teams are rated on MyHockeyRankings' 12U list, which shares one scale with 11U."
@@ -651,8 +651,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "omaha-jr-mavericks-red",
    "away": "glenview-stars",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 1,
+   "awayScore": 8
   },
   {
    "id": "26",
@@ -662,8 +662,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "traverse-city-north-stars",
    "away": "northern-express",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 3,
+   "awayScore": 4
   },
   {
    "id": "27",
@@ -673,8 +673,8 @@
    "rink": "Heartland",
    "home": "arizona-jr-sun-devils",
    "away": "naperville-sabres",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 2,
+   "awayScore": 3
   },
   {
    "id": "28",
@@ -684,8 +684,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "arizona-bobcats",
    "away": "northwest-chargers",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 3,
+   "awayScore": 2
   },
   {
    "id": "29",
@@ -695,8 +695,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "twin-bridges-lightning",
    "away": "orland-park-vikings",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 3,
+   "awayScore": 2
   },
   {
    "id": "30",
@@ -706,8 +706,8 @@
    "rink": "Heartland",
    "home": "music-city-marauders",
    "away": "chicago-hawks",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 3,
+   "awayScore": 7
   },
   {
    "id": "31",
@@ -782,8 +782,8 @@
    "label": "Consolation: 6th B v 6th C",
    "start": "2026-11-07T14:15:00-06:00",
    "rink": "Heartland",
-   "home": null,
-   "away": null,
+   "home": "northwest-chargers",
+   "away": "omaha-jr-mavericks-red",
    "homeScore": null,
    "awayScore": null
   },
@@ -794,8 +794,8 @@
    "label": "Consolation: 5th B v 5th C",
    "start": "2026-11-07T15:05:00-06:00",
    "rink": "Robert Crown / Rink 1",
-   "home": null,
-   "away": null,
+   "home": "orland-park-vikings",
+   "away": "traverse-city-north-stars",
    "homeScore": null,
    "awayScore": null
   },
@@ -806,8 +806,8 @@
    "label": "Round of 16: 1st B v 4th C",
    "start": "2026-11-07T15:20:00-06:00",
    "rink": "Robert Crown / Rink 2",
-   "home": null,
-   "away": null,
+   "home": "twin-bridges-lightning",
+   "away": "arizona-jr-sun-devils",
    "homeScore": null,
    "awayScore": null
   },
@@ -818,8 +818,8 @@
    "label": "Round of 16: 2nd C v 3rd B",
    "start": "2026-11-07T15:40:00-06:00",
    "rink": "Heartland",
-   "home": null,
-   "away": null,
+   "home": "northern-express",
+   "away": "music-city-marauders",
    "homeScore": null,
    "awayScore": null
   },
@@ -830,8 +830,8 @@
    "label": "Round of 16: 1st C v 4th B",
    "start": "2026-11-07T16:30:00-06:00",
    "rink": "Robert Crown / Rink 1",
-   "home": null,
-   "away": null,
+   "home": "naperville-sabres",
+   "away": "chicago-hawks",
    "homeScore": null,
    "awayScore": null
   },
@@ -842,8 +842,8 @@
    "label": "Round of 16: 2nd B v 3rd C",
    "start": "2026-11-07T16:45:00-06:00",
    "rink": "Robert Crown / Rink 2",
-   "home": null,
-   "away": null,
+   "home": "arizona-bobcats",
+   "away": "glenview-stars",
    "homeScore": null,
    "awayScore": null
   },

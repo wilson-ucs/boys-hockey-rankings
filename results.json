@@ -228,6 +228,15 @@
   {
    "event": "ccm-world-invite-chicago",
    "date": "2026-11-07",
+   "start": "2026-11-07T11:05:00-06:00",
+   "home": "Allegheny Badgers (#2) 11U A (PA)",
+   "away": "Winnetka Warriors (CSDHL) 11U AA (IL)",
+   "homeScore": 4,
+   "awayScore": 4
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
    "start": "2026-11-07T09:25:00-06:00",
    "home": "Arizona Bobcats 11U AA (AZ)",
    "away": "Northwest Chargers (CSDHL) 11U AA (IL)",
@@ -242,6 +251,24 @@
    "away": "Naperville Sabres 12U A2 (IL)",
    "homeScore": 2,
    "awayScore": 3
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T11:05:00-06:00",
+   "home": "Canton Wolves 11U A (MI)",
+   "away": "Highland Park Falcons (CSDHL) 11U AA (IL)",
+   "homeScore": 4,
+   "awayScore": 5
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T10:50:00-06:00",
+   "home": "Cincinnati Jr Cyclones (Watson) 11U AA (OH)",
+   "away": "St Louis Knights 11U AA (MO)",
+   "homeScore": 1,
+   "awayScore": 7
   },
   {
    "event": "ccm-world-invite-chicago",

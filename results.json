@@ -273,6 +273,15 @@
   {
    "event": "ccm-world-invite-chicago",
    "date": "2026-11-07",
+   "start": "2026-11-07T12:15:00-06:00",
+   "home": "Compuware 11U A (MI)",
+   "away": "Chicago Jets (CSDHL) 11U AA (IL)",
+   "homeScore": 0,
+   "awayScore": 7
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
    "start": "2026-11-07T09:40:00-06:00",
    "home": "Music City Marauders 11U AA (TN)",
    "away": "Chicago Hawks (CSDHL) 11U AA (IL)",
@@ -355,8 +364,8 @@
    "oppMhr": "Compuware 11U A (MI)",
    "oppRating": 79.24,
    "rated": true,
-   "gf": null,
-   "ga": null,
+   "gf": 7,
+   "ga": 0,
    "decision": null,
    "rink": "Robert Crown / Rink 1",
    "round": "group"

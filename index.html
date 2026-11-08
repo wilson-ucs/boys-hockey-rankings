@@ -2522,7 +2522,10 @@ function draw(data){
     if(!g.home && !g.away) return '<span class="muted">&mdash;</span>';
     const d = gap(g);
     if(d == null) return '<span class="muted">no rating</span>';
-    const odds = winOdds(d, TIE_SHARE);
+    // A bracket game the rules settle in overtime or a shootout has a winner,
+    // so none of the chance goes to a tie. Opt-in, because some brackets can
+    // finish level -- one Labor Day bracket game did.
+    const odds = winOdds(d, rules.playoffNoTies && !g.group ? 0 : TIE_SHARE);
     if(Math.abs(d) < 0.05){
       return 'even <span class="t-wp">' + Math.round(odds.fav * 100) + '%</span>';
     }

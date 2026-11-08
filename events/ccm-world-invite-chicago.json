@@ -5,7 +5,7 @@
   "dates": "November 6-8, 2026",
   "location": "Chicago area, IL",
   "timezone": "America/Chicago",
-  "updated": "2026-11-08T01:12:54Z",
+  "updated": "2026-11-08T02:05:44Z",
   "source": "https://my.200x85.com/tournaments/1a0a158e-5bf4-4e1e-93a9-01bb7e7963ba/schedules?division=990",
   "rulesSource": "https://200x85.com/ccm-world-invite/?event=Rules",
   "note": "Twenty-four teams in four pools of six, three pool games each on Friday and Saturday morning. The top four in each pool play Saturday afternoon's round of 16, pool A against D and B against C: 1st v 4th and 2nd v 3rd. Fifth and sixth play a like finisher from the paired pool. Round-of-16 winners play Sunday's quarterfinals (two 15-minute halves), losers a consolation game; the final is at 2:30 PM. Rinks: Robert Crown Center (Evanston) and Heartland. Seven teams are rated on MyHockeyRankings' 12U list, which shares one scale with 11U."
@@ -66,7 +66,8 @@
    "coin flip"
   ],
   "leftover": "a Saturday consolation game",
-  "leftoverShort": "Conso"
+  "leftoverShort": "Conso",
+  "playoffNoTies": true
  },
  "teams": [
   {
@@ -893,8 +894,8 @@
    "rink": "Heartland",
    "home": "winnetka-warriors",
    "away": "chicago-stallions",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 8,
+   "awayScore": 1
   },
   {
    "id": "47",
@@ -952,7 +953,7 @@
    "start": "2026-11-08T07:20:00-06:00",
    "rink": "Robert Crown / Rink 2",
    "home": "chicago-hawks",
-   "away": null,
+   "away": "winnetka-warriors",
    "homeScore": null,
    "awayScore": null
   },
@@ -1000,7 +1001,7 @@
    "start": "2026-11-08T09:30:00-06:00",
    "rink": "Robert Crown / Rink 1",
    "home": "naperville-sabres",
-   "away": null,
+   "away": "chicago-stallions",
    "homeScore": null,
    "awayScore": null
   },

@@ -413,6 +413,15 @@
    "away": "Arizona Jr Sun Devils 11U AA (AZ)",
    "homeScore": 0,
    "awayScore": 7
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T18:30:00-06:00",
+   "home": "Winnetka Warriors (CSDHL) 11U AA (IL)",
+   "away": "Chicago Stallions 12U A2 (IL)",
+   "homeScore": 8,
+   "awayScore": 1
   }
  ],
  "stormName": "Chicago Jets",

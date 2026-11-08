@@ -246,6 +246,15 @@
   {
    "event": "ccm-world-invite-chicago",
    "date": "2026-11-07",
+   "start": "2026-11-07T16:45:00-06:00",
+   "home": "Arizona Bobcats 11U AA (AZ)",
+   "away": "Glenview Stars (CSDHL) 11U AA (IL)",
+   "homeScore": 4,
+   "awayScore": 5
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
    "start": "2026-11-07T08:15:00-06:00",
    "home": "Arizona Jr Sun Devils 11U AA (AZ)",
    "away": "Naperville Sabres 12U A2 (IL)",
@@ -260,6 +269,15 @@
    "away": "Highland Park Falcons (CSDHL) 11U AA (IL)",
    "homeScore": 4,
    "awayScore": 5
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T18:10:00-06:00",
+   "home": "Chicago Jets (CSDHL) 11U AA (IL)",
+   "away": "Allegheny Badgers (#2) 11U A (PA)",
+   "homeScore": 8,
+   "awayScore": 3
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -345,11 +363,29 @@
   {
    "event": "ccm-world-invite-chicago",
    "date": "2026-11-07",
+   "start": "2026-11-07T17:05:00-06:00",
+   "home": "Peoria Jr Mustangs 11U A1 (IL)",
+   "away": "Compuware 11U A (MI)",
+   "homeScore": 5,
+   "awayScore": 0
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
    "start": "2026-11-07T12:30:00-06:00",
    "home": "San Francisco Sabercats 12U BB (CA)",
    "away": "Chicago Stallions 12U A2 (IL)",
    "homeScore": 0,
    "awayScore": 7
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T17:55:00-06:00",
+   "home": "St Louis Knights 11U AA (MO)",
+   "away": "Highland Park Falcons (CSDHL) 11U AA (IL)",
+   "homeScore": 7,
+   "awayScore": 3
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -444,10 +480,27 @@
    "oppMhr": "Allegheny Badgers (#2) 11U A (PA)",
    "oppRating": 83.34,
    "rated": true,
+   "gf": 8,
+   "ga": 3,
+   "decision": null,
+   "rink": "Robert Crown / Rink 2",
+   "round": "playoff"
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "eventName": "CCM World Invite Chicago",
+   "kind": "tournament",
+   "date": "2026-11-08",
+   "start": "2026-11-08T08:10:00-06:00",
+   "home": true,
+   "opp": "Glenview Stars",
+   "oppMhr": "Glenview Stars (CSDHL) 11U AA (IL)",
+   "oppRating": 83.66,
+   "rated": true,
    "gf": null,
    "ga": null,
    "decision": null,
-   "rink": "Robert Crown / Rink 2",
+   "rink": "Heartland",
    "round": "playoff"
   }
  ]

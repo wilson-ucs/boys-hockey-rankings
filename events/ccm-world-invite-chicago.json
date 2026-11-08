@@ -5,7 +5,7 @@
   "dates": "November 6-8, 2026",
   "location": "Chicago area, IL",
   "timezone": "America/Chicago",
-  "updated": "2026-11-07T23:50:34Z",
+  "updated": "2026-11-08T01:12:54Z",
   "source": "https://my.200x85.com/tournaments/1a0a158e-5bf4-4e1e-93a9-01bb7e7963ba/schedules?division=990",
   "rulesSource": "https://200x85.com/ccm-world-invite/?event=Rules",
   "note": "Twenty-four teams in four pools of six, three pool games each on Friday and Saturday morning. The top four in each pool play Saturday afternoon's round of 16, pool A against D and B against C: 1st v 4th and 2nd v 3rd. Fifth and sixth play a like finisher from the paired pool. Round-of-16 winners play Sunday's quarterfinals (two 15-minute halves), losers a consolation game; the final is at 2:30 PM. Rinks: Robert Crown Center (Evanston) and Heartland. Seven teams are rated on MyHockeyRankings' 12U list, which shares one scale with 11U."
@@ -845,8 +845,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "arizona-bobcats",
    "away": "glenview-stars",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 4,
+   "awayScore": 5
   },
   {
    "id": "43",
@@ -857,8 +857,8 @@
    "rink": "Heartland",
    "home": "peoria-jr-mustangs",
    "away": "compuware",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 5,
+   "awayScore": 0
   },
   {
    "id": "44",
@@ -869,8 +869,8 @@
    "rink": "Robert Crown / Rink 1",
    "home": "st-louis-knights",
    "away": "highland-park-falcons",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 7,
+   "awayScore": 3
   },
   {
    "id": "45",
@@ -881,8 +881,8 @@
    "rink": "Robert Crown / Rink 2",
    "home": "chicago-jets",
    "away": "allegheny-badgers",
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 8,
+   "awayScore": 3
   },
   {
    "id": "46",
@@ -927,7 +927,7 @@
    "label": "Quarterfinal: winners of 43 and 40",
    "start": "2026-11-08T07:00:00-06:00",
    "rink": "Heartland",
-   "home": null,
+   "home": "peoria-jr-mustangs",
    "away": "northern-express",
    "homeScore": null,
    "awayScore": null
@@ -940,7 +940,7 @@
    "start": "2026-11-08T07:10:00-06:00",
    "rink": "Robert Crown / Rink 1",
    "home": "arizona-jr-sun-devils",
-   "away": null,
+   "away": "st-louis-knights",
    "homeScore": null,
    "awayScore": null
   },
@@ -963,8 +963,8 @@
    "label": "Quarterfinal: winners of 45 and 42",
    "start": "2026-11-08T08:10:00-06:00",
    "rink": "Heartland",
-   "home": null,
-   "away": null,
+   "home": "chicago-jets",
+   "away": "glenview-stars",
    "homeScore": null,
    "awayScore": null
   },
@@ -975,7 +975,7 @@
    "label": "Consolation: losers of 43 and 40",
    "start": "2026-11-08T08:20:00-06:00",
    "rink": "Robert Crown / Rink 1",
-   "home": null,
+   "home": "compuware",
    "away": "music-city-marauders",
    "homeScore": null,
    "awayScore": null
@@ -988,7 +988,7 @@
    "start": "2026-11-08T08:30:00-06:00",
    "rink": "Robert Crown / Rink 2",
    "home": "twin-bridges-lightning",
-   "away": null,
+   "away": "highland-park-falcons",
    "homeScore": null,
    "awayScore": null
   },
@@ -1011,8 +1011,8 @@
    "label": "Consolation: losers of 45 and 42",
    "start": "2026-11-08T09:40:00-06:00",
    "rink": "Robert Crown / Rink 2",
-   "home": null,
-   "away": null,
+   "home": "allegheny-badgers",
+   "away": "arizona-bobcats",
    "homeScore": null,
    "awayScore": null
   },

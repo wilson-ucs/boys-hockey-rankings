@@ -273,6 +273,15 @@
   {
    "event": "ccm-world-invite-chicago",
    "date": "2026-11-07",
+   "start": "2026-11-07T19:35:00-06:00",
+   "home": "Canton Wolves 11U A (MI)",
+   "away": "Cincinnati Jr Cyclones (Watson) 11U AA (OH)",
+   "homeScore": 5,
+   "awayScore": 3
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
    "start": "2026-11-07T18:10:00-06:00",
    "home": "Chicago Jets (CSDHL) 11U AA (IL)",
    "away": "Allegheny Badgers (#2) 11U A (PA)",
@@ -296,6 +305,15 @@
    "away": "Peoria Jr Mustangs 11U A1 (IL)",
    "homeScore": 1,
    "awayScore": 8
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-07",
+   "start": "2026-11-07T19:20:00-06:00",
+   "home": "Columbus Capitals (White) 11U A (OH)",
+   "away": "San Francisco Sabercats 12U BB (CA)",
+   "homeScore": 7,
+   "awayScore": 0
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -422,6 +440,105 @@
    "away": "Chicago Stallions 12U A2 (IL)",
    "homeScore": 8,
    "awayScore": 1
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T09:40:00-06:00",
+   "home": "Allegheny Badgers (#2) 11U A (PA)",
+   "away": "Arizona Bobcats 11U AA (AZ)",
+   "homeScore": 1,
+   "awayScore": 6
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T07:10:00-06:00",
+   "home": "Arizona Jr Sun Devils 11U AA (AZ)",
+   "away": "St Louis Knights 11U AA (MO)",
+   "homeScore": 4,
+   "awayScore": 3
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T07:20:00-06:00",
+   "home": "Chicago Hawks (CSDHL) 11U AA (IL)",
+   "away": "Winnetka Warriors (CSDHL) 11U AA (IL)",
+   "homeScore": 0,
+   "awayScore": 2
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T08:10:00-06:00",
+   "home": "Chicago Jets (CSDHL) 11U AA (IL)",
+   "away": "Glenview Stars (CSDHL) 11U AA (IL)",
+   "homeScore": 3,
+   "awayScore": 4
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T08:20:00-06:00",
+   "home": "Compuware 11U A (MI)",
+   "away": "Music City Marauders 11U AA (TN)",
+   "homeScore": 1,
+   "awayScore": 4
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T09:30:00-06:00",
+   "home": "Naperville Sabres 12U A2 (IL)",
+   "away": "Chicago Stallions 12U A2 (IL)",
+   "homeScore": 9,
+   "awayScore": 2
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T07:00:00-06:00",
+   "home": "Peoria Jr Mustangs 11U A1 (IL)",
+   "away": "Northern Express (CSDHL) 11U AA (IL)",
+   "homeScore": 4,
+   "awayScore": 1
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T10:40:00-06:00",
+   "home": "Peoria Jr Mustangs 11U A1 (IL)",
+   "away": "Arizona Jr Sun Devils 11U AA (AZ)",
+   "homeScore": 5,
+   "awayScore": 3
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T14:30:00-06:00",
+   "home": "Peoria Jr Mustangs 11U A1 (IL)",
+   "away": "Winnetka Warriors (CSDHL) 11U AA (IL)",
+   "homeScore": 5,
+   "awayScore": 3
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T08:30:00-06:00",
+   "home": "Twin Bridges Lightning (#1) 12U A3 (IL)",
+   "away": "Highland Park Falcons (CSDHL) 11U AA (IL)",
+   "homeScore": 2,
+   "awayScore": 3
+  },
+  {
+   "event": "ccm-world-invite-chicago",
+   "date": "2026-11-08",
+   "start": "2026-11-08T11:10:00-06:00",
+   "home": "Winnetka Warriors (CSDHL) 11U AA (IL)",
+   "away": "Glenview Stars (CSDHL) 11U AA (IL)",
+   "homeScore": 7,
+   "awayScore": 3
   }
  ],
  "stormName": "Chicago Jets",
@@ -506,9 +623,9 @@
    "oppMhr": "Glenview Stars (CSDHL) 11U AA (IL)",
    "oppRating": 83.66,
    "rated": true,
-   "gf": null,
-   "ga": null,
-   "decision": null,
+   "gf": 3,
+   "ga": 4,
+   "decision": "OT",
    "rink": "Heartland",
    "round": "playoff"
   }

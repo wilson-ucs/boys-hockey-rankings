@@ -4820,6 +4820,11 @@ function simulate(teams, games, byId, rules, groups, focusId){
       // sides the losing point, as the standings do, rather than inventing one.
       // Only a game still to be played is worth a coin toss.
       else if(g.done){ ph = pts.soLoss; pa = pts.soLoss; }
+      // Where a tie stands there is no shootout to toss for. The draw is
+      // still consumed so the random stream matches every other format.
+      else if(rules.tiesStand){
+        rand(); ph = pa = typeof rules.tie === 'number' ? rules.tie : pts.soLoss;
+      }
       else if(rand() < 0.5){ ph = pts.soWin; pa = pts.soLoss; }
       else { ph = pts.soLoss; pa = pts.soWin; }
 
@@ -5065,7 +5070,8 @@ function describeRules(rules, pts, spec, tiers, groupCount, unresolved){
   if(hasOT){
     parts.push('overtime win ' + pts.otWin, 'overtime loss ' + pts.otLoss);
   }
-  if(hasSO || !hasOT){
+  // tiesStand: a level round-robin game is a tie and nothing settles it.
+  if(!rules.tiesStand && (hasSO || !hasOT)){
     parts.push('shootout win ' + pts.soWin, 'shootout loss ' + pts.soLoss);
   }
   // DEFAULT_RULES supplies a tie value to every tournament, so the field being
@@ -5128,8 +5134,9 @@ function describeRules(rules, pts, spec, tiers, groupCount, unresolved){
            + 'redraws every rating from a normal centred on its projection with that '
            + "team's own uncertainty band, so the odds carry the projection error "
            + 'rather than pretending the ratings are exact; each remaining game then '
-           + 'draws goals from a Poisson fitted to those drawn ratings, with a '
-           + 'coin-flip shootout when they finish level. '
+           + 'draws goals from a Poisson fitted to those drawn ratings, '
+           + (rules.tiesStand ? 'and a level game stands as a tie. '
+                              : 'with a coin-flip shootout when they finish level. ')
            + 'Before any game is final the column reads a dash. '
            + '"Clinched" and "Eliminated" mean every single iteration agreed, which is '
            + 'strong evidence rather than a proof, and '

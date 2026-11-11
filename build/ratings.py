@@ -33,6 +33,10 @@ TWELVE_U = [
     # Under MHR's five-game minimum, so on no list; read off its team page
     # (t=17560), which shows a provisional rating.
     ('Twin Bridges Lightning (#1) 12U A3 (IL)', '2-2-0', 78.01),
+    # Geneva Silver Stick Regional, 27-29 November: 12U teams in a 12U A
+    # division, read off MHR's Illinois 12U list on 10 November.
+    ('West Dundee Leafs 12U A1 (IL)', '7-5-1', 81.20),
+    ('Geneva Cyclones 12U A1 (IL)', '2-11-2', 80.68),
 ]
 
 

@@ -6,6 +6,13 @@
    "name": "CCM World Invite Chicago",
    "dates": "November 6-8, 2026",
    "file": "events/ccm-world-invite-chicago.json"
+  },
+  {
+   "id": "geneva-silver-stick",
+   "kind": "tournament",
+   "name": "Geneva Silver Stick Regional",
+   "dates": "November 27-29, 2026",
+   "file": "events/geneva-silver-stick.json"
   }
  ],
  "games": [
@@ -628,6 +635,57 @@
    "decision": "OT",
    "rink": "Heartland",
    "round": "playoff"
+  },
+  {
+   "event": "geneva-silver-stick",
+   "eventName": "Geneva Silver Stick Regional",
+   "kind": "tournament",
+   "date": "2026-11-27",
+   "start": "2026-11-27T09:00:00-06:00",
+   "home": false,
+   "opp": "Geneva Cyclones",
+   "oppMhr": "Geneva Cyclones 12U A1 (IL)",
+   "oppRating": 80.68,
+   "rated": true,
+   "gf": null,
+   "ga": null,
+   "decision": null,
+   "rink": "North",
+   "round": "group"
+  },
+  {
+   "event": "geneva-silver-stick",
+   "eventName": "Geneva Silver Stick Regional",
+   "kind": "tournament",
+   "date": "2026-11-27",
+   "start": "2026-11-27T14:05:00-06:00",
+   "home": true,
+   "opp": "West Dundee Leafs",
+   "oppMhr": "West Dundee Leafs 12U A1 (IL)",
+   "oppRating": 81.2,
+   "rated": true,
+   "gf": null,
+   "ga": null,
+   "decision": null,
+   "rink": "North",
+   "round": "group"
+  },
+  {
+   "event": "geneva-silver-stick",
+   "eventName": "Geneva Silver Stick Regional",
+   "kind": "tournament",
+   "date": "2026-11-28",
+   "start": "2026-11-28T16:00:00-06:00",
+   "home": false,
+   "opp": "Crystal Lake Yellowjackets",
+   "oppMhr": "Crystal Lake Yellowjackets (CSDHL) 11U AA (IL)",
+   "oppRating": 86.48,
+   "rated": true,
+   "gf": null,
+   "ga": null,
+   "decision": null,
+   "rink": "South",
+   "round": "group"
   }
  ]
 }

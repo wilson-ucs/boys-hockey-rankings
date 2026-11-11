@@ -1,0 +1,188 @@
+{
+ "tournament": {
+  "name": "Geneva Silver Stick Regional",
+  "division": "12U A",
+  "dates": "November 27-29, 2026",
+  "location": "Geneva, IL",
+  "timezone": "America/Chicago",
+  "updated": "2026-11-10T18:00:00Z",
+  "source": "https://silverstick.org/Tournaments/33085/Divisions/33094/",
+  "rulesSource": "https://silverstick.org/Tournaments/33085/Pages/68157/Rules/",
+  "note": "Four teams in one pool, three round-robin games each on Friday and Saturday. The top two play Sunday's championship at 11:20 AM, the bottom two a consolation game at 9:00 AM. Round-robin games can end level; the championship goes to sudden-death overtime. Rinks are listed as North and South, as the tournament site prints them. Geneva and West Dundee are 12U teams, rated on MyHockeyRankings' 12U list, which shares one scale with 11U."
+ },
+ "rules": {
+  "win": 2,
+  "tie": 1,
+  "loss": 0,
+  "tiesStand": true,
+  "groups": 1,
+  "teamsPerGroup": 4,
+  "groupGamesPerTeam": 3,
+  "guarantee": 4,
+  "goldBerths": 2,
+  "silverBerths": 0,
+  "goldName": "Championship",
+  "route": "The top two in the pool play the championship; third and fourth play the consolation game.",
+  "overtime": "Three 14-minute periods. No overtime in the round robin. The championship plays sudden-death overtime in 10-minute periods until a winner. Goal differential is capped at 6 a game for seeding.",
+  "tiebreakersTwoTeams": [
+   "head-to-head",
+   "goal differential against common opponents",
+   "goal average, GF / (GF + GA), against common opponents",
+   "fewest penalty minutes",
+   "coin flip"
+  ],
+  "tiebreakersThreePlus": [
+   "goal differential against common opponents",
+   "goal average, GF / (GF + GA), against common opponents",
+   "fewest penalty minutes",
+   "coin flip"
+  ],
+  "leftover": "the Sunday consolation game",
+  "leftoverShort": "Conso",
+  "playoffNoTies": true
+ },
+ "teams": [
+  {
+   "id": "chicago-jets",
+   "name": "Chicago Jets",
+   "gsName": "Chicago Jets 2015",
+   "group": "A",
+   "rating": 84.2,
+   "band": 0.62,
+   "mhrName": "Chicago Jets (CSDHL) 11U AA (IL)",
+   "basis": "mhr",
+   "ratingForPrediction": 84.2,
+   "naRank": 105,
+   "note": ""
+  },
+  {
+   "id": "crystal-lake-yellowjackets",
+   "name": "Crystal Lake Yellowjackets",
+   "gsName": "Crystal Lake Yellowjackets 2015",
+   "group": "A",
+   "rating": 86.48,
+   "band": 0.73,
+   "mhrName": "Crystal Lake Yellowjackets (CSDHL) 11U AA (IL)",
+   "basis": "mhr",
+   "ratingForPrediction": 86.48,
+   "naRank": 61,
+   "note": ""
+  },
+  {
+   "id": "geneva-cyclones",
+   "name": "Geneva Cyclones",
+   "gsName": "Geneva Cyclones 12U A",
+   "group": "A",
+   "rating": 80.68,
+   "band": 0.73,
+   "mhrName": "Geneva Cyclones 12U A1 (IL)",
+   "basis": "mhr",
+   "ratingForPrediction": 80.68,
+   "note": "Entered as Geneva Cyclones 12U A, read as the club's first A team, MHR's 12U A1 (80.68, 2-11-2). If it is the A2 (74.93), change mhrName, rating and ratingForPrediction. On MHR's 12U list only, so no USA 11U rank."
+  },
+  {
+   "id": "west-dundee-leafs",
+   "name": "West Dundee Leafs",
+   "gsName": "West Dundee Leafs 12U A1",
+   "group": "A",
+   "rating": 81.2,
+   "band": 0.78,
+   "mhrName": "West Dundee Leafs 12U A1 (IL)",
+   "basis": "mhr",
+   "ratingForPrediction": 81.2,
+   "note": "A 12U team, on MHR's 12U list only, so no USA 11U rank."
+  }
+ ],
+ "games": [
+  {
+   "id": "5",
+   "group": "A",
+   "round": "group",
+   "start": "2026-11-27T09:00:00-06:00",
+   "rink": "North",
+   "home": "geneva-cyclones",
+   "away": "chicago-jets",
+   "homeScore": null,
+   "awayScore": null
+  },
+  {
+   "id": "6",
+   "group": "A",
+   "round": "group",
+   "start": "2026-11-27T10:10:00-06:00",
+   "rink": "North",
+   "home": "crystal-lake-yellowjackets",
+   "away": "west-dundee-leafs",
+   "homeScore": null,
+   "awayScore": null
+  },
+  {
+   "id": "3",
+   "group": "A",
+   "round": "group",
+   "start": "2026-11-27T14:05:00-06:00",
+   "rink": "North",
+   "home": "chicago-jets",
+   "away": "west-dundee-leafs",
+   "homeScore": null,
+   "awayScore": null
+  },
+  {
+   "id": "4",
+   "group": "A",
+   "round": "group",
+   "start": "2026-11-27T15:30:00-06:00",
+   "rink": "North",
+   "home": "geneva-cyclones",
+   "away": "crystal-lake-yellowjackets",
+   "homeScore": null,
+   "awayScore": null
+  },
+  {
+   "id": "9",
+   "group": "A",
+   "round": "group",
+   "start": "2026-11-28T16:00:00-06:00",
+   "rink": "South",
+   "home": "crystal-lake-yellowjackets",
+   "away": "chicago-jets",
+   "homeScore": null,
+   "awayScore": null
+  },
+  {
+   "id": "10",
+   "group": "A",
+   "round": "group",
+   "start": "2026-11-28T17:10:00-06:00",
+   "rink": "South",
+   "home": "west-dundee-leafs",
+   "away": "geneva-cyclones",
+   "homeScore": null,
+   "awayScore": null
+  },
+  {
+   "id": "13",
+   "group": null,
+   "round": "playoff",
+   "label": "Consolation: 4th @ 3rd",
+   "start": "2026-11-29T09:00:00-06:00",
+   "rink": "North",
+   "home": null,
+   "away": null,
+   "homeScore": null,
+   "awayScore": null
+  },
+  {
+   "id": "15",
+   "group": null,
+   "round": "playoff",
+   "label": "Championship: 2nd @ 1st",
+   "start": "2026-11-29T11:20:00-06:00",
+   "rink": "North",
+   "home": null,
+   "away": null,
+   "homeScore": null,
+   "awayScore": null
+  }
+ ]
+}

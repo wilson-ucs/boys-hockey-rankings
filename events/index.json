@@ -8,6 +8,15 @@
    "start": "2026-11-06",
    "end": "2026-11-08",
    "file": "events/ccm-world-invite-chicago.json"
+  },
+  {
+   "id": "geneva-silver-stick",
+   "name": "Geneva Silver Stick Regional",
+   "dates": "November 27-29, 2026",
+   "location": "Geneva, IL",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "file": "events/geneva-silver-stick.json"
   }
  ]
 }

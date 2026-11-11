@@ -77,7 +77,15 @@ This exists only in this copy; `derive_from_girls.py` adds it.
 | Event | Source | How |
 |---|---|---|
 | CCM World Invite Chicago (2015 Ribcor) | my.200x85.com (Regystra), division 990 | built-in browser, page text |
+| Geneva Silver Stick Regional (12U A) | silverstick.org, tournament 33085, division 33094 | built-in browser, page text |
 
 The 200x85 schedule prints `HOME` then `VISITOR`, and the file keeps that
 order. Playoff slots are named for places (`B1st` v `C4th`) and game winners,
 and the file carries them as labels with no teams until they fill.
+
+silverstick.org is the same platform as scgha.com: it prints `Away @ Home`, so
+the second team is the file's home, and the game ids are the site's numbers.
+Its rinks are printed only as `North` and `South`, and the file keeps that.
+The Silver Stick round robin is win 2, tie 1, loss 0 with no overtime, so the
+file sets `rules.tiesStand` (see the girls' CLAUDE.md). Geneva Cyclones "12U
+A" is read as MHR's 12U A1, not the A2; the team's `note` says so.

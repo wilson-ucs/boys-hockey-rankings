@@ -3545,6 +3545,28 @@
    "usa": false,
    "na": false,
    "rank": null
+  },
+  {
+   "n": "West Dundee Leafs 12U A1 (IL)",
+   "proj": 81.2,
+   "band": 0.78,
+   "live": 81.2,
+   "liveBand": 0.78,
+   "mgp": 13,
+   "usa": false,
+   "na": false,
+   "rank": null
+  },
+  {
+   "n": "Geneva Cyclones 12U A1 (IL)",
+   "proj": 80.68,
+   "band": 0.73,
+   "live": 80.68,
+   "liveBand": 0.73,
+   "mgp": 15,
+   "usa": false,
+   "na": false,
+   "rank": null
   }
  ]
 }

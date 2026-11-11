@@ -1,3572 +1,7508 @@
 {
  "live": {
-  "asOf": "2026-11-04",
+  "asOf": "2026-11-11",
   "source": "MyHockeyRankings USA 11U and 12U"
  },
+ "snapshots": [
+  {
+   "asOf": "2026-11-04",
+   "teams": 324
+  },
+  {
+   "asOf": "2026-11-11",
+   "teams": 326
+  }
+ ],
  "teams": [
   {
    "n": "Little Caesars 11U AAA (MI)",
    "proj": 95.26,
    "band": 0.59,
-   "live": 95.26,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 1
+   "rank": 1,
+   "snaps": {
+    "2026-11-04": [
+     95.26,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     94.67,
+     0.53,
+     28
+    ]
+   },
+   "live": 94.67,
+   "liveBand": 0.53,
+   "mgp": 28
   },
   {
    "n": "Pittsburgh Penguins Elite (Mueller) 11U AAA (PA)",
    "proj": 94.01,
    "band": 0.55,
-   "live": 94.01,
-   "liveBand": 0.55,
-   "mgp": 26,
    "usa": true,
    "na": true,
-   "rank": 2
+   "rank": 2,
+   "snaps": {
+    "2026-11-04": [
+     94.01,
+     0.55,
+     26
+    ],
+    "2026-11-11": [
+     93.71,
+     0.51,
+     31
+    ]
+   },
+   "live": 93.71,
+   "liveBand": 0.51,
+   "mgp": 31
   },
   {
    "n": "Worcester Shamrocks 11U AAA (MA)",
    "proj": 93.64,
    "band": 0.53,
-   "live": 93.64,
-   "liveBand": 0.53,
-   "mgp": 29,
    "usa": true,
    "na": true,
-   "rank": 3
+   "rank": 3,
+   "snaps": {
+    "2026-11-04": [
+     93.64,
+     0.53,
+     29
+    ],
+    "2026-11-11": [
+     93.65,
+     0.48,
+     35
+    ]
+   },
+   "live": 93.65,
+   "liveBand": 0.48,
+   "mgp": 35
   },
   {
    "n": "Boston Jr Eagles (Elite) 11U AAA (MA)",
    "proj": 93.31,
    "band": 0.58,
-   "live": 93.31,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 4
+   "rank": 6,
+   "snaps": {
+    "2026-11-04": [
+     93.31,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     93.01,
+     0.55,
+     26
+    ]
+   },
+   "live": 93.01,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "Lovell Winter Club (Elite) 11U AAA (MA)",
    "proj": 93.29,
    "band": 0.59,
-   "live": 93.29,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 5
+   "rank": 5,
+   "snaps": {
+    "2026-11-04": [
+     93.29,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     93.19,
+     0.57,
+     25
+    ]
+   },
+   "live": 93.19,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Mid-Fairfield Hockey Club (Elite) 11U AAA (CT)",
    "proj": 93.2,
    "band": 0.59,
-   "live": 93.2,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 6
+   "rank": 4,
+   "snaps": {
+    "2026-11-04": [
+     93.2,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     93.29,
+     0.53,
+     29
+    ]
+   },
+   "live": 93.29,
+   "liveBand": 0.53,
+   "mgp": 29
   },
   {
    "n": "Chicago Mission 11U AAA (IL)",
    "proj": 92.63,
    "band": 0.63,
-   "live": 92.63,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 7
+   "rank": 9,
+   "snaps": {
+    "2026-11-04": [
+     92.63,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     92.3,
+     0.59,
+     23
+    ]
+   },
+   "live": 92.3,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Dallas Stars Elite 11U AAA (TX)",
    "proj": 92.53,
    "band": 0.53,
-   "live": 92.53,
-   "liveBand": 0.53,
-   "mgp": 28,
    "usa": true,
    "na": true,
-   "rank": 8
+   "rank": 7,
+   "snaps": {
+    "2026-11-04": [
+     92.53,
+     0.53,
+     28
+    ],
+    "2026-11-11": [
+     92.45,
+     0.53,
+     29
+    ]
+   },
+   "live": 92.45,
+   "liveBand": 0.53,
+   "mgp": 29
   },
   {
    "n": "South Shore Kings (Elite) 11U AAA (MA)",
    "proj": 92.51,
    "band": 0.58,
-   "live": 92.51,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 9
+   "rank": 8,
+   "snaps": {
+    "2026-11-04": [
+     92.51,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     92.36,
+     0.55,
+     26
+    ]
+   },
+   "live": 92.36,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "St Louis Blues 11U AAA (MO)",
    "proj": 92.08,
    "band": 0.5,
-   "live": 92.08,
-   "liveBand": 0.5,
-   "mgp": 32,
    "usa": true,
    "na": true,
-   "rank": 10
+   "rank": 11,
+   "snaps": {
+    "2026-11-04": [
+     92.08,
+     0.5,
+     32
+    ],
+    "2026-11-11": [
+     91.9,
+     0.46,
+     37
+    ]
+   },
+   "live": 91.9,
+   "liveBand": 0.46,
+   "mgp": 37
   },
   {
    "n": "Providence Capitals (Elite) 11U AAA (RI)",
    "proj": 92.06,
    "band": 0.6,
-   "live": 92.06,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 11
+   "rank": 13,
+   "snaps": {
+    "2026-11-04": [
+     92.06,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     91.8,
+     0.59,
+     23
+    ]
+   },
+   "live": 91.8,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Top Gun (Elite) 11U AAA (MA)",
    "proj": 92.05,
    "band": 0.67,
-   "live": 92.05,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 12
+   "rank": 10,
+   "snaps": {
+    "2026-11-04": [
+     92.05,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     92.06,
+     0.63,
+     20
+    ]
+   },
+   "live": 92.06,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Biggby Coffee 11U AAA (MI)",
    "proj": 91.83,
    "band": 0.59,
-   "live": 91.83,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 13
+   "rank": 12,
+   "snaps": {
+    "2026-11-04": [
+     91.83,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     91.85,
+     0.53,
+     28
+    ]
+   },
+   "live": 91.85,
+   "liveBand": 0.53,
+   "mgp": 28
   },
   {
    "n": "Florida Surf 11U AAA (FL)",
    "proj": 91.64,
    "band": 0.67,
-   "live": 91.64,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 14
+   "rank": 14,
+   "snaps": {
+    "2026-11-04": [
+     91.64,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     91.68,
+     0.59,
+     23
+    ]
+   },
+   "live": 91.68,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Chicago Fury 11U AAA (IL)",
    "proj": 91.34,
    "band": 0.59,
-   "live": 91.34,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 15
+   "rank": 17,
+   "snaps": {
+    "2026-11-04": [
+     91.34,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     91.23,
+     0.53,
+     28
+    ]
+   },
+   "live": 91.23,
+   "liveBand": 0.53,
+   "mgp": 28
   },
   {
    "n": "Bay State Breakers (Elite) 11U AAA (MA)",
    "proj": 91.18,
    "band": 0.62,
-   "live": 91.18,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 16
+   "rank": 16,
+   "snaps": {
+    "2026-11-04": [
+     91.18,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     91.3,
+     0.59,
+     23
+    ]
+   },
+   "live": 91.3,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Cleveland Barons 11U AAA (OH)",
    "proj": 91.17,
    "band": 0.6,
-   "live": 91.17,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 17
+   "rank": 15,
+   "snaps": {
+    "2026-11-04": [
+     91.17,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     91.3,
+     0.57,
+     25
+    ]
+   },
+   "live": 91.3,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Florida Alliance 11U AAA (FL)",
    "proj": 90.84,
    "band": 0.65,
-   "live": 90.84,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 18
+   "rank": 18,
+   "snaps": {
+    "2026-11-04": [
+     90.84,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     90.78,
+     0.65,
+     19
+    ]
+   },
+   "live": 90.78,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "PAL Jr Islanders (Blue) 11U AAA (NY)",
    "proj": 90.71,
    "band": 0.51,
-   "live": 90.71,
-   "liveBand": 0.51,
-   "mgp": 31,
    "usa": true,
    "na": true,
-   "rank": 19
+   "rank": 19,
+   "snaps": {
+    "2026-11-04": [
+     90.71,
+     0.51,
+     31
+    ],
+    "2026-11-11": [
+     90.58,
+     0.48,
+     35
+    ]
+   },
+   "live": 90.58,
+   "liveBand": 0.48,
+   "mgp": 35
   },
   {
    "n": "Philadelphia Hockey Club 11U AAA (NJ)",
    "proj": 90.23,
    "band": 0.65,
-   "live": 90.23,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 20
+   "rank": 23,
+   "snaps": {
+    "2026-11-04": [
+     90.23,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     90.04,
+     0.62,
+     21
+    ]
+   },
+   "live": 90.04,
+   "liveBand": 0.62,
+   "mgp": 21
   },
   {
    "n": "Oakland Jr Grizzlies 11U AAA (MI)",
    "proj": 90.16,
    "band": 0.67,
-   "live": 90.16,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 21
+   "rank": 24,
+   "snaps": {
+    "2026-11-04": [
+     90.16,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     90.03,
+     0.63,
+     20
+    ]
+   },
+   "live": 90.03,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Philadelphia Little Flyers 11U AAA (PA)",
    "proj": 90.12,
    "band": 0.54,
-   "live": 90.12,
-   "liveBand": 0.54,
-   "mgp": 27,
    "usa": true,
    "na": true,
-   "rank": 22
+   "rank": 22,
+   "snaps": {
+    "2026-11-04": [
+     90.12,
+     0.54,
+     27
+    ],
+    "2026-11-11": [
+     90.06,
+     0.52,
+     30
+    ]
+   },
+   "live": 90.06,
+   "liveBand": 0.52,
+   "mgp": 30
   },
   {
    "n": "Victory Honda 11U AAA (MI)",
    "proj": 90.12,
    "band": 0.57,
-   "live": 90.12,
-   "liveBand": 0.57,
-   "mgp": 25,
    "usa": true,
    "na": true,
-   "rank": 23
+   "rank": 20,
+   "snaps": {
+    "2026-11-04": [
+     90.12,
+     0.57,
+     25
+    ],
+    "2026-11-11": [
+     90.45,
+     0.52,
+     30
+    ]
+   },
+   "live": 90.45,
+   "liveBand": 0.52,
+   "mgp": 30
   },
   {
    "n": "Chicago Reapers 11U AAA (IL)",
    "proj": 90.05,
    "band": 0.58,
-   "live": 90.05,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 24
+   "rank": 21,
+   "snaps": {
+    "2026-11-04": [
+     90.05,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     90.29,
+     0.53,
+     28
+    ]
+   },
+   "live": 90.29,
+   "liveBand": 0.53,
+   "mgp": 28
   },
   {
    "n": "North Jersey Avalanche 11U AAA (NJ)",
    "proj": 90.04,
    "band": 0.53,
-   "live": 90.04,
-   "liveBand": 0.53,
-   "mgp": 29,
    "usa": true,
    "na": true,
-   "rank": 25
+   "rank": 26,
+   "snaps": {
+    "2026-11-04": [
+     90.04,
+     0.53,
+     29
+    ],
+    "2026-11-11": [
+     90.01,
+     0.5,
+     32
+    ]
+   },
+   "live": 90.01,
+   "liveBand": 0.5,
+   "mgp": 32
   },
   {
    "n": "Mid-Fairfield Hockey Club (T1) 11U AAA (CT)",
    "proj": 90.01,
    "band": 0.51,
-   "live": 90.01,
-   "liveBand": 0.51,
-   "mgp": 31,
    "usa": true,
    "na": true,
-   "rank": 26
+   "rank": 28,
+   "snaps": {
+    "2026-11-04": [
+     90.01,
+     0.51,
+     31
+    ],
+    "2026-11-11": [
+     89.8,
+     0.48,
+     35
+    ]
+   },
+   "live": 89.8,
+   "liveBand": 0.48,
+   "mgp": 35
   },
   {
    "n": "Buffalo Jr Sabres 11U AAA (NY)",
    "proj": 89.99,
    "band": 0.6,
-   "live": 89.99,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 27
+   "rank": 25,
+   "snaps": {
+    "2026-11-04": [
+     89.99,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     90.01,
+     0.6,
+     22
+    ]
+   },
+   "live": 90.01,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "Rochester Saints 11U AAA (NY)",
    "proj": 89.86,
    "band": 0.53,
-   "live": 89.86,
-   "liveBand": 0.53,
-   "mgp": 28,
    "usa": true,
    "na": true,
-   "rank": 28
+   "rank": 29,
+   "snaps": {
+    "2026-11-04": [
+     89.86,
+     0.53,
+     28
+    ],
+    "2026-11-11": [
+     89.8,
+     0.53,
+     28
+    ]
+   },
+   "live": 89.8,
+   "liveBand": 0.53,
+   "mgp": 28
   },
   {
    "n": "Phoenix Jr Coyotes 11U AAA (AZ)",
    "proj": 89.66,
    "band": 0.63,
-   "live": 89.66,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 29
+   "rank": 30,
+   "snaps": {
+    "2026-11-04": [
+     89.66,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     89.69,
+     0.63,
+     20
+    ]
+   },
+   "live": 89.69,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Vegas Jr Golden Knights 11U AAA (NV)",
    "proj": 89.58,
    "band": 0.57,
-   "live": 89.58,
-   "liveBand": 0.57,
-   "mgp": 25,
    "usa": true,
    "na": true,
-   "rank": 30
+   "rank": 27,
+   "snaps": {
+    "2026-11-04": [
+     89.58,
+     0.57,
+     25
+    ],
+    "2026-11-11": [
+     89.89,
+     0.52,
+     30
+    ]
+   },
+   "live": 89.89,
+   "liveBand": 0.52,
+   "mgp": 30
   },
   {
    "n": "Washington Little Capitals 11U AAA (VA)",
    "proj": 89.53,
    "band": 0.62,
-   "live": 89.53,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 31
+   "rank": 33,
+   "snaps": {
+    "2026-11-04": [
+     89.53,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     89.37,
+     0.57,
+     25
+    ]
+   },
+   "live": 89.37,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Indiana Elite 11U AAA (IN)",
    "proj": 89.49,
    "band": 0.6,
-   "live": 89.49,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 32
+   "rank": 31,
+   "snaps": {
+    "2026-11-04": [
+     89.49,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     89.5,
+     0.57,
+     25
+    ]
+   },
+   "live": 89.5,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Boston Jr Terriers (Elite) 11U AAA (MA)",
    "proj": 89.4,
    "band": 0.63,
-   "live": 89.4,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 33
+   "rank": 32,
+   "snaps": {
+    "2026-11-04": [
+     89.4,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     89.44,
+     0.6,
+     22
+    ]
+   },
+   "live": 89.44,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "Anaheim Jr Ducks (#2) 11U AA (CA)",
    "proj": 89.35,
    "band": 0.55,
-   "live": 89.35,
-   "liveBand": 0.55,
-   "mgp": 26,
    "usa": true,
    "na": true,
-   "rank": 34
+   "rank": 34,
+   "snaps": {
+    "2026-11-04": [
+     89.35,
+     0.55,
+     26
+    ],
+    "2026-11-11": [
+     89.36,
+     0.55,
+     26
+    ]
+   },
+   "live": 89.36,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "Ohio Blue Jackets 11U AAA (OH)",
    "proj": 89.06,
    "band": 0.59,
-   "live": 89.06,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 35
+   "rank": 35,
+   "snaps": {
+    "2026-11-04": [
+     89.06,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     89.21,
+     0.54,
+     27
+    ]
+   },
+   "live": 89.21,
+   "liveBand": 0.54,
+   "mgp": 27
   },
   {
    "n": "Connecticut Jr Rangers 11U AAA (CT)",
    "proj": 88.92,
    "band": 0.6,
-   "live": 88.92,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 36
+   "rank": 36,
+   "snaps": {
+    "2026-11-04": [
+     88.92,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     89.07,
+     0.55,
+     26
+    ]
+   },
+   "live": 89.07,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "Valley Jr Warriors (Elite) 11U AAA (MA)",
    "proj": 88.84,
    "band": 0.69,
-   "live": 88.84,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 37
+   "rank": 37,
+   "snaps": {
+    "2026-11-04": [
+     88.84,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     88.9,
+     0.67,
+     18
+    ]
+   },
+   "live": 88.9,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Philadelphia Flyers Elite 11U AAA (NJ)",
    "proj": 88.8,
    "band": 0.53,
-   "live": 88.8,
-   "liveBand": 0.53,
-   "mgp": 29,
    "usa": true,
    "na": true,
-   "rank": 38
+   "rank": 38,
+   "snaps": {
+    "2026-11-04": [
+     88.8,
+     0.53,
+     29
+    ],
+    "2026-11-11": [
+     88.81,
+     0.49,
+     33
+    ]
+   },
+   "live": 88.81,
+   "liveBand": 0.49,
+   "mgp": 33
   },
   {
    "n": "West Seneca Wings (Gold) 11U AA (NY)",
    "proj": 88.75,
    "band": 0.59,
-   "live": 88.75,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 39
+   "rank": 42,
+   "snaps": {
+    "2026-11-04": [
+     88.75,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     88.53,
+     0.57,
+     25
+    ]
+   },
+   "live": 88.53,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Battle Creek Bombers 11U A (MI)",
    "proj": 88.68,
    "band": 0.54,
-   "live": 88.68,
-   "liveBand": 0.54,
-   "mgp": 27,
    "usa": true,
    "na": true,
-   "rank": 40
+   "rank": 43,
+   "snaps": {
+    "2026-11-04": [
+     88.68,
+     0.54,
+     27
+    ],
+    "2026-11-11": [
+     88.51,
+     0.51,
+     31
+    ]
+   },
+   "live": 88.51,
+   "liveBand": 0.51,
+   "mgp": 31
   },
   {
    "n": "Middlesex Islanders East (Elite) 11U AAA (MA)",
    "proj": 88.63,
    "band": 0.59,
-   "live": 88.63,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 41
+   "rank": 41,
+   "snaps": {
+    "2026-11-04": [
+     88.63,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     88.54,
+     0.59,
+     23
+    ]
+   },
+   "live": 88.54,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Team Illinois 11U AAA (IL)",
    "proj": 88.54,
    "band": 0.48,
-   "live": 88.54,
-   "liveBand": 0.48,
-   "mgp": 35,
    "usa": true,
    "na": true,
-   "rank": 42
+   "rank": 40,
+   "snaps": {
+    "2026-11-04": [
+     88.54,
+     0.48,
+     35
+    ],
+    "2026-11-11": [
+     88.57,
+     0.46,
+     37
+    ]
+   },
+   "live": 88.57,
+   "liveBand": 0.46,
+   "mgp": 37
   },
   {
    "n": "Madison Capitols 11U AAA (WI)",
    "proj": 88.5,
    "band": 0.65,
-   "live": 88.5,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 43
+   "rank": 39,
+   "snaps": {
+    "2026-11-04": [
+     88.5,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     88.76,
+     0.59,
+     23
+    ]
+   },
+   "live": 88.76,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "East Coast Wizards (Elite) 11U AAA (MA)",
    "proj": 88.34,
    "band": 0.62,
-   "live": 88.34,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 44
+   "rank": 44,
+   "snaps": {
+    "2026-11-04": [
+     88.34,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     88.34,
+     0.59,
+     23
+    ]
+   },
+   "live": 88.34,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Woodbridge Wolfpack 11U AAA (NJ)",
    "proj": 87.76,
    "band": 0.57,
-   "live": 87.76,
-   "liveBand": 0.57,
-   "mgp": 25,
    "usa": true,
    "na": true,
-   "rank": 45
+   "rank": 46,
+   "snaps": {
+    "2026-11-04": [
+     87.76,
+     0.57,
+     25
+    ],
+    "2026-11-11": [
+     87.45,
+     0.53,
+     29
+    ]
+   },
+   "live": 87.45,
+   "liveBand": 0.53,
+   "mgp": 29
   },
   {
    "n": "Texas Tigers 11U AA (TX)",
    "proj": 87.6,
    "band": 0.58,
-   "live": 87.6,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 46
+   "rank": 50,
+   "snaps": {
+    "2026-11-04": [
+     87.6,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     87.22,
+     0.57,
+     25
+    ]
+   },
+   "live": 87.22,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Toledo Cherokee 11U A (OH)",
    "proj": 87.58,
    "band": 0.6,
-   "live": 87.58,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 47
+   "rank": 49,
+   "snaps": {
+    "2026-11-04": [
+     87.58,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     87.25,
+     0.53,
+     28
+    ]
+   },
+   "live": 87.25,
+   "liveBand": 0.53,
+   "mgp": 28
   },
   {
    "n": "Utica Jr Comets 11U AAA (NY)",
    "proj": 87.54,
    "band": 0.57,
-   "live": 87.54,
-   "liveBand": 0.57,
-   "mgp": 25,
    "usa": true,
    "na": true,
-   "rank": 48
+   "rank": 48,
+   "snaps": {
+    "2026-11-04": [
+     87.54,
+     0.57,
+     25
+    ],
+    "2026-11-11": [
+     87.28,
+     0.54,
+     27
+    ]
+   },
+   "live": 87.28,
+   "liveBand": 0.54,
+   "mgp": 27
   },
   {
    "n": "HB Detroit 11U AAA (MI)",
    "proj": 87.44,
    "band": 0.58,
-   "live": 87.44,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 49
+   "rank": 45,
+   "snaps": {
+    "2026-11-04": [
+     87.44,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     87.49,
+     0.55,
+     26
+    ]
+   },
+   "live": 87.49,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "Mount St Charles Jr Mounties 11U AAA (RI)",
    "proj": 87.35,
    "band": 0.65,
-   "live": 87.35,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 50
+   "rank": 51,
+   "snaps": {
+    "2026-11-04": [
+     87.35,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     87.16,
+     0.59,
+     23
+    ]
+   },
+   "live": 87.16,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Jersey Hitmen 11U AAA (NJ)",
    "proj": 87.26,
    "band": 0.62,
-   "live": 87.26,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 51
+   "rank": 57,
+   "snaps": {
+    "2026-11-04": [
+     87.26,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     86.68,
+     0.57,
+     25
+    ]
+   },
+   "live": 86.68,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Buffalo Regals 11U AAA (NY)",
    "proj": 87.26,
    "band": 0.58,
-   "live": 87.26,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 52
+   "rank": 47,
+   "snaps": {
+    "2026-11-04": [
+     87.26,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     87.37,
+     0.53,
+     28
+    ]
+   },
+   "live": 87.37,
+   "liveBand": 0.53,
+   "mgp": 28
   },
   {
    "n": "NY Dynamo 11U AAA (NY)",
    "proj": 87.12,
    "band": 0.53,
-   "live": 87.12,
-   "liveBand": 0.53,
-   "mgp": 28,
    "usa": true,
    "na": true,
-   "rank": 53
+   "rank": 53,
+   "snaps": {
+    "2026-11-04": [
+     87.12,
+     0.53,
+     28
+    ],
+    "2026-11-11": [
+     87.03,
+     0.52,
+     30
+    ]
+   },
+   "live": 87.03,
+   "liveBand": 0.52,
+   "mgp": 30
   },
   {
    "n": "Long Island Royals 11U AAA (NY)",
    "proj": 87.03,
    "band": 0.58,
-   "live": 87.03,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 54
+   "rank": 55,
+   "snaps": {
+    "2026-11-04": [
+     87.03,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     86.81,
+     0.55,
+     26
+    ]
+   },
+   "live": 86.81,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "Windy City Storm 11U AAA (IL)",
    "proj": 86.92,
    "band": 0.69,
-   "live": 86.92,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 55
+   "rank": 52,
+   "snaps": {
+    "2026-11-04": [
+     86.92,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     87.05,
+     0.63,
+     20
+    ]
+   },
+   "live": 87.05,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Syracuse Nationals 11U AAA (NY)",
    "proj": 86.67,
    "band": 0.71,
-   "live": 86.67,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 56
+   "rank": 56,
+   "snaps": {
+    "2026-11-04": [
+     86.67,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     86.79,
+     0.67,
+     18
+    ]
+   },
+   "live": 86.79,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Carolina Junior Canes 11U AAA (NC)",
    "proj": 86.61,
    "band": 0.63,
-   "live": 86.61,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 57
+   "rank": 61,
+   "snaps": {
+    "2026-11-04": [
+     86.61,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     86.36,
+     0.63,
+     20
+    ]
+   },
+   "live": 86.36,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "San Jose Jr Sharks (#3) 11U AA (CA)",
    "proj": 86.57,
    "band": 0.85,
-   "live": 86.57,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 58
+   "rank": 59,
+   "snaps": {
+    "2026-11-04": [
+     86.57,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     86.48,
+     0.73,
+     15
+    ]
+   },
+   "live": 86.48,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Queen City Royals 11U AAA (NC)",
    "proj": 86.52,
    "band": 0.59,
-   "live": 86.52,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 59
+   "rank": 70,
+   "snaps": {
+    "2026-11-04": [
+     86.52,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     86.06,
+     0.54,
+     27
+    ]
+   },
+   "live": 86.06,
+   "liveBand": 0.54,
+   "mgp": 27
   },
   {
    "n": "New England Bulldogs 11U AAA (MA)",
    "proj": 86.52,
    "band": 0.82,
-   "live": 86.52,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 60
+   "rank": 71,
+   "snaps": {
+    "2026-11-04": [
+     86.52,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     85.97,
+     0.76,
+     14
+    ]
+   },
+   "live": 85.97,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Crystal Lake Yellowjackets (CSDHL) 11U AA (IL)",
    "proj": 86.48,
    "band": 0.73,
-   "live": 86.48,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 61
+   "rank": 54,
+   "snaps": {
+    "2026-11-04": [
+     86.48,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     86.98,
+     0.65,
+     19
+    ]
+   },
+   "live": 86.98,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "CarShield 11U AAA (MO)",
    "proj": 86.47,
    "band": 0.54,
-   "live": 86.47,
-   "liveBand": 0.54,
-   "mgp": 27,
    "usa": true,
    "na": true,
-   "rank": 62
+   "rank": 63,
+   "snaps": {
+    "2026-11-04": [
+     86.47,
+     0.54,
+     27
+    ],
+    "2026-11-11": [
+     86.32,
+     0.5,
+     32
+    ]
+   },
+   "live": 86.32,
+   "liveBand": 0.5,
+   "mgp": 32
   },
   {
    "n": "Littleton Hawks 11U AA (CO)",
    "proj": 86.43,
    "band": 0.55,
-   "live": 86.43,
-   "liveBand": 0.55,
-   "mgp": 26,
    "usa": true,
    "na": true,
-   "rank": 63
+   "rank": 60,
+   "snaps": {
+    "2026-11-04": [
+     86.43,
+     0.55,
+     26
+    ],
+    "2026-11-11": [
+     86.36,
+     0.55,
+     26
+    ]
+   },
+   "live": 86.36,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "Valley Forge Minutemen 11U AAA (PA)",
    "proj": 86.41,
    "band": 0.58,
-   "live": 86.41,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 64
+   "rank": 66,
+   "snaps": {
+    "2026-11-04": [
+     86.41,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     86.27,
+     0.57,
+     25
+    ]
+   },
+   "live": 86.27,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Bay State Breakers (T1-Platinum) 11U AAA (MA)",
    "proj": 86.39,
    "band": 0.71,
-   "live": 86.39,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 65
+   "rank": 62,
+   "snaps": {
+    "2026-11-04": [
+     86.39,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     86.35,
+     0.69,
+     17
+    ]
+   },
+   "live": 86.35,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "New Jersey Devils 11U AAA (NJ)",
    "proj": 86.37,
    "band": 0.55,
-   "live": 86.37,
-   "liveBand": 0.55,
-   "mgp": 26,
    "usa": true,
    "na": true,
-   "rank": 66
+   "rank": 64,
+   "snaps": {
+    "2026-11-04": [
+     86.37,
+     0.55,
+     26
+    ],
+    "2026-11-11": [
+     86.29,
+     0.54,
+     27
+    ]
+   },
+   "live": 86.29,
+   "liveBand": 0.54,
+   "mgp": 27
   },
   {
    "n": "New York City Hockey Club 11U AAA (NY)",
    "proj": 86.31,
    "band": 0.6,
-   "live": 86.31,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 67
+   "rank": 58,
+   "snaps": {
+    "2026-11-04": [
+     86.31,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     86.5,
+     0.55,
+     26
+    ]
+   },
+   "live": 86.5,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "Philadelphia Jr Flyers 11U AAA (PA)",
    "proj": 86.12,
    "band": 0.62,
-   "live": 86.12,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 68
+   "rank": 65,
+   "snaps": {
+    "2026-11-04": [
+     86.12,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     86.28,
+     0.59,
+     23
+    ]
+   },
+   "live": 86.28,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Casco Bay Mariners 11U AAA (ME)",
    "proj": 86.11,
    "band": 0.69,
-   "live": 86.11,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 69
+   "rank": 69,
+   "snaps": {
+    "2026-11-04": [
+     86.11,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     86.06,
+     0.65,
+     19
+    ]
+   },
+   "live": 86.06,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Lake County Vipers (CSDHL) 11U AA (IL)",
    "proj": 86.11,
    "band": 0.54,
-   "live": 86.11,
-   "liveBand": 0.54,
-   "mgp": 27,
    "usa": true,
    "na": true,
-   "rank": 70
+   "rank": 67,
+   "snaps": {
+    "2026-11-04": [
+     86.11,
+     0.54,
+     27
+    ],
+    "2026-11-11": [
+     86.24,
+     0.49,
+     33
+    ]
+   },
+   "live": 86.24,
+   "liveBand": 0.49,
+   "mgp": 33
   },
   {
    "n": "Cleveland Barons 11U AA (OH)",
    "proj": 86.02,
    "band": 0.63,
-   "live": 86.02,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 71
+   "rank": 74,
+   "snaps": {
+    "2026-11-04": [
+     86.02,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     85.87,
+     0.58,
+     24
+    ]
+   },
+   "live": 85.87,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "Minuteman Flames (Elite) 11U AAA (MA)",
    "proj": 86.0,
    "band": 0.78,
-   "live": 86.0,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 72
+   "rank": 73,
+   "snaps": {
+    "2026-11-04": [
+     86.0,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     85.89,
+     0.76,
+     14
+    ]
+   },
+   "live": 85.89,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Compuware 11U AAA (MI)",
    "proj": 85.99,
    "band": 0.52,
-   "live": 85.99,
-   "liveBand": 0.52,
-   "mgp": 30,
    "usa": true,
    "na": true,
-   "rank": 73
+   "rank": 72,
+   "snaps": {
+    "2026-11-04": [
+     85.99,
+     0.52,
+     30
+    ],
+    "2026-11-11": [
+     85.97,
+     0.49,
+     34
+    ]
+   },
+   "live": 85.97,
+   "liveBand": 0.49,
+   "mgp": 34
   },
   {
    "n": "Mercer Chiefs 11U AAA (NJ)",
    "proj": 85.98,
    "band": 0.65,
-   "live": 85.98,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 74
+   "rank": 76,
+   "snaps": {
+    "2026-11-04": [
+     85.98,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     85.74,
+     0.59,
+     23
+    ]
+   },
+   "live": 85.74,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Boston Jr Terriers (T1-Platinum-Red) 11U AAA (MA)",
    "proj": 85.95,
    "band": 0.82,
-   "live": 85.95,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 75
+   "rank": 77,
+   "snaps": {
+    "2026-11-04": [
+     85.95,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     85.72,
+     0.76,
+     14
+    ]
+   },
+   "live": 85.72,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Tampa Bay Jr Lightning 11U AAA (FL)",
    "proj": 85.8,
    "band": 0.69,
-   "live": 85.8,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 76
+   "rank": 80,
+   "snaps": {
+    "2026-11-04": [
+     85.8,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     85.61,
+     0.6,
+     22
+    ]
+   },
+   "live": 85.61,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "Rochester Rattlers (Black) 11U A (MI)",
    "proj": 85.74,
    "band": 0.63,
-   "live": 85.74,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 77
+   "rank": 75,
+   "snaps": {
+    "2026-11-04": [
+     85.74,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     85.83,
+     0.57,
+     25
+    ]
+   },
+   "live": 85.83,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Wilmette Jr Trevians (CSDHL) 11U AA (IL)",
    "proj": 85.66,
    "band": 0.76,
-   "live": 85.66,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 78
+   "rank": 68,
+   "snaps": {
+    "2026-11-04": [
+     85.66,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     86.1,
+     0.67,
+     18
+    ]
+   },
+   "live": 86.1,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Belle Tire 11U AAA (MI)",
    "proj": 85.61,
    "band": 0.67,
-   "live": 85.61,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 79
+   "rank": 83,
+   "snaps": {
+    "2026-11-04": [
+     85.61,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     85.31,
+     0.59,
+     23
+    ]
+   },
+   "live": 85.31,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Boston Junior Rangers 11U AAA (MA)",
    "proj": 85.61,
    "band": 0.65,
-   "live": 85.61,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 80
+   "rank": 78,
+   "snaps": {
+    "2026-11-04": [
+     85.61,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     85.64,
+     0.62,
+     21
+    ]
+   },
+   "live": 85.64,
+   "liveBand": 0.62,
+   "mgp": 21
   },
   {
    "n": "New Jersey Colonials 11U AAA (NJ)",
    "proj": 85.57,
    "band": 0.67,
-   "live": 85.57,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 81
+   "rank": 85,
+   "snaps": {
+    "2026-11-04": [
+     85.57,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     85.2,
+     0.63,
+     20
+    ]
+   },
+   "live": 85.2,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Lancaster Firebirds 11U AA (PA)",
    "proj": 85.54,
    "band": 0.62,
-   "live": 85.54,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 82
+   "rank": 79,
+   "snaps": {
+    "2026-11-04": [
+     85.54,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     85.63,
+     0.58,
+     24
+    ]
+   },
+   "live": 85.63,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "Boston Advantage (Elite) 11U AAA (MA)",
    "proj": 85.51,
    "band": 0.78,
-   "live": 85.51,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 83
+   "rank": 82,
+   "snaps": {
+    "2026-11-04": [
+     85.51,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     85.34,
+     0.76,
+     14
+    ]
+   },
+   "live": 85.34,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Nashville Jr Predators 11U AAA (TN)",
    "proj": 85.36,
    "band": 0.54,
-   "live": 85.36,
-   "liveBand": 0.54,
-   "mgp": 27,
    "usa": true,
    "na": true,
-   "rank": 84
+   "rank": 87,
+   "snaps": {
+    "2026-11-04": [
+     85.36,
+     0.54,
+     27
+    ],
+    "2026-11-11": [
+     85.1,
+     0.51,
+     31
+    ]
+   },
+   "live": 85.1,
+   "liveBand": 0.51,
+   "mgp": 31
   },
   {
    "n": "Oakland Jr Grizzlies 11U A (MI)",
    "proj": 85.35,
    "band": 0.62,
-   "live": 85.35,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 85
+   "rank": 81,
+   "snaps": {
+    "2026-11-04": [
+     85.35,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     85.49,
+     0.57,
+     25
+    ]
+   },
+   "live": 85.49,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Amherst Knights 11U AAA (NY)",
    "proj": 85.35,
    "band": 0.67,
-   "live": 85.35,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 86
+   "rank": 86,
+   "snaps": {
+    "2026-11-04": [
+     85.35,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     85.13,
+     0.62,
+     21
+    ]
+   },
+   "live": 85.13,
+   "liveBand": 0.62,
+   "mgp": 21
   },
   {
    "n": "Lehigh Valley Phantoms 11U AAA (PA)",
    "proj": 85.34,
    "band": 0.62,
-   "live": 85.34,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 87
+   "rank": 92,
+   "snaps": {
+    "2026-11-04": [
+     85.34,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     84.92,
+     0.57,
+     25
+    ]
+   },
+   "live": 84.92,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Boston Jr Terriers (T1-Platinum-White) 11U AAA (MA)",
    "proj": 85.29,
    "band": 0.89,
-   "live": 85.29,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 88
+   "rank": 97,
+   "snaps": {
+    "2026-11-04": [
+     85.29,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     84.71,
+     0.73,
+     15
+    ]
+   },
+   "live": 84.71,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Boston Jr Eagles (T1) 11U AAA (MA)",
    "proj": 85.25,
    "band": 0.69,
-   "live": 85.25,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 89
+   "rank": 91,
+   "snaps": {
+    "2026-11-04": [
+     85.25,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     84.93,
+     0.67,
+     18
+    ]
+   },
+   "live": 84.93,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Pittsburgh Penguins Elite (Anderson) 11U AAA (PA)",
    "proj": 85.22,
    "band": 0.54,
-   "live": 85.22,
-   "liveBand": 0.54,
-   "mgp": 27,
    "usa": true,
    "na": true,
-   "rank": 90
+   "rank": 84,
+   "snaps": {
+    "2026-11-04": [
+     85.22,
+     0.54,
+     27
+    ],
+    "2026-11-11": [
+     85.27,
+     0.53,
+     29
+    ]
+   },
+   "live": 85.27,
+   "liveBand": 0.53,
+   "mgp": 29
   },
   {
    "n": "Connecticut Chiefs 11U AAA (CT)",
    "proj": 85.18,
    "band": 0.71,
-   "live": 85.18,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 91
+   "rank": 88,
+   "snaps": {
+    "2026-11-04": [
+     85.18,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     85.04,
+     0.63,
+     20
+    ]
+   },
+   "live": 85.04,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Wheatfield Blades 11U AA (NY)",
    "proj": 85.06,
    "band": 0.67,
-   "live": 85.06,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 92
+   "rank": 94,
+   "snaps": {
+    "2026-11-04": [
+     85.06,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     84.79,
+     0.62,
+     21
+    ]
+   },
+   "live": 84.79,
+   "liveBand": 0.62,
+   "mgp": 21
   },
   {
    "n": "Middlesex Islanders West (T1-Platinum) 11U AAA (MA)",
    "proj": 85.06,
    "band": 0.76,
-   "live": 85.06,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 93
+   "rank": 90,
+   "snaps": {
+    "2026-11-04": [
+     85.06,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     84.98,
+     0.69,
+     17
+    ]
+   },
+   "live": 84.98,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Connecticut Elite Hockey Academy 11U AAA (CT)",
    "proj": 84.94,
    "band": 0.55,
-   "live": 84.94,
-   "liveBand": 0.55,
-   "mgp": 26,
    "usa": true,
    "na": true,
-   "rank": 94
+   "rank": 89,
+   "snaps": {
+    "2026-11-04": [
+     84.94,
+     0.55,
+     26
+    ],
+    "2026-11-11": [
+     85.0,
+     0.53,
+     29
+    ]
+   },
+   "live": 85.0,
+   "liveBand": 0.53,
+   "mgp": 29
   },
   {
    "n": "Milwaukee Jr Admirals 11U AAA (WI)",
    "proj": 84.92,
    "band": 0.57,
-   "live": 84.92,
-   "liveBand": 0.57,
-   "mgp": 25,
    "usa": true,
    "na": true,
-   "rank": 95
+   "rank": 101,
+   "snaps": {
+    "2026-11-04": [
+     84.92,
+     0.57,
+     25
+    ],
+    "2026-11-11": [
+     84.62,
+     0.52,
+     30
+    ]
+   },
+   "live": 84.62,
+   "liveBand": 0.52,
+   "mgp": 30
   },
   {
    "n": "Pittsburgh Predators 11U AAA (PA)",
    "proj": 84.89,
    "band": 0.59,
-   "live": 84.89,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 96
+   "rank": 95,
+   "snaps": {
+    "2026-11-04": [
+     84.89,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     84.79,
+     0.57,
+     25
+    ]
+   },
+   "live": 84.79,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Minuteman Flames (T1-Platinum) 11U AAA (MA)",
    "proj": 84.84,
    "band": 0.78,
-   "live": 84.84,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 97
+   "rank": 99,
+   "snaps": {
+    "2026-11-04": [
+     84.84,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     84.69,
+     0.73,
+     15
+    ]
+   },
+   "live": 84.69,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Dallas Penguins 11U AA (TX)",
    "proj": 84.81,
    "band": 0.59,
-   "live": 84.81,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 98
+   "rank": 98,
+   "snaps": {
+    "2026-11-04": [
+     84.81,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     84.7,
+     0.58,
+     24
+    ]
+   },
+   "live": 84.7,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "New Jersey Rockets 11U AAA (NJ)",
    "proj": 84.8,
    "band": 0.71,
-   "live": 84.8,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 99
+   "rank": 96,
+   "snaps": {
+    "2026-11-04": [
+     84.8,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     84.77,
+     0.71,
+     16
+    ]
+   },
+   "live": 84.77,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Southtowns Stars (Gold) 11U AA (NY)",
    "proj": 84.67,
    "band": 0.58,
-   "live": 84.67,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 100
+   "rank": 106,
+   "snaps": {
+    "2026-11-04": [
+     84.67,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     84.38,
+     0.54,
+     27
+    ]
+   },
+   "live": 84.38,
+   "liveBand": 0.54,
+   "mgp": 27
   },
   {
    "n": "Team Maryland 11U AAA (MD)",
    "proj": 84.64,
    "band": 0.67,
-   "live": 84.64,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 101
+   "rank": 93,
+   "snaps": {
+    "2026-11-04": [
+     84.64,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     84.8,
+     0.6,
+     22
+    ]
+   },
+   "live": 84.8,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "Greater Boston Jr Bruins 11U AAA (MA)",
    "proj": 84.64,
    "band": 0.71,
-   "live": 84.64,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 102
+   "rank": 100,
+   "snaps": {
+    "2026-11-04": [
+     84.64,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     84.67,
+     0.67,
+     18
+    ]
+   },
+   "live": 84.67,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Seacoast Spartans (T1-Upper) 11U AAA (NH)",
    "proj": 84.57,
    "band": 0.85,
-   "live": 84.57,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 103
+   "rank": 103,
+   "snaps": {
+    "2026-11-04": [
+     84.57,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     84.53,
+     0.69,
+     17
+    ]
+   },
+   "live": 84.53,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Palmyra Black Knights 11U AAA (PA)",
    "proj": 84.52,
    "band": 0.6,
-   "live": 84.52,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 104
+   "rank": 104,
+   "snaps": {
+    "2026-11-04": [
+     84.52,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     84.46,
+     0.55,
+     26
+    ]
+   },
+   "live": 84.46,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "Chicago Jets (CSDHL) 11U AA (IL)",
    "proj": 84.2,
    "band": 0.62,
-   "live": 84.2,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 105
+   "rank": 105,
+   "snaps": {
+    "2026-11-04": [
+     84.2,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     84.43,
+     0.59,
+     23
+    ]
+   },
+   "live": 84.43,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "PAL Jr Islanders (Orange) 11U AAA (NY)",
    "proj": 84.18,
    "band": 0.76,
-   "live": 84.18,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 106
+   "rank": 102,
+   "snaps": {
+    "2026-11-04": [
+     84.18,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     84.57,
+     0.63,
+     20
+    ]
+   },
+   "live": 84.57,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "South Shore Kings (T1-Platinum) 11U AAA (MA)",
    "proj": 84.18,
    "band": 0.69,
-   "live": 84.18,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 107
+   "rank": 110,
+   "snaps": {
+    "2026-11-04": [
+     84.18,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     83.82,
+     0.65,
+     19
+    ]
+   },
+   "live": 83.82,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Northern CT Nor'Easter 11U AAA (CT)",
    "proj": 84.03,
    "band": 0.69,
-   "live": 84.03,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 108
+   "rank": 116,
+   "snaps": {
+    "2026-11-04": [
+     84.03,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     83.67,
+     0.6,
+     22
+    ]
+   },
+   "live": 83.67,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "Fox Motors 11U AAA (MI)",
    "proj": 83.91,
    "band": 0.62,
-   "live": 83.91,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 109
+   "rank": 113,
+   "snaps": {
+    "2026-11-04": [
+     83.91,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     83.75,
+     0.57,
+     25
+    ]
+   },
+   "live": 83.75,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Top Gun (McGuirk) 11U AAA (MA)",
    "proj": 83.87,
    "band": 0.67,
-   "live": 83.87,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 110
+   "rank": 107,
+   "snaps": {
+    "2026-11-04": [
+     83.87,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     83.98,
+     0.65,
+     19
+    ]
+   },
+   "live": 83.98,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Chicago Hawks (CSDHL) 11U AA (IL)",
    "proj": 83.87,
    "band": 0.62,
-   "live": 83.87,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 111
+   "rank": 111,
+   "snaps": {
+    "2026-11-04": [
+     83.87,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     83.81,
+     0.58,
+     24
+    ]
+   },
+   "live": 83.81,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "Vernon Hills Ice Dogs (CSDHL) 11U AA (IL)",
    "proj": 83.79,
    "band": 0.71,
-   "live": 83.79,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 112
+   "rank": 108,
+   "snaps": {
+    "2026-11-04": [
+     83.79,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     83.92,
+     0.63,
+     20
+    ]
+   },
+   "live": 83.92,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "St Louis Sting 11U AA (MO)",
    "proj": 83.76,
    "band": 0.63,
-   "live": 83.76,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 113
+   "rank": 114,
+   "snaps": {
+    "2026-11-04": [
+     83.76,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     83.73,
+     0.58,
+     24
+    ]
+   },
+   "live": 83.73,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "LA Jr Kings (#2) 11U AA (CA)",
    "proj": 83.7,
    "band": 0.71,
-   "live": 83.7,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 114
+   "rank": 109,
+   "snaps": {
+    "2026-11-04": [
+     83.7,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     83.85,
+     0.71,
+     16
+    ]
+   },
+   "live": 83.85,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Philadelphia Genesis Hockey Club (Ruina) 11U AA (PA)",
    "proj": 83.67,
    "band": 0.57,
-   "live": 83.67,
-   "liveBand": 0.57,
-   "mgp": 25,
    "usa": true,
    "na": true,
-   "rank": 115
+   "rank": 118,
+   "snaps": {
+    "2026-11-04": [
+     83.67,
+     0.57,
+     25
+    ],
+    "2026-11-11": [
+     83.53,
+     0.53,
+     28
+    ]
+   },
+   "live": 83.53,
+   "liveBand": 0.53,
+   "mgp": 28
   },
   {
    "n": "Glenview Stars (CSDHL) 11U AA (IL)",
    "proj": 83.66,
    "band": 0.65,
-   "live": 83.66,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 116
+   "rank": 115,
+   "snaps": {
+    "2026-11-04": [
+     83.66,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     83.7,
+     0.6,
+     22
+    ]
+   },
+   "live": 83.7,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "HB Detroit (Gold) 11U A (MI)",
    "proj": 83.56,
    "band": 0.59,
-   "live": 83.56,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 117
+   "rank": 126,
+   "snaps": {
+    "2026-11-04": [
+     83.56,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     83.08,
+     0.54,
+     27
+    ]
+   },
+   "live": 83.08,
+   "liveBand": 0.54,
+   "mgp": 27
   },
   {
    "n": "Southeast Blades 11U AAA (GA)",
    "proj": 83.56,
    "band": 0.67,
-   "live": 83.56,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 118
+   "rank": 119,
+   "snaps": {
+    "2026-11-04": [
+     83.56,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     83.31,
+     0.67,
+     18
+    ]
+   },
+   "live": 83.31,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Great Lakes HC 11U AA (WI)",
    "proj": 83.55,
    "band": 0.71,
-   "live": 83.55,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 119
+   "rank": 117,
+   "snaps": {
+    "2026-11-04": [
+     83.55,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     83.57,
+     0.71,
+     16
+    ]
+   },
+   "live": 83.57,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Hartland Huskies (Black) 11U A (MI)",
    "proj": 83.38,
    "band": 0.57,
-   "live": 83.38,
-   "liveBand": 0.57,
-   "mgp": 25,
    "usa": true,
    "na": true,
-   "rank": 120
+   "rank": 125,
+   "snaps": {
+    "2026-11-04": [
+     83.38,
+     0.57,
+     25
+    ],
+    "2026-11-11": [
+     83.09,
+     0.53,
+     29
+    ]
+   },
+   "live": 83.09,
+   "liveBand": 0.53,
+   "mgp": 29
   },
   {
    "n": "Darien Youth 11U AA (CT)",
    "proj": 83.28,
    "band": 0.6,
-   "live": 83.28,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 121
+   "rank": 120,
+   "snaps": {
+    "2026-11-04": [
+     83.28,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     83.25,
+     0.6,
+     22
+    ]
+   },
+   "live": 83.25,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "St Louis Knights 11U AA (MO)",
    "proj": 83.23,
    "band": 0.53,
-   "live": 83.23,
-   "liveBand": 0.53,
-   "mgp": 28,
    "usa": true,
    "na": true,
-   "rank": 122
+   "rank": 123,
+   "snaps": {
+    "2026-11-04": [
+     83.23,
+     0.53,
+     28
+    ],
+    "2026-11-11": [
+     83.13,
+     0.49,
+     33
+    ]
+   },
+   "live": 83.13,
+   "liveBand": 0.49,
+   "mgp": 33
   },
   {
    "n": "Danbury Jr Hat Tricks 11U AAA (CT)",
    "proj": 83.19,
    "band": 0.59,
-   "live": 83.19,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 123
+   "rank": 122,
+   "snaps": {
+    "2026-11-04": [
+     83.19,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     83.16,
+     0.54,
+     27
+    ]
+   },
+   "live": 83.16,
+   "liveBand": 0.54,
+   "mgp": 27
   },
   {
    "n": "Boston Americans 11U AAA (MA)",
    "proj": 83.15,
    "band": 0.78,
-   "live": 83.15,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 124
+   "rank": 112,
+   "snaps": {
+    "2026-11-04": [
+     83.15,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     83.79,
+     0.73,
+     15
+    ]
+   },
+   "live": 83.79,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Winnetka Warriors (CSDHL) 11U AA (IL)",
    "proj": 83.09,
    "band": 0.73,
-   "live": 83.09,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 125
+   "rank": 130,
+   "snaps": {
+    "2026-11-04": [
+     83.09,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     82.9,
+     0.65,
+     19
+    ]
+   },
+   "live": 82.9,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Beaver County Badgers (#1) 11U AA (PA)",
    "proj": 83.04,
    "band": 0.59,
-   "live": 83.04,
-   "liveBand": 0.59,
-   "mgp": 23,
    "usa": true,
    "na": true,
-   "rank": 126
+   "rank": 127,
+   "snaps": {
+    "2026-11-04": [
+     83.04,
+     0.59,
+     23
+    ],
+    "2026-11-11": [
+     82.95,
+     0.54,
+     27
+    ]
+   },
+   "live": 82.95,
+   "liveBand": 0.54,
+   "mgp": 27
   },
   {
    "n": "Greater Boston Vipers 11U AAA (MA)",
    "proj": 82.97,
    "band": 0.69,
-   "live": 82.97,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 127
+   "rank": 121,
+   "snaps": {
+    "2026-11-04": [
+     82.97,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     83.2,
+     0.65,
+     19
+    ]
+   },
+   "live": 83.2,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Yale Bulldogs 11U AAA (CT)",
    "proj": 82.96,
    "band": 0.63,
-   "live": 82.96,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 128
+   "rank": 139,
+   "snaps": {
+    "2026-11-04": [
+     82.96,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     82.52,
+     0.59,
+     23
+    ]
+   },
+   "live": 82.52,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Arizona Jr Sun Devils 11U AA (AZ)",
    "proj": 82.92,
    "band": 0.69,
-   "live": 82.92,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 129
+   "rank": 124,
+   "snaps": {
+    "2026-11-04": [
+     82.92,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     83.09,
+     0.59,
+     23
+    ]
+   },
+   "live": 83.09,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Chicago Phantoms 11U AAA (IL)",
    "proj": 82.9,
    "band": 0.65,
-   "live": 82.9,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 130
+   "rank": 133,
+   "snaps": {
+    "2026-11-04": [
+     82.9,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     82.79,
+     0.59,
+     23
+    ]
+   },
+   "live": 82.79,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Mass Bay Chiefs (Indep) 11U AAA (MA)",
    "proj": 82.89,
    "band": 1.0,
-   "live": 82.89,
-   "liveBand": 1.0,
-   "mgp": 8,
    "usa": true,
    "na": true,
-   "rank": 131
+   "rank": 137,
+   "snaps": {
+    "2026-11-04": [
+     82.89,
+     1.0,
+     8
+    ],
+    "2026-11-11": [
+     82.63,
+     0.85,
+     11
+    ]
+   },
+   "live": 82.63,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Sylvania North Stars 11U AA (OH)",
    "proj": 82.85,
    "band": 0.63,
-   "live": 82.85,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 132
+   "rank": 134,
+   "snaps": {
+    "2026-11-04": [
+     82.85,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     82.78,
+     0.58,
+     24
+    ]
+   },
+   "live": 82.78,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "Orchard Lake 11U A (MI)",
    "proj": 82.82,
    "band": 0.82,
-   "live": 82.82,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 133
+   "rank": 132,
+   "snaps": {
+    "2026-11-04": [
+     82.82,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     82.81,
+     0.76,
+     14
+    ]
+   },
+   "live": 82.81,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Music City Marauders 11U AA (TN)",
    "proj": 82.81,
    "band": 0.58,
-   "live": 82.81,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 134
+   "rank": 138,
+   "snaps": {
+    "2026-11-04": [
+     82.81,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     82.53,
+     0.53,
+     29
+    ]
+   },
+   "live": 82.53,
+   "liveBand": 0.53,
+   "mgp": 29
   },
   {
    "n": "Springfield Jr Thunderbirds (Elite #1) 11U AAA (MA)",
    "proj": 82.81,
    "band": 0.65,
-   "live": 82.81,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 135
+   "rank": 131,
+   "snaps": {
+    "2026-11-04": [
+     82.81,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     82.83,
+     0.65,
+     19
+    ]
+   },
+   "live": 82.83,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Buffalo Bisons 11U AA (NY)",
    "proj": 82.74,
    "band": 0.67,
-   "live": 82.74,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 136
+   "rank": 135,
+   "snaps": {
+    "2026-11-04": [
+     82.74,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     82.74,
+     0.65,
+     19
+    ]
+   },
+   "live": 82.74,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Assabet Valley Patriots (Elite) 11U AAA (MA)",
    "proj": 82.71,
    "band": 0.71,
-   "live": 82.71,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 137
+   "rank": 128,
+   "snaps": {
+    "2026-11-04": [
+     82.71,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     82.94,
+     0.65,
+     19
+    ]
+   },
+   "live": 82.94,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Middlesex Islanders East (T1-Platinum) 11U AAA (MA)",
    "proj": 82.62,
    "band": 0.76,
-   "live": 82.62,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 138
+   "rank": 142,
+   "snaps": {
+    "2026-11-04": [
+     82.62,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     82.46,
+     0.73,
+     15
+    ]
+   },
+   "live": 82.46,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Rochester Aces (Annechino) 11U AA (NY)",
    "proj": 82.52,
    "band": 0.73,
-   "live": 82.52,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 139
+   "rank": 136,
+   "snaps": {
+    "2026-11-04": [
+     82.52,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     82.64,
+     0.69,
+     17
+    ]
+   },
+   "live": 82.64,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Canton Steel 11U AA (NY)",
    "proj": 82.5,
    "band": 0.85,
-   "live": 82.5,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 140
+   "rank": 143,
+   "snaps": {
+    "2026-11-04": [
+     82.5,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     82.41,
+     0.82,
+     12
+    ]
+   },
+   "live": 82.41,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Ashburn Xtreme (Upper) 11U A (VA)",
    "proj": 82.36,
    "band": 0.62,
-   "live": 82.36,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 141
+   "rank": 140,
+   "snaps": {
+    "2026-11-04": [
+     82.36,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     82.47,
+     0.58,
+     24
+    ]
+   },
+   "live": 82.47,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "Northern Cyclones Academy (T1-Upper) 11U AAA (NH)",
    "proj": 82.33,
    "band": 0.73,
-   "live": 82.33,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 142
+   "rank": 141,
+   "snaps": {
+    "2026-11-04": [
+     82.33,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     82.46,
+     0.73,
+     15
+    ]
+   },
+   "live": 82.46,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Northern Express (CSDHL) 11U AA (IL)",
    "proj": 82.28,
    "band": 0.65,
-   "live": 82.28,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 143
+   "rank": 145,
+   "snaps": {
+    "2026-11-04": [
+     82.28,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     82.35,
+     0.58,
+     24
+    ]
+   },
+   "live": 82.35,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "St Louis Eagles 11U AA (MO)",
    "proj": 82.1,
    "band": 0.67,
-   "live": 82.1,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 144
+   "rank": 147,
+   "snaps": {
+    "2026-11-04": [
+     82.1,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     82.11,
+     0.67,
+     18
+    ]
+   },
+   "live": 82.11,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Rhode Island Saints (Elite) 11U AAA (RI)",
    "proj": 82.08,
    "band": 0.6,
-   "live": 82.08,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 145
+   "rank": 144,
+   "snaps": {
+    "2026-11-04": [
+     82.08,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     82.38,
+     0.58,
+     24
+    ]
+   },
+   "live": 82.38,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "Hartland Huskies (Silver) 11U A (MI)",
    "proj": 82.04,
    "band": 0.76,
-   "live": 82.04,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 146
+   "rank": 150,
+   "snaps": {
+    "2026-11-04": [
+     82.04,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     82.02,
+     0.71,
+     16
+    ]
+   },
+   "live": 82.02,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "AY NorthStars (T1-Platinum) 11U AAA (MA)",
    "proj": 82.01,
    "band": 0.73,
-   "live": 82.01,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 147
+   "rank": 149,
+   "snaps": {
+    "2026-11-04": [
+     82.01,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     82.07,
+     0.69,
+     17
+    ]
+   },
+   "live": 82.07,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Detroit Bulldogs (Gold) 11U A (MI)",
    "proj": 82.01,
    "band": 0.71,
-   "live": 82.01,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 148
+   "rank": 158,
+   "snaps": {
+    "2026-11-04": [
+     82.01,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     81.56,
+     0.67,
+     18
+    ]
+   },
+   "live": 81.56,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Cape Cod TA Seahawks 11U AAA (MA)",
    "proj": 81.98,
    "band": 0.76,
-   "live": 81.98,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 149
+   "rank": 146,
+   "snaps": {
+    "2026-11-04": [
+     81.98,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     82.28,
+     0.67,
+     18
+    ]
+   },
+   "live": 82.28,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Long Island Arrows 11U AAA (NY)",
    "proj": 81.9,
    "band": 0.71,
-   "live": 81.9,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 150
+   "rank": 152,
+   "snaps": {
+    "2026-11-04": [
+     81.9,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     81.74,
+     0.65,
+     19
+    ]
+   },
+   "live": 81.74,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Arizona Bobcats 11U AA (AZ)",
    "proj": 81.88,
    "band": 0.73,
-   "live": 81.88,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 151
+   "rank": 151,
+   "snaps": {
+    "2026-11-04": [
+     81.88,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     81.8,
+     0.73,
+     15
+    ]
+   },
+   "live": 81.8,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Pittsburgh Predators (#2) 11U A (PA)",
    "proj": 81.82,
    "band": 0.57,
-   "live": 81.82,
-   "liveBand": 0.57,
-   "mgp": 25,
    "usa": true,
    "na": true,
-   "rank": 152
+   "rank": 160,
+   "snaps": {
+    "2026-11-04": [
+     81.82,
+     0.57,
+     25
+    ],
+    "2026-11-11": [
+     81.52,
+     0.55,
+     26
+    ]
+   },
+   "live": 81.52,
+   "liveBand": 0.55,
+   "mgp": 26
   },
   {
    "n": "Birmingham Rangers 11U A (MI)",
    "proj": 81.79,
    "band": 0.69,
-   "live": 81.79,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 153
+   "rank": 161,
+   "snaps": {
+    "2026-11-04": [
+     81.79,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     81.43,
+     0.65,
+     19
+    ]
+   },
+   "live": 81.43,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Columbus Blue Jackets 11U AA (OH)",
    "proj": 81.68,
    "band": 0.54,
-   "live": 81.68,
-   "liveBand": 0.54,
-   "mgp": 27,
    "usa": true,
    "na": true,
-   "rank": 154
+   "rank": 156,
+   "snaps": {
+    "2026-11-04": [
+     81.68,
+     0.54,
+     27
+    ],
+    "2026-11-11": [
+     81.66,
+     0.53,
+     29
+    ]
+   },
+   "live": 81.66,
+   "liveBand": 0.53,
+   "mgp": 29
   },
   {
    "n": "Peoria Jr Mustangs 11U A1 (IL)",
    "proj": 81.58,
    "band": 0.73,
-   "live": 81.58,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 155
+   "rank": 129,
+   "snaps": {
+    "2026-11-04": [
+     81.58,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     82.92,
+     0.6,
+     22
+    ]
+   },
+   "live": 82.92,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "New Jersey Jr Titans 11U AAA (NJ)",
    "proj": 81.58,
    "band": 0.62,
-   "live": 81.58,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 156
+   "rank": 164,
+   "snaps": {
+    "2026-11-04": [
+     81.58,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     81.3,
+     0.59,
+     23
+    ]
+   },
+   "live": 81.3,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Providence Capitals South (Lheureux) 11U AAA (RI)",
    "proj": 81.57,
    "band": 0.94,
-   "live": 81.57,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 157
+   "rank": 148,
+   "snaps": {
+    "2026-11-04": [
+     81.57,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     82.08,
+     0.89,
+     10
+    ]
+   },
+   "live": 82.08,
+   "liveBand": 0.89,
+   "mgp": 10
   },
   {
    "n": "Traverse City North Stars 11U A (MI)",
    "proj": 81.56,
    "band": 0.78,
-   "live": 81.56,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 158
+   "rank": 165,
+   "snaps": {
+    "2026-11-04": [
+     81.56,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     81.16,
+     0.69,
+     17
+    ]
+   },
+   "live": 81.16,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Bay State Breakers (T1-Upper) 11U AAA (MA)",
    "proj": 81.51,
    "band": 0.71,
-   "live": 81.51,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 159
+   "rank": 154,
+   "snaps": {
+    "2026-11-04": [
+     81.51,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     81.67,
+     0.69,
+     17
+    ]
+   },
+   "live": 81.67,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Long Island Gulls 11U AAA (NY)",
    "proj": 81.48,
    "band": 0.76,
-   "live": 81.48,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 160
+   "rank": 153,
+   "snaps": {
+    "2026-11-04": [
+     81.48,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     81.69,
+     0.69,
+     17
+    ]
+   },
+   "live": 81.69,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Port Huron Flags 11U A (MI)",
    "proj": 81.35,
    "band": 0.82,
-   "live": 81.35,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 161
+   "rank": 162,
+   "snaps": {
+    "2026-11-04": [
+     81.35,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     81.39,
+     0.71,
+     16
+    ]
+   },
+   "live": 81.39,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Saginaw Jr Spirit 11U A (MI)",
    "proj": 81.34,
    "band": 0.69,
-   "live": 81.34,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 162
+   "rank": 155,
+   "snaps": {
+    "2026-11-04": [
+     81.34,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     81.66,
+     0.62,
+     21
+    ]
+   },
+   "live": 81.66,
+   "liveBand": 0.62,
+   "mgp": 21
   },
   {
    "n": "New England Knights (Elite) 11U AAA (MA)",
    "proj": 81.26,
    "band": 0.76,
-   "live": 81.26,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 163
+   "rank": 157,
+   "snaps": {
+    "2026-11-04": [
+     81.26,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     81.65,
+     0.69,
+     17
+    ]
+   },
+   "live": 81.65,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Kensington Valley Bandits 11U A (MI)",
    "proj": 81.18,
    "band": 0.67,
-   "live": 81.18,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 164
+   "rank": 170,
+   "snaps": {
+    "2026-11-04": [
+     81.18,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     80.76,
+     0.6,
+     22
+    ]
+   },
+   "live": 80.76,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "Pittsburgh (PHA) Icemen 11U AA (PA)",
    "proj": 81.14,
    "band": 0.58,
-   "live": 81.14,
-   "liveBand": 0.58,
-   "mgp": 24,
    "usa": true,
    "na": true,
-   "rank": 165
+   "rank": 167,
+   "snaps": {
+    "2026-11-04": [
+     81.14,
+     0.58,
+     24
+    ],
+    "2026-11-11": [
+     81.11,
+     0.57,
+     25
+    ]
+   },
+   "live": 81.11,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Middlesex Icemen (Elite) 11U AAA (MA)",
    "proj": 81.13,
    "band": 0.82,
-   "live": 81.13,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 166
+   "rank": 159,
+   "snaps": {
+    "2026-11-04": [
+     81.13,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     81.53,
+     0.71,
+     16
+    ]
+   },
+   "live": 81.53,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Rochester Jr Americans 11U AAA (NY)",
    "proj": 81.02,
    "band": 0.65,
-   "live": 81.02,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 167
+   "rank": 163,
+   "snaps": {
+    "2026-11-04": [
+     81.02,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     81.32,
+     0.59,
+     23
+    ]
+   },
+   "live": 81.32,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Phoenix Jr Coyotes 11U A (AZ)",
    "proj": 81.01,
    "band": 0.69,
-   "live": 81.01,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 168
+   "rank": 173,
+   "snaps": {
+    "2026-11-04": [
+     81.01,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     80.68,
+     0.69,
+     17
+    ]
+   },
+   "live": 80.68,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Downriver Otters 11U A (MI)",
    "proj": 80.93,
    "band": 0.67,
-   "live": 80.93,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 169
+   "rank": 168,
+   "snaps": {
+    "2026-11-04": [
+     80.93,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     81.09,
+     0.65,
+     19
+    ]
+   },
+   "live": 81.09,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Columbus Capitals (Blue) 11U AA (OH)",
    "proj": 80.88,
    "band": 0.63,
-   "live": 80.88,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 170
+   "rank": 174,
+   "snaps": {
+    "2026-11-04": [
+     80.88,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     80.64,
+     0.6,
+     22
+    ]
+   },
+   "live": 80.64,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "South Hills Panthers (#2) 11U A (PA)",
    "proj": 80.84,
    "band": 0.76,
-   "live": 80.84,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 171
+   "rank": 171,
+   "snaps": {
+    "2026-11-04": [
+     80.84,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     80.71,
+     0.73,
+     15
+    ]
+   },
+   "live": 80.71,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Clarence Mustangs 11U AA (NY)",
    "proj": 80.79,
    "band": 0.71,
-   "live": 80.79,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 172
+   "rank": 166,
+   "snaps": {
+    "2026-11-04": [
+     80.79,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     81.13,
+     0.65,
+     19
+    ]
+   },
+   "live": 81.13,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Boston Advantage (Select) 11U AAA (MA)",
    "proj": 80.65,
    "band": 0.85,
-   "live": 80.65,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 173
+   "rank": 172,
+   "snaps": {
+    "2026-11-04": [
+     80.65,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     80.69,
+     0.78,
+     13
+    ]
+   },
+   "live": 80.69,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Grand Rapids Griffins 11U A (MI)",
    "proj": 80.44,
    "band": 0.69,
-   "live": 80.44,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 174
+   "rank": 175,
+   "snaps": {
+    "2026-11-04": [
+     80.44,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     80.56,
+     0.65,
+     19
+    ]
+   },
+   "live": 80.56,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Boston Jr Falcons 11U AAA (MA)",
    "proj": 80.43,
    "band": 0.85,
-   "live": 80.43,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 175
+   "rank": 169,
+   "snaps": {
+    "2026-11-04": [
+     80.43,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     80.84,
+     0.78,
+     13
+    ]
+   },
+   "live": 80.84,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Fort Wayne Force (Blue) 11U A (IN)",
    "proj": 80.34,
    "band": 0.78,
-   "live": 80.34,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 176
+   "rank": 179,
+   "snaps": {
+    "2026-11-04": [
+     80.34,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     80.12,
+     0.78,
+     13
+    ]
+   },
+   "live": 80.12,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Carolina Junior Canes (Black) 11U AA (NC)",
    "proj": 80.21,
    "band": 0.78,
-   "live": 80.21,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 177
+   "rank": 177,
+   "snaps": {
+    "2026-11-04": [
+     80.21,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     80.28,
+     0.73,
+     15
+    ]
+   },
+   "live": 80.28,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "MassConn United 11U AAA (CT)",
    "proj": 80.19,
    "band": 0.67,
-   "live": 80.19,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 178
+   "rank": 176,
+   "snaps": {
+    "2026-11-04": [
+     80.19,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     80.29,
+     0.65,
+     19
+    ]
+   },
+   "live": 80.29,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Northwest Chargers (CSDHL) 11U AA (IL)",
    "proj": 80.18,
    "band": 0.67,
-   "live": 80.18,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 179
+   "rank": 178,
+   "snaps": {
+    "2026-11-04": [
+     80.18,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     80.19,
+     0.62,
+     21
+    ]
+   },
+   "live": 80.19,
+   "liveBand": 0.62,
+   "mgp": 21
   },
   {
    "n": "Team Cleveland 11U AA (OH)",
    "proj": 80.12,
    "band": 0.62,
-   "live": 80.12,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 180
+   "rank": 182,
+   "snaps": {
+    "2026-11-04": [
+     80.12,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     80.02,
+     0.59,
+     23
+    ]
+   },
+   "live": 80.02,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Orland Park Vikings (CSDHL) 11U AA (IL)",
    "proj": 79.95,
    "band": 0.78,
-   "live": 79.95,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 181
+   "rank": 185,
+   "snaps": {
+    "2026-11-04": [
+     79.95,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     79.8,
+     0.69,
+     17
+    ]
+   },
+   "live": 79.8,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Rochester Rattlers (Purple) 11U A (MI)",
    "proj": 79.89,
    "band": 0.71,
-   "live": 79.89,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 182
+   "rank": 189,
+   "snaps": {
+    "2026-11-04": [
+     79.89,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     79.63,
+     0.67,
+     18
+    ]
+   },
+   "live": 79.63,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Boston Jr Penguins 11U AAA (MA)",
    "proj": 79.85,
    "band": 0.89,
-   "live": 79.85,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 183
+   "rank": 183,
+   "snaps": {
+    "2026-11-04": [
+     79.85,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     80.02,
+     0.85,
+     11
+    ]
+   },
+   "live": 80.02,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "South Shore Dynamos 11U AAA (MA)",
    "proj": 79.85,
    "band": 0.78,
-   "live": 79.85,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 184
+   "rank": 180,
+   "snaps": {
+    "2026-11-04": [
+     79.85,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     80.08,
+     0.76,
+     14
+    ]
+   },
+   "live": 80.08,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Rochester Coalition 11U AAA (NY)",
    "proj": 79.83,
    "band": 0.76,
-   "live": 79.83,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 185
+   "rank": 181,
+   "snaps": {
+    "2026-11-04": [
+     79.83,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     80.06,
+     0.73,
+     15
+    ]
+   },
+   "live": 80.06,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "New Hampshire Avalanche (Elite) 11U AAA (NH)",
    "proj": 79.65,
    "band": 0.78,
-   "live": 79.65,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 186
+   "rank": 184,
+   "snaps": {
+    "2026-11-04": [
+     79.65,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     79.81,
+     0.76,
+     14
+    ]
+   },
+   "live": 79.81,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Nassau County Lions 11U A (NY)",
    "proj": 79.56,
    "band": 0.65,
-   "live": 79.56,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 187
+   "rank": 190,
+   "snaps": {
+    "2026-11-04": [
+     79.56,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     79.63,
+     0.63,
+     20
+    ]
+   },
+   "live": 79.63,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Highland Park Falcons (CSDHL) 11U AA (IL)",
    "proj": 79.53,
    "band": 0.67,
-   "live": 79.53,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 188
+   "rank": 187,
+   "snaps": {
+    "2026-11-04": [
+     79.53,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     79.7,
+     0.59,
+     23
+    ]
+   },
+   "live": 79.7,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Compuware 11U A (MI)",
    "proj": 79.24,
    "band": 0.65,
-   "live": 79.24,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 189
+   "rank": 208,
+   "snaps": {
+    "2026-11-04": [
+     79.24,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     78.48,
+     0.58,
+     24
+    ]
+   },
+   "live": 78.48,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "Crimson HC (White) 11U AA (MA)",
    "proj": 79.19,
    "band": 1.07,
-   "live": 79.19,
-   "liveBand": 1.07,
-   "mgp": 7,
    "usa": true,
    "na": true,
-   "rank": 190
+   "rank": 204,
+   "snaps": {
+    "2026-11-04": [
+     79.19,
+     1.07,
+     7
+    ],
+    "2026-11-11": [
+     78.64,
+     0.94,
+     9
+    ]
+   },
+   "live": 78.64,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "Providence Capitals North (Cuneo) 11U AAA (RI)",
    "proj": 79.09,
    "band": 0.78,
-   "live": 79.09,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 191
+   "rank": 186,
+   "snaps": {
+    "2026-11-04": [
+     79.09,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     79.73,
+     0.73,
+     15
+    ]
+   },
+   "live": 79.73,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Top Gun (Fairburn) 11U AAA (MA)",
    "proj": 79.07,
    "band": 0.89,
-   "live": 79.07,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 192
+   "rank": 191,
+   "snaps": {
+    "2026-11-04": [
+     79.07,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     79.52,
+     0.85,
+     11
+    ]
+   },
+   "live": 79.52,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Mass Bay Chiefs (Premier) 11U AA (MA)",
    "proj": 79.06,
    "band": 0.82,
-   "live": 79.06,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 193
+   "rank": 211,
+   "snaps": {
+    "2026-11-04": [
+     79.06,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     78.29,
+     0.76,
+     14
+    ]
+   },
+   "live": 78.29,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Troy Albany Titans 11U AA (NY)",
    "proj": 79.03,
    "band": 0.78,
-   "live": 79.03,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 194
+   "rank": 195,
+   "snaps": {
+    "2026-11-04": [
+     79.03,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     79.1,
+     0.73,
+     15
+    ]
+   },
+   "live": 79.1,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Walpole Express (Elite) 11U AAA (MA)",
    "proj": 79.0,
    "band": 0.89,
-   "live": 79.0,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 195
+   "rank": 199,
+   "snaps": {
+    "2026-11-04": [
+     79.0,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     78.93,
+     0.82,
+     12
+    ]
+   },
+   "live": 78.93,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "South Shore Kings (T1-Gold) 11U AAA (MA)",
    "proj": 78.96,
    "band": 0.85,
-   "live": 78.96,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 196
+   "rank": 188,
+   "snaps": {
+    "2026-11-04": [
+     78.96,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     79.64,
+     0.73,
+     15
+    ]
+   },
+   "live": 79.64,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Philadelphia Revolution 11U AAA (PA)",
    "proj": 78.95,
    "band": 0.71,
-   "live": 78.95,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 197
+   "rank": 201,
+   "snaps": {
+    "2026-11-04": [
+     78.95,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     78.82,
+     0.63,
+     20
+    ]
+   },
+   "live": 78.82,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Westchester Express (Select) 11U A (NY)",
    "proj": 78.87,
    "band": 0.65,
-   "live": 78.87,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 198
+   "rank": 194,
+   "snaps": {
+    "2026-11-04": [
+     78.87,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     79.11,
+     0.6,
+     22
+    ]
+   },
+   "live": 79.11,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "South Bend Irish Rovers 11U A (IN)",
    "proj": 78.85,
    "band": 0.69,
-   "live": 78.85,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 199
+   "rank": 197,
+   "snaps": {
+    "2026-11-04": [
+     78.85,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     79.03,
+     0.65,
+     19
+    ]
+   },
+   "live": 79.03,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Southtowns Stars (Green) 11U AA (NY)",
    "proj": 78.83,
    "band": 0.71,
-   "live": 78.83,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 200
+   "rank": 196,
+   "snaps": {
+    "2026-11-04": [
+     78.83,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     79.04,
+     0.69,
+     17
+    ]
+   },
+   "live": 79.04,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Worcester Jr Railers (Elite) 11U AAA (MA)",
    "proj": 78.72,
    "band": 1.0,
-   "live": 78.72,
-   "liveBand": 1.0,
-   "mgp": 8,
    "usa": true,
    "na": true,
-   "rank": 201
+   "rank": 192,
+   "snaps": {
+    "2026-11-04": [
+     78.72,
+     1.0,
+     8
+    ],
+    "2026-11-11": [
+     79.41,
+     0.94,
+     9
+    ]
+   },
+   "live": 79.41,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "Montgomery Ice Devils (Upper-Gold) 11U A (MD)",
    "proj": 78.65,
    "band": 0.6,
-   "live": 78.65,
-   "liveBand": 0.6,
-   "mgp": 22,
    "usa": true,
    "na": true,
-   "rank": 202
+   "rank": 210,
+   "snaps": {
+    "2026-11-04": [
+     78.65,
+     0.6,
+     22
+    ],
+    "2026-11-11": [
+     78.38,
+     0.57,
+     25
+    ]
+   },
+   "live": 78.38,
+   "liveBand": 0.57,
+   "mgp": 25
   },
   {
    "n": "Little Caesars Farmington Hills (Black) 11U A (MI)",
    "proj": 78.64,
    "band": 0.63,
-   "live": 78.64,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 203
+   "rank": 203,
+   "snaps": {
+    "2026-11-04": [
+     78.64,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     78.75,
+     0.6,
+     22
+    ]
+   },
+   "live": 78.75,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "Hartland Huskies (White) 11U A (MI)",
    "proj": 78.6,
    "band": 0.78,
-   "live": 78.6,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 204
+   "rank": 193,
+   "snaps": {
+    "2026-11-04": [
+     78.6,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     79.19,
+     0.67,
+     18
+    ]
+   },
+   "live": 79.19,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "St Clair Shores Saints 11U A (MI)",
    "proj": 78.56,
    "band": 0.65,
-   "live": 78.56,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 205
+   "rank": 209,
+   "snaps": {
+    "2026-11-04": [
+     78.56,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     78.41,
+     0.65,
+     19
+    ]
+   },
+   "live": 78.41,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "West Seneca Wings (Blue) 11U AA (NY)",
    "proj": 78.54,
    "band": 0.65,
-   "live": 78.54,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 206
+   "rank": 206,
+   "snaps": {
+    "2026-11-04": [
+     78.54,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     78.59,
+     0.63,
+     20
+    ]
+   },
+   "live": 78.59,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Eastern Mass Senators 11U AA (MA)",
    "proj": 78.43,
    "band": 0.94,
-   "live": 78.43,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 207
+   "rank": 200,
+   "snaps": {
+    "2026-11-04": [
+     78.43,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     78.89,
+     0.85,
+     11
+    ]
+   },
+   "live": 78.89,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Middlesex Islanders East (T1-Gold) 11U AAA (MA)",
    "proj": 78.35,
    "band": 0.71,
-   "live": 78.35,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 208
+   "rank": 218,
+   "snaps": {
+    "2026-11-04": [
+     78.35,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     77.85,
+     0.63,
+     20
+    ]
+   },
+   "live": 77.85,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Springfield Jr Thunderbirds (Elite #2) 11U AAA (MA)",
    "proj": 78.26,
    "band": 0.71,
-   "live": 78.26,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 209
+   "rank": 205,
+   "snaps": {
+    "2026-11-04": [
+     78.26,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     78.6,
+     0.69,
+     17
+    ]
+   },
+   "live": 78.6,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "East Coast Wizards (Select) 11U AAA (MA)",
    "proj": 78.24,
    "band": 0.76,
-   "live": 78.24,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 210
+   "rank": 198,
+   "snaps": {
+    "2026-11-04": [
+     78.24,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     78.99,
+     0.69,
+     17
+    ]
+   },
+   "live": 78.99,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "West Kent Hawks 11U A (MI)",
    "proj": 78.22,
    "band": 0.71,
-   "live": 78.22,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 211
+   "rank": 220,
+   "snaps": {
+    "2026-11-04": [
+     78.22,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     77.82,
+     0.69,
+     17
+    ]
+   },
+   "live": 77.82,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Grand Valley Stars 11U A (MI)",
    "proj": 78.19,
    "band": 0.94,
-   "live": 78.19,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 212
+   "rank": 214,
+   "snaps": {
+    "2026-11-04": [
+     78.19,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     78.08,
+     0.89,
+     10
+    ]
+   },
+   "live": 78.08,
+   "liveBand": 0.89,
+   "mgp": 10
   },
   {
    "n": "Lakeshore Jr Lumberjacks 11U A (MI)",
    "proj": 78.13,
    "band": 0.73,
-   "live": 78.13,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 213
+   "rank": 221,
+   "snaps": {
+    "2026-11-04": [
+     78.13,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     77.79,
+     0.71,
+     16
+    ]
+   },
+   "live": 77.79,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Flint Ice Raiders 11U A (MI)",
    "proj": 78.12,
    "band": 0.76,
-   "live": 78.12,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 214
+   "rank": 212,
+   "snaps": {
+    "2026-11-04": [
+     78.12,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     78.2,
+     0.67,
+     18
+    ]
+   },
+   "live": 78.2,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Chelsea Chiefs 11U A (MI)",
    "proj": 78.11,
    "band": 0.78,
-   "live": 78.11,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 215
+   "rank": 216,
+   "snaps": {
+    "2026-11-04": [
+     78.11,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     77.87,
+     0.73,
+     15
+    ]
+   },
+   "live": 77.87,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Tonawanda Whalers 11U AA (NY)",
    "proj": 78.09,
    "band": 0.82,
-   "live": 78.09,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 216
+   "rank": 213,
+   "snaps": {
+    "2026-11-04": [
+     78.09,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     78.2,
+     0.82,
+     12
+    ]
+   },
+   "live": 78.2,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Lovell Winter Club (Select) 11U AAA (MA)",
    "proj": 78.09,
    "band": 0.85,
-   "live": 78.09,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 217
+   "rank": 202,
+   "snaps": {
+    "2026-11-04": [
+     78.09,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     78.79,
+     0.78,
+     13
+    ]
+   },
+   "live": 78.79,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Manchester Flames 11U AAA (NH)",
    "proj": 78.09,
    "band": 0.73,
-   "live": 78.09,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 218
+   "rank": 207,
+   "snaps": {
+    "2026-11-04": [
+     78.09,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     78.53,
+     0.71,
+     16
+    ]
+   },
+   "live": 78.53,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Ann Arbor Bombers 11U A (MI)",
    "proj": 77.98,
    "band": 0.69,
-   "live": 77.98,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 219
+   "rank": 215,
+   "snaps": {
+    "2026-11-04": [
+     77.98,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     78.0,
+     0.67,
+     18
+    ]
+   },
+   "live": 78.0,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "USA Eagles 11U A (MI)",
    "proj": 77.93,
    "band": 0.76,
-   "live": 77.93,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 220
+   "rank": 217,
+   "snaps": {
+    "2026-11-04": [
+     77.93,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     77.87,
+     0.71,
+     16
+    ]
+   },
+   "live": 77.87,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Cincinnati Jr Cyclones (Watson) 11U AA (OH)",
    "proj": 77.65,
    "band": 0.82,
-   "live": 77.65,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 221
+   "rank": 234,
+   "snaps": {
+    "2026-11-04": [
+     77.65,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     77.07,
+     0.76,
+     14
+    ]
+   },
+   "live": 77.07,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Fox Motors 11U A (MI)",
    "proj": 77.64,
    "band": 0.69,
-   "live": 77.64,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 222
+   "rank": 223,
+   "snaps": {
+    "2026-11-04": [
+     77.64,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     77.57,
+     0.69,
+     17
+    ]
+   },
+   "live": 77.57,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "North Pittsburgh Wildcats (#2) 11U A (PA)",
    "proj": 77.54,
    "band": 0.71,
-   "live": 77.54,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 223
+   "rank": 219,
+   "snaps": {
+    "2026-11-04": [
+     77.54,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     77.84,
+     0.67,
+     18
+    ]
+   },
+   "live": 77.84,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Boch Blazers (T1-Upper) 11U AAA (MA)",
    "proj": 77.52,
    "band": 0.85,
-   "live": 77.52,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 224
+   "rank": 224,
+   "snaps": {
+    "2026-11-04": [
+     77.52,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     77.51,
+     0.82,
+     12
+    ]
+   },
+   "live": 77.51,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Seacoast Spartans (T1-Lower) 11U AAA (NH)",
    "proj": 77.5,
    "band": 0.89,
-   "live": 77.5,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 225
+   "rank": 230,
+   "snaps": {
+    "2026-11-04": [
+     77.5,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     77.23,
+     0.89,
+     10
+    ]
+   },
+   "live": 77.23,
+   "liveBand": 0.89,
+   "mgp": 10
   },
   {
    "n": "Minuteman Flames (Deal) 11U AAA (MA)",
    "proj": 77.47,
    "band": 0.85,
-   "live": 77.47,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 226
+   "rank": 233,
+   "snaps": {
+    "2026-11-04": [
+     77.47,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     77.1,
+     0.82,
+     12
+    ]
+   },
+   "live": 77.1,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Columbus Capitals (White) 11U A (OH)",
    "proj": 77.46,
    "band": 0.65,
-   "live": 77.46,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 227
+   "rank": 229,
+   "snaps": {
+    "2026-11-04": [
+     77.46,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     77.28,
+     0.59,
+     23
+    ]
+   },
+   "live": 77.28,
+   "liveBand": 0.59,
+   "mgp": 23
   },
   {
    "n": "Mass Vikings (Premier) 11U AA (MA)",
    "proj": 77.43,
    "band": 0.94,
-   "live": 77.43,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 228
+   "rank": 225,
+   "snaps": {
+    "2026-11-04": [
+     77.43,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     77.48,
+     0.82,
+     12
+    ]
+   },
+   "live": 77.48,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Niagara Jr Purple Eagles (Maslona) 11U AA (NY)",
    "proj": 77.39,
    "band": 0.82,
-   "live": 77.39,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 229
+   "rank": 226,
+   "snaps": {
+    "2026-11-04": [
+     77.39,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     77.33,
+     0.76,
+     14
+    ]
+   },
+   "live": 77.33,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Minuteman Flames (T1-Upper) 11U AAA (MA)",
    "proj": 77.26,
    "band": 0.82,
-   "live": 77.26,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 230
+   "rank": 222,
+   "snaps": {
+    "2026-11-04": [
+     77.26,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     77.69,
+     0.78,
+     13
+    ]
+   },
+   "live": 77.69,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Ohio Prospects 11U AAA (OH)",
    "proj": 77.22,
    "band": 0.67,
-   "live": 77.22,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 231
+   "rank": 228,
+   "snaps": {
+    "2026-11-04": [
+     77.22,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     77.29,
+     0.63,
+     20
+    ]
+   },
+   "live": 77.29,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Troy Sting 11U A (MI)",
    "proj": 77.19,
    "band": 0.71,
-   "live": 77.19,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 232
+   "rank": 239,
+   "snaps": {
+    "2026-11-04": [
+     77.19,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     76.71,
+     0.67,
+     18
+    ]
+   },
+   "live": 76.71,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "New Hampshire Avalanche (Select) 11U AAA (NH)",
    "proj": 77.03,
    "band": 0.82,
-   "live": 77.03,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 233
+   "rank": 227,
+   "snaps": {
+    "2026-11-04": [
+     77.03,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     77.32,
+     0.76,
+     14
+    ]
+   },
+   "live": 77.32,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Rhode Island Saints (Select) 11U AAA (RI)",
    "proj": 76.9,
    "band": 0.78,
-   "live": 76.9,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 234
+   "rank": 240,
+   "snaps": {
+    "2026-11-04": [
+     76.9,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     76.68,
+     0.76,
+     14
+    ]
+   },
+   "live": 76.68,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Canton Wolves 11U A (MI)",
    "proj": 76.89,
    "band": 0.76,
-   "live": 76.89,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 235
+   "rank": 231,
+   "snaps": {
+    "2026-11-04": [
+     76.89,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     77.21,
+     0.67,
+     18
+    ]
+   },
+   "live": 77.21,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Rockford Rams 11U A (MI)",
    "proj": 76.89,
    "band": 0.67,
-   "live": 76.89,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 236
+   "rank": 232,
+   "snaps": {
+    "2026-11-04": [
+     76.89,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     77.16,
+     0.63,
+     20
+    ]
+   },
+   "live": 77.16,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Northeast Generals (Hickey) 11U AAA (MA)",
    "proj": 76.86,
    "band": 0.89,
-   "live": 76.86,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 237
+   "rank": 237,
+   "snaps": {
+    "2026-11-04": [
+     76.86,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     76.78,
+     0.85,
+     11
+    ]
+   },
+   "live": 76.78,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Boston Jr Terriers (Karlberg) 11U AAA (MA)",
    "proj": 76.84,
    "band": 0.85,
-   "live": 76.84,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 238
+   "rank": 242,
+   "snaps": {
+    "2026-11-04": [
+     76.84,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     76.4,
+     0.82,
+     12
+    ]
+   },
+   "live": 76.4,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "East Aurora Beast 11U AA (NY)",
    "proj": 76.81,
    "band": 0.85,
-   "live": 76.81,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 239
+   "rank": 236,
+   "snaps": {
+    "2026-11-04": [
+     76.81,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     77.02,
+     0.82,
+     12
+    ]
+   },
+   "live": 77.02,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Worcester Jr Railers (Select) 11U AAA (MA)",
    "proj": 76.67,
    "band": 0.85,
-   "live": 76.67,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 240
+   "rank": 241,
+   "snaps": {
+    "2026-11-04": [
+     76.67,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     76.41,
+     0.76,
+     14
+    ]
+   },
+   "live": 76.41,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "North Park (Kucera) 11U A (NY)",
    "proj": 76.65,
    "band": 0.76,
-   "live": 76.65,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 241
+   "rank": 238,
+   "snaps": {
+    "2026-11-04": [
+     76.65,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     76.73,
+     0.73,
+     15
+    ]
+   },
+   "live": 76.73,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "NRI Jr Sentinels 11U AA (RI)",
    "proj": 76.53,
    "band": 1.0,
-   "live": 76.53,
-   "liveBand": 1.0,
-   "mgp": 8,
    "usa": true,
    "na": true,
-   "rank": 242
+   "rank": 235,
+   "snaps": {
+    "2026-11-04": [
+     76.53,
+     1.0,
+     8
+    ],
+    "2026-11-11": [
+     77.04,
+     1.0,
+     8
+    ]
+   },
+   "live": 77.04,
+   "liveBand": 1.0,
+   "mgp": 8
   },
   {
    "n": "Middlesex Icemen (Select) 11U AAA (MA)",
    "proj": 76.39,
    "band": 0.76,
-   "live": 76.39,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 243
+   "rank": 247,
+   "snaps": {
+    "2026-11-04": [
+     76.39,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     75.99,
+     0.73,
+     15
+    ]
+   },
+   "live": 75.99,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Webster Cyclones 11U AA (NY)",
    "proj": 76.24,
    "band": 0.82,
-   "live": 76.24,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 244
+   "rank": 245,
+   "snaps": {
+    "2026-11-04": [
+     76.24,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     76.31,
+     0.82,
+     12
+    ]
+   },
+   "live": 76.31,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Bowling Green Ice Cats 11U A (OH)",
    "proj": 76.1,
    "band": 0.62,
-   "live": 76.1,
-   "liveBand": 0.62,
-   "mgp": 21,
    "usa": true,
    "na": true,
-   "rank": 245
+   "rank": 243,
+   "snaps": {
+    "2026-11-04": [
+     76.1,
+     0.62,
+     21
+    ],
+    "2026-11-11": [
+     76.35,
+     0.58,
+     24
+    ]
+   },
+   "live": 76.35,
+   "liveBand": 0.58,
+   "mgp": 24
   },
   {
    "n": "Carolina Junior Canes (Red) 11U A (NC)",
    "proj": 76.01,
    "band": 0.71,
-   "live": 76.01,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 246
+   "rank": 244,
+   "snaps": {
+    "2026-11-04": [
+     76.01,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     76.32,
+     0.63,
+     20
+    ]
+   },
+   "live": 76.32,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Columbus Blue Jackets 11U A (OH)",
    "proj": 75.87,
    "band": 0.67,
-   "live": 75.87,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 247
+   "rank": 257,
+   "snaps": {
+    "2026-11-04": [
+     75.87,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     75.22,
+     0.63,
+     20
+    ]
+   },
+   "live": 75.22,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Garden Wolves 11U A (MI)",
    "proj": 75.81,
    "band": 0.85,
-   "live": 75.81,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 248
+   "rank": 248,
+   "snaps": {
+    "2026-11-04": [
+     75.81,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     75.98,
+     0.82,
+     12
+    ]
+   },
+   "live": 75.98,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "West Haven Blue Devils 11U A (CT)",
    "proj": 75.77,
    "band": 0.67,
-   "live": 75.77,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 249
+   "rank": 252,
+   "snaps": {
+    "2026-11-04": [
+     75.77,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     75.65,
+     0.63,
+     20
+    ]
+   },
+   "live": 75.65,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Boston Jr Huskies 11U AAA (MA)",
    "proj": 75.76,
    "band": 1.0,
-   "live": 75.76,
-   "liveBand": 1.0,
-   "mgp": 8,
    "usa": true,
    "na": true,
-   "rank": 250
+   "rank": 253,
+   "snaps": {
+    "2026-11-04": [
+     75.76,
+     1.0,
+     8
+    ],
+    "2026-11-11": [
+     75.54,
+     0.94,
+     9
+    ]
+   },
+   "live": 75.54,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "North Suburban Wings 11U AA (MA)",
    "proj": 75.58,
    "band": 0.89,
-   "live": 75.58,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 251
+   "rank": 246,
+   "snaps": {
+    "2026-11-04": [
+     75.58,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     76.1,
+     0.76,
+     14
+    ]
+   },
+   "live": 76.1,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "AY NorthStars (T1-Gold) 11U AAA (MA)",
    "proj": 75.55,
    "band": 0.94,
-   "live": 75.55,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 252
+   "rank": 259,
+   "snaps": {
+    "2026-11-04": [
+     75.55,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     74.95,
+     0.85,
+     11
+    ]
+   },
+   "live": 74.95,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Crimson HC (Maroon) 11U AA (MA)",
    "proj": 75.5,
    "band": 1.07,
-   "live": 75.5,
-   "liveBand": 1.07,
-   "mgp": 7,
    "usa": true,
    "na": true,
-   "rank": 253
+   "rank": 250,
+   "snaps": {
+    "2026-11-04": [
+     75.5,
+     1.07,
+     7
+    ],
+    "2026-11-11": [
+     75.78,
+     0.94,
+     9
+    ]
+   },
+   "live": 75.78,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "Cheektowaga Warriors 11U AA (NY)",
    "proj": 75.49,
    "band": 0.69,
-   "live": 75.49,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 254
+   "rank": 256,
+   "snaps": {
+    "2026-11-04": [
+     75.49,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     75.3,
+     0.65,
+     19
+    ]
+   },
+   "live": 75.3,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Buffalo Regals 11U AA (NY)",
    "proj": 75.46,
    "band": 0.82,
-   "live": 75.46,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 255
+   "rank": 251,
+   "snaps": {
+    "2026-11-04": [
+     75.46,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     75.74,
+     0.73,
+     15
+    ]
+   },
+   "live": 75.74,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Livonia Knights 11U A (MI)",
    "proj": 75.44,
    "band": 0.76,
-   "live": 75.44,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 256
+   "rank": 249,
+   "snaps": {
+    "2026-11-04": [
+     75.44,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     75.89,
+     0.71,
+     16
+    ]
+   },
+   "live": 75.89,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Macomb Mavericks (Black) 11U A (MI)",
    "proj": 75.44,
    "band": 0.69,
-   "live": 75.44,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 257
+   "rank": 263,
+   "snaps": {
+    "2026-11-04": [
+     75.44,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     74.57,
+     0.63,
+     20
+    ]
+   },
+   "live": 74.57,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Valley Jr Warriors (Select) 11U AAA (MA)",
    "proj": 75.35,
    "band": 0.82,
-   "live": 75.35,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 258
+   "rank": 254,
+   "snaps": {
+    "2026-11-04": [
+     75.35,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     75.51,
+     0.78,
+     13
+    ]
+   },
+   "live": 75.51,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Lansing Spartans 11U A (MI)",
    "proj": 75.28,
    "band": 0.78,
-   "live": 75.28,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 259
+   "rank": 255,
+   "snaps": {
+    "2026-11-04": [
+     75.28,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     75.38,
+     0.76,
+     14
+    ]
+   },
+   "live": 75.38,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Michigan Alliance 11U A (MI)",
    "proj": 75.16,
    "band": 0.73,
-   "live": 75.16,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 260
+   "rank": 258,
+   "snaps": {
+    "2026-11-04": [
+     75.16,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     75.06,
+     0.71,
+     16
+    ]
+   },
+   "live": 75.06,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Rhode Island Jr Blues 11U AA (RI)",
    "proj": 75.16,
    "band": 0.76,
-   "live": 75.16,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 261
+   "rank": 261,
+   "snaps": {
+    "2026-11-04": [
+     75.16,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     74.73,
+     0.73,
+     15
+    ]
+   },
+   "live": 74.73,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Rochester Jr Americans (Capella) 11U AA (NY)",
    "proj": 74.93,
    "band": 0.94,
-   "live": 74.93,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 262
+   "rank": 264,
+   "snaps": {
+    "2026-11-04": [
+     74.93,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     74.54,
+     0.85,
+     11
+    ]
+   },
+   "live": 74.54,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Midland Northstars 11U A (MI)",
    "proj": 74.82,
    "band": 0.76,
-   "live": 74.82,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 263
+   "rank": 265,
+   "snaps": {
+    "2026-11-04": [
+     74.82,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     74.32,
+     0.73,
+     15
+    ]
+   },
+   "live": 74.32,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Granite State Wild 11U AA (NH)",
    "proj": 74.77,
    "band": 0.69,
-   "live": 74.77,
-   "liveBand": 0.69,
-   "mgp": 17,
    "usa": true,
    "na": true,
-   "rank": 264
+   "rank": 270,
+   "snaps": {
+    "2026-11-04": [
+     74.77,
+     0.69,
+     17
+    ],
+    "2026-11-11": [
+     74.15,
+     0.67,
+     18
+    ]
+   },
+   "live": 74.15,
+   "liveBand": 0.67,
+   "mgp": 18
   },
   {
    "n": "Middlesex Islanders West (T1-Gold) 11U AAA (MA)",
    "proj": 74.54,
    "band": 0.82,
-   "live": 74.54,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 265
+   "rank": 267,
+   "snaps": {
+    "2026-11-04": [
+     74.54,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     74.22,
+     0.82,
+     12
+    ]
+   },
+   "live": 74.22,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Boston Jr Terriers (Donovan) 11U AAA (MA)",
    "proj": 74.29,
    "band": 0.89,
-   "live": 74.29,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 266
+   "rank": 272,
+   "snaps": {
+    "2026-11-04": [
+     74.29,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     74.1,
+     0.82,
+     12
+    ]
+   },
+   "live": 74.1,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Fort Wayne Force (Green) 11U A (IN)",
    "proj": 74.26,
    "band": 0.73,
-   "live": 74.26,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 267
+   "rank": 269,
+   "snaps": {
+    "2026-11-04": [
+     74.26,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     74.17,
+     0.69,
+     17
+    ]
+   },
+   "live": 74.17,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Grand Rapids Blades 11U A (MI)",
    "proj": 74.2,
    "band": 0.71,
-   "live": 74.2,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 268
+   "rank": 268,
+   "snaps": {
+    "2026-11-04": [
+     74.2,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     74.17,
+     0.71,
+     16
+    ]
+   },
+   "live": 74.17,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "USA Patriots 11U A (MI)",
    "proj": 74.08,
    "band": 0.71,
-   "live": 74.08,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 269
+   "rank": 275,
+   "snaps": {
+    "2026-11-04": [
+     74.08,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     73.93,
+     0.69,
+     17
+    ]
+   },
+   "live": 73.93,
+   "liveBand": 0.69,
+   "mgp": 17
   },
   {
    "n": "Detroit Bulldogs (Black) 11U A (MI)",
    "proj": 74.02,
    "band": 0.71,
-   "live": 74.02,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 270
+   "rank": 276,
+   "snaps": {
+    "2026-11-04": [
+     74.02,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     73.7,
+     0.62,
+     21
+    ]
+   },
+   "live": 73.7,
+   "liveBand": 0.62,
+   "mgp": 21
   },
   {
    "n": "Belle Tire 11U A (MI)",
    "proj": 74.02,
    "band": 0.78,
-   "live": 74.02,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 271
+   "rank": 280,
+   "snaps": {
+    "2026-11-04": [
+     74.02,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     73.38,
+     0.76,
+     14
+    ]
+   },
+   "live": 73.38,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Columbus Capitals (Select-Blue) 11U B (OH)",
    "proj": 73.98,
    "band": 0.63,
-   "live": 73.98,
-   "liveBand": 0.63,
-   "mgp": 20,
    "usa": true,
    "na": true,
-   "rank": 272
+   "rank": 278,
+   "snaps": {
+    "2026-11-04": [
+     73.98,
+     0.63,
+     20
+    ],
+    "2026-11-11": [
+     73.62,
+     0.6,
+     22
+    ]
+   },
+   "live": 73.62,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "New England Stars (Premier) 11U AA (MA)",
    "proj": 73.95,
    "band": 0.89,
-   "live": 73.95,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 273
+   "rank": 260,
+   "snaps": {
+    "2026-11-04": [
+     73.95,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     74.74,
+     0.82,
+     12
+    ]
+   },
+   "live": 74.74,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Bay County Blizzard 11U A (MI)",
    "proj": 73.83,
    "band": 0.85,
-   "live": 73.83,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 274
+   "rank": 277,
+   "snaps": {
+    "2026-11-04": [
+     73.83,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     73.62,
+     0.85,
+     11
+    ]
+   },
+   "live": 73.62,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Macomb Mavericks (Blue) 11U A (MI)",
    "proj": 73.83,
    "band": 0.57,
-   "live": 73.83,
-   "liveBand": 0.57,
-   "mgp": 25,
    "usa": true,
    "na": true,
-   "rank": 275
+   "rank": 274,
+   "snaps": {
+    "2026-11-04": [
+     73.83,
+     0.57,
+     25
+    ],
+    "2026-11-11": [
+     73.95,
+     0.53,
+     29
+    ]
+   },
+   "live": 73.95,
+   "liveBand": 0.53,
+   "mgp": 29
   },
   {
    "n": "Mass Vikings (Elite) 11U AA (MA)",
    "proj": 73.64,
    "band": 0.89,
-   "live": 73.64,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 276
+   "rank": 291,
+   "snaps": {
+    "2026-11-04": [
+     73.64,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     72.04,
+     0.78,
+     13
+    ]
+   },
+   "live": 72.04,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Central Mass Outlaws (Premier) 11U AA (MA)",
    "proj": 73.58,
    "band": 1.07,
-   "live": 73.58,
-   "liveBand": 1.07,
-   "mgp": 7,
    "usa": true,
    "na": true,
-   "rank": 277
+   "rank": 266,
+   "snaps": {
+    "2026-11-04": [
+     73.58,
+     1.07,
+     7
+    ],
+    "2026-11-11": [
+     74.29,
+     1.0,
+     8
+    ]
+   },
+   "live": 74.29,
+   "liveBand": 1.0,
+   "mgp": 8
   },
   {
    "n": "Walpole Express (PHL) 11U AA (MA)",
    "proj": 73.5,
    "band": 1.0,
-   "live": 73.5,
-   "liveBand": 1.0,
-   "mgp": 8,
    "usa": true,
    "na": true,
-   "rank": 278
+   "rank": 284,
+   "snaps": {
+    "2026-11-04": [
+     73.5,
+     1.0,
+     8
+    ],
+    "2026-11-11": [
+     72.43,
+     1.0,
+     8
+    ]
+   },
+   "live": 72.43,
+   "liveBand": 1.0,
+   "mgp": 8
   },
   {
    "n": "East Coast Thunder 11U AA (MA)",
    "proj": 73.45,
    "band": 1.15,
-   "live": 73.45,
-   "liveBand": 1.15,
-   "mgp": 6,
    "usa": true,
    "na": true,
-   "rank": 279
+   "rank": 297,
+   "snaps": {
+    "2026-11-04": [
+     73.45,
+     1.15,
+     6
+    ],
+    "2026-11-11": [
+     71.59,
+     0.89,
+     10
+    ]
+   },
+   "live": 71.59,
+   "liveBand": 0.89,
+   "mgp": 10
   },
   {
    "n": "Niagara Jr Purple Eagles (Guzzetta) 11U AA (NY)",
    "proj": 73.45,
    "band": 0.78,
-   "live": 73.45,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 280
+   "rank": 279,
+   "snaps": {
+    "2026-11-04": [
+     73.45,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     73.38,
+     0.76,
+     14
+    ]
+   },
+   "live": 73.38,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Cazenovia Chiefs 11U AA (NY)",
    "proj": 73.4,
    "band": 0.85,
-   "live": 73.4,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 281
+   "rank": 281,
+   "snaps": {
+    "2026-11-04": [
+     73.4,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     73.28,
+     0.85,
+     11
+    ]
+   },
+   "live": 73.28,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "New England Predators 11U AA (MA)",
    "proj": 73.36,
    "band": 1.07,
-   "live": 73.36,
-   "liveBand": 1.07,
-   "mgp": 7,
    "usa": true,
    "na": true,
-   "rank": 282
+   "rank": 262,
+   "snaps": {
+    "2026-11-04": [
+     73.36,
+     1.07,
+     7
+    ],
+    "2026-11-11": [
+     74.69,
+     0.94,
+     9
+    ]
+   },
+   "live": 74.69,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "Assabet Valley Patriots (Select) 11U AAA (MA)",
    "proj": 73.28,
    "band": 1.0,
-   "live": 73.28,
-   "liveBand": 1.0,
-   "mgp": 8,
    "usa": true,
    "na": true,
-   "rank": 283
+   "rank": 273,
+   "snaps": {
+    "2026-11-04": [
+     73.28,
+     1.0,
+     8
+    ],
+    "2026-11-11": [
+     73.97,
+     0.89,
+     10
+    ]
+   },
+   "live": 73.97,
+   "liveBand": 0.89,
+   "mgp": 10
   },
   {
    "n": "Little Caesars Farmington Hills (Orange) 11U A (MI)",
    "proj": 72.77,
    "band": 0.76,
-   "live": 72.77,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 284
+   "rank": 283,
+   "snaps": {
+    "2026-11-04": [
+     72.77,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     72.9,
+     0.71,
+     16
+    ]
+   },
+   "live": 72.9,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "HB Detroit (Black) 11U A (MI)",
    "proj": 72.64,
    "band": 0.94,
-   "live": 72.64,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 285
+   "rank": 295,
+   "snaps": {
+    "2026-11-04": [
+     72.64,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     71.82,
+     0.76,
+     14
+    ]
+   },
+   "live": 71.82,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Bay State Breakers (T1-Lower) 11U AAA (MA)",
    "proj": 72.62,
    "band": 0.82,
-   "live": 72.62,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 286
+   "rank": 286,
+   "snaps": {
+    "2026-11-04": [
+     72.62,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     72.21,
+     0.71,
+     16
+    ]
+   },
+   "live": 72.21,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Rochester Coalition 11U AA (NY)",
    "proj": 72.49,
    "band": 0.76,
-   "live": 72.49,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 287
+   "rank": 282,
+   "snaps": {
+    "2026-11-04": [
+     72.49,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     73.27,
+     0.71,
+     16
+    ]
+   },
+   "live": 73.27,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Rochester Aces (Ruestow) 11U AA (NY)",
    "proj": 72.4,
    "band": 0.94,
-   "live": 72.4,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 288
+   "rank": 285,
+   "snaps": {
+    "2026-11-04": [
+     72.4,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     72.34,
+     0.94,
+     9
+    ]
+   },
+   "live": 72.34,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "Boch Blazers (T1-Lower) 11U AAA (MA)",
    "proj": 72.33,
    "band": 0.94,
-   "live": 72.33,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 289
+   "rank": 293,
+   "snaps": {
+    "2026-11-04": [
+     72.33,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     71.94,
+     0.94,
+     9
+    ]
+   },
+   "live": 71.94,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "North Shore Shamrocks 11U AAA (MA)",
    "proj": 72.23,
    "band": 0.82,
-   "live": 72.23,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 290
+   "rank": 294,
+   "snaps": {
+    "2026-11-04": [
+     72.23,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     71.9,
+     0.78,
+     13
+    ]
+   },
+   "live": 71.9,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Lakeland Hawks 11U A (MI)",
    "proj": 72.17,
    "band": 0.94,
-   "live": 72.17,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 291
+   "rank": 290,
+   "snaps": {
+    "2026-11-04": [
+     72.17,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     72.05,
+     0.94,
+     9
+    ]
+   },
+   "live": 72.05,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "Royal Oak Eagles 11U A (MI)",
    "proj": 71.94,
    "band": 0.65,
-   "live": 71.94,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 292
+   "rank": 296,
+   "snaps": {
+    "2026-11-04": [
+     71.94,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     71.79,
+     0.63,
+     20
+    ]
+   },
+   "live": 71.79,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Kalamazoo KWings 11U A (MI)",
    "proj": 71.9,
    "band": 0.82,
-   "live": 71.9,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 293
+   "rank": 292,
+   "snaps": {
+    "2026-11-04": [
+     71.9,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     71.98,
+     0.78,
+     13
+    ]
+   },
+   "live": 71.98,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Nashville Warriors 11U AA (TN)",
    "proj": 71.76,
    "band": 0.67,
-   "live": 71.76,
-   "liveBand": 0.67,
-   "mgp": 18,
    "usa": true,
    "na": true,
-   "rank": 294
+   "rank": 289,
+   "snaps": {
+    "2026-11-04": [
+     71.76,
+     0.67,
+     18
+    ],
+    "2026-11-11": [
+     72.13,
+     0.6,
+     22
+    ]
+   },
+   "live": 72.13,
+   "liveBand": 0.6,
+   "mgp": 22
   },
   {
    "n": "Lockport Lock Monsters 11U AA (NY)",
    "proj": 71.71,
    "band": 1.0,
-   "live": 71.71,
-   "liveBand": 1.0,
-   "mgp": 8,
    "usa": true,
    "na": true,
-   "rank": 295
+   "rank": 287,
+   "snaps": {
+    "2026-11-04": [
+     71.71,
+     1.0,
+     8
+    ],
+    "2026-11-11": [
+     72.17,
+     0.82,
+     12
+    ]
+   },
+   "live": 72.17,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Springfield Jr Thunderbirds (Select) 11U AAA (MA)",
    "proj": 71.58,
    "band": 0.89,
-   "live": 71.58,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 296
+   "rank": 299,
+   "snaps": {
+    "2026-11-04": [
+     71.58,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     71.41,
+     0.85,
+     11
+    ]
+   },
+   "live": 71.41,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Big Boy Hockey 11U A (MI)",
    "proj": 71.49,
    "band": 0.94,
-   "live": 71.49,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 297
+   "rank": 298,
+   "snaps": {
+    "2026-11-04": [
+     71.49,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     71.45,
+     0.94,
+     9
+    ]
+   },
+   "live": 71.45,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "Grand River Cougars 11U A (MI)",
    "proj": 71.49,
    "band": 0.76,
-   "live": 71.49,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 298
+   "rank": 300,
+   "snaps": {
+    "2026-11-04": [
+     71.49,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     71.26,
+     0.73,
+     15
+    ]
+   },
+   "live": 71.26,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Mass Bay Chiefs (Elite) 11U AA (MA)",
    "proj": 71.4,
    "band": 1.07,
-   "live": 71.4,
-   "liveBand": 1.07,
-   "mgp": 7,
    "usa": true,
    "na": true,
-   "rank": 299
+   "rank": 306,
+   "snaps": {
+    "2026-11-04": [
+     71.4,
+     1.07,
+     7
+    ],
+    "2026-11-11": [
+     70.37,
+     0.94,
+     9
+    ]
+   },
+   "live": 70.37,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "New England Knights (Select) 11U AAA (MA)",
    "proj": 71.37,
    "band": 0.76,
-   "live": 71.37,
-   "liveBand": 0.76,
-   "mgp": 14,
    "usa": true,
    "na": true,
-   "rank": 300
+   "rank": 288,
+   "snaps": {
+    "2026-11-04": [
+     71.37,
+     0.76,
+     14
+    ],
+    "2026-11-11": [
+     72.15,
+     0.73,
+     15
+    ]
+   },
+   "live": 72.15,
+   "liveBand": 0.73,
+   "mgp": 15
   },
   {
    "n": "Columbus Capitals (Select-White) 11U B (OH)",
    "proj": 70.98,
    "band": 0.82,
-   "live": 70.98,
-   "liveBand": 0.82,
-   "mgp": 12,
    "usa": true,
    "na": true,
-   "rank": 301
+   "rank": 301,
+   "snaps": {
+    "2026-11-04": [
+     70.98,
+     0.82,
+     12
+    ],
+    "2026-11-11": [
+     71.03,
+     0.76,
+     14
+    ]
+   },
+   "live": 71.03,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "New England Stars (Elite) 11U AA (MA)",
    "proj": 70.95,
    "band": 1.07,
-   "live": 70.95,
-   "liveBand": 1.07,
-   "mgp": 7,
    "usa": true,
    "na": true,
-   "rank": 302
+   "rank": 307,
+   "snaps": {
+    "2026-11-04": [
+     70.95,
+     1.07,
+     7
+    ],
+    "2026-11-11": [
+     70.07,
+     1.0,
+     8
+    ]
+   },
+   "live": 70.07,
+   "liveBand": 1.0,
+   "mgp": 8
   },
   {
    "n": "Allen Park Huskies 11U A (MI)",
    "proj": 70.94,
    "band": 1.15,
-   "live": 70.94,
-   "liveBand": 1.15,
-   "mgp": 6,
    "usa": true,
    "na": true,
-   "rank": 303
+   "rank": 303,
+   "snaps": {
+    "2026-11-04": [
+     70.94,
+     1.15,
+     6
+    ],
+    "2026-11-11": [
+     70.82,
+     1.07,
+     7
+    ]
+   },
+   "live": 70.82,
+   "liveBand": 1.07,
+   "mgp": 7
   },
   {
    "n": "Hamburg Hawks 11U AA (NY)",
    "proj": 70.85,
    "band": 0.78,
-   "live": 70.85,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 304
+   "rank": 302,
+   "snaps": {
+    "2026-11-04": [
+     70.85,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     70.98,
+     0.76,
+     14
+    ]
+   },
+   "live": 70.98,
+   "liveBand": 0.76,
+   "mgp": 14
   },
   {
    "n": "Kensington Valley Raiders 11U A (MI)",
    "proj": 70.8,
    "band": 0.89,
-   "live": 70.8,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": true,
    "na": true,
-   "rank": 305
+   "rank": 305,
+   "snaps": {
+    "2026-11-04": [
+     70.8,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     70.43,
+     0.85,
+     11
+    ]
+   },
+   "live": 70.43,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Central Mass Outlaws (Elite) 11U AA (MA)",
    "proj": 70.63,
    "band": 1.0,
-   "live": 70.63,
-   "liveBand": 1.0,
-   "mgp": 8,
    "usa": true,
    "na": true,
-   "rank": 306
+   "rank": 309,
+   "snaps": {
+    "2026-11-04": [
+     70.63,
+     1.0,
+     8
+    ],
+    "2026-11-11": [
+     69.68,
+     1.0,
+     8
+    ]
+   },
+   "live": 69.68,
+   "liveBand": 1.0,
+   "mgp": 8
   },
   {
    "n": "Rochester Jr Americans (Rickard) 11U AA (NY)",
    "proj": 70.26,
    "band": 0.94,
-   "live": 70.26,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 307
+   "rank": 304,
+   "snaps": {
+    "2026-11-04": [
+     70.26,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     70.63,
+     0.89,
+     10
+    ]
+   },
+   "live": 70.63,
+   "liveBand": 0.89,
+   "mgp": 10
   },
   {
    "n": "Worcester Jr Crusaders 11U AA (MA)",
    "proj": 70.18,
    "band": 0.94,
-   "live": 70.18,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 308
+   "rank": 312,
+   "snaps": {
+    "2026-11-04": [
+     70.18,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     69.31,
+     0.94,
+     9
+    ]
+   },
+   "live": 69.31,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "Manchester Flames 11U AA (NH)",
    "proj": 70.16,
    "band": 0.78,
-   "live": 70.16,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 309
+   "rank": 311,
+   "snaps": {
+    "2026-11-04": [
+     70.16,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     69.35,
+     0.78,
+     13
+    ]
+   },
+   "live": 69.35,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Northeast Generals (Lewis) 11U AAA (MA)",
    "proj": 70.07,
    "band": 0.85,
-   "live": 70.07,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 310
+   "rank": 308,
+   "snaps": {
+    "2026-11-04": [
+     70.07,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     69.83,
+     0.82,
+     12
+    ]
+   },
+   "live": 69.83,
+   "liveBand": 0.82,
+   "mgp": 12
   },
   {
    "n": "Columbus Blue Jackets (Dev) 11U B (OH)",
    "proj": 69.61,
    "band": 0.71,
-   "live": 69.61,
-   "liveBand": 0.71,
-   "mgp": 16,
    "usa": true,
    "na": true,
-   "rank": 311
+   "rank": 310,
+   "snaps": {
+    "2026-11-04": [
+     69.61,
+     0.71,
+     16
+    ],
+    "2026-11-11": [
+     69.46,
+     0.63,
+     20
+    ]
+   },
+   "live": 69.46,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Northern Cyclones (T1-Lower) 11U AAA (NH)",
    "proj": 69.58,
    "band": 0.94,
-   "live": 69.58,
-   "liveBand": 0.94,
-   "mgp": 9,
    "usa": true,
    "na": true,
-   "rank": 312
+   "rank": 314,
+   "snaps": {
+    "2026-11-04": [
+     69.58,
+     0.94,
+     9
+    ],
+    "2026-11-11": [
+     69.28,
+     0.85,
+     11
+    ]
+   },
+   "live": 69.28,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Flint Jr Firebirds 11U A (MI)",
    "proj": 68.88,
    "band": 0.65,
-   "live": 68.88,
-   "liveBand": 0.65,
-   "mgp": 19,
    "usa": true,
    "na": true,
-   "rank": 313
+   "rank": 315,
+   "snaps": {
+    "2026-11-04": [
+     68.88,
+     0.65,
+     19
+    ],
+    "2026-11-11": [
+     68.93,
+     0.63,
+     20
+    ]
+   },
+   "live": 68.93,
+   "liveBand": 0.63,
+   "mgp": 20
   },
   {
    "n": "Concord Capitals 11U AA (NH)",
    "proj": 68.86,
    "band": 0.78,
-   "live": 68.86,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": true,
    "na": true,
-   "rank": 314
+   "rank": 317,
+   "snaps": {
+    "2026-11-04": [
+     68.86,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     67.88,
+     0.71,
+     16
+    ]
+   },
+   "live": 67.88,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Battle Creek Jr Kernels 11U A (MI)",
    "proj": 68.67,
    "band": 0.85,
-   "live": 68.67,
-   "liveBand": 0.85,
-   "mgp": 11,
    "usa": true,
    "na": true,
-   "rank": 315
+   "rank": 316,
+   "snaps": {
+    "2026-11-04": [
+     68.67,
+     0.85,
+     11
+    ],
+    "2026-11-11": [
+     68.51,
+     0.78,
+     13
+    ]
+   },
+   "live": 68.51,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Novi IceCats 11U A (MI)",
    "proj": 67.72,
    "band": 0.73,
-   "live": 67.72,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": true,
    "na": true,
-   "rank": 316
+   "rank": 318,
+   "snaps": {
+    "2026-11-04": [
+     67.72,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     67.6,
+     0.71,
+     16
+    ]
+   },
+   "live": 67.6,
+   "liveBand": 0.71,
+   "mgp": 16
   },
   {
    "n": "Allegheny Badgers (#2) 11U A (PA)",
    "proj": 83.34,
    "band": 0.73,
-   "live": 83.34,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": false,
    "na": false,
-   "rank": null
+   "rank": null,
+   "snaps": {
+    "2026-11-04": [
+     83.34,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     82.83,
+     0.65,
+     19
+    ]
+   },
+   "live": 82.83,
+   "liveBand": 0.65,
+   "mgp": 19
   },
   {
    "n": "Omaha Jr Mavericks (Red) 12U A (NE)",
    "proj": 79.16,
    "band": 1.26,
-   "live": 79.16,
-   "liveBand": 1.26,
-   "mgp": 5,
    "usa": false,
    "na": false,
-   "rank": null
+   "rank": null,
+   "snaps": {
+    "2026-11-04": [
+     79.16,
+     1.26,
+     5
+    ],
+    "2026-11-11": [
+     78.04,
+     0.94,
+     9
+    ]
+   },
+   "live": 78.04,
+   "liveBand": 0.94,
+   "mgp": 9
   },
   {
    "n": "Chicago Stallions 12U A2 (IL)",
    "proj": 77.89,
    "band": 1.07,
-   "live": 77.89,
-   "liveBand": 1.07,
-   "mgp": 7,
    "usa": false,
    "na": false,
-   "rank": null
+   "rank": null,
+   "snaps": {
+    "2026-11-04": [
+     77.89,
+     1.07,
+     7
+    ],
+    "2026-11-11": [
+     77.29,
+     1.07,
+     7
+    ]
+   },
+   "live": 77.29,
+   "liveBand": 1.07,
+   "mgp": 7
   },
   {
    "n": "San Francisco Sabercats 12U BB (CA)",
    "proj": 72.41,
    "band": 1.0,
-   "live": 72.41,
-   "liveBand": 1.0,
-   "mgp": 8,
    "usa": false,
    "na": false,
-   "rank": null
+   "rank": null,
+   "snaps": {
+    "2026-11-04": [
+     72.41,
+     1.0,
+     8
+    ],
+    "2026-11-11": [
+     74.15,
+     0.89,
+     10
+    ]
+   },
+   "live": 74.15,
+   "liveBand": 0.89,
+   "mgp": 10
   },
   {
    "n": "Naperville Sabres 12U A2 (IL)",
    "proj": 78.08,
    "band": 0.89,
-   "live": 78.08,
-   "liveBand": 0.89,
-   "mgp": 10,
    "usa": false,
    "na": false,
-   "rank": null
+   "rank": null,
+   "snaps": {
+    "2026-11-04": [
+     78.08,
+     0.89,
+     10
+    ],
+    "2026-11-11": [
+     78.24,
+     0.85,
+     11
+    ]
+   },
+   "live": 78.24,
+   "liveBand": 0.85,
+   "mgp": 11
   },
   {
    "n": "Twin Bridges Lightning (#1) 12U A3 (IL)",
    "proj": 78.01,
    "band": 1.41,
-   "live": 78.01,
-   "liveBand": 1.41,
-   "mgp": 4,
    "usa": false,
    "na": false,
-   "rank": null
+   "rank": null,
+   "snaps": {
+    "2026-11-04": [
+     78.01,
+     1.41,
+     4
+    ],
+    "2026-11-11": [
+     78.86,
+     1.41,
+     4
+    ]
+   },
+   "live": 78.86,
+   "liveBand": 1.41,
+   "mgp": 4
   },
   {
    "n": "West Dundee Leafs 12U A1 (IL)",
    "proj": 81.2,
    "band": 0.78,
-   "live": 81.2,
-   "liveBand": 0.78,
-   "mgp": 13,
    "usa": false,
    "na": false,
-   "rank": null
+   "rank": null,
+   "snaps": {
+    "2026-11-04": [
+     81.2,
+     0.78,
+     13
+    ],
+    "2026-11-11": [
+     80.85,
+     0.78,
+     13
+    ]
+   },
+   "live": 80.85,
+   "liveBand": 0.78,
+   "mgp": 13
   },
   {
    "n": "Geneva Cyclones 12U A1 (IL)",
    "proj": 80.68,
    "band": 0.73,
-   "live": 80.68,
-   "liveBand": 0.73,
-   "mgp": 15,
    "usa": false,
    "na": false,
-   "rank": null
+   "rank": null,
+   "snaps": {
+    "2026-11-04": [
+     80.68,
+     0.73,
+     15
+    ],
+    "2026-11-11": [
+     80.21,
+     0.71,
+     16
+    ]
+   },
+   "live": 80.21,
+   "liveBand": 0.71,
+   "mgp": 16
+  },
+  {
+   "n": "Maine Wild 11U AA (ME)",
+   "proj": 74.13,
+   "band": 1.26,
+   "usa": true,
+   "na": true,
+   "rank": 271,
+   "snaps": {
+    "2026-11-11": [
+     74.13,
+     1.26,
+     5
+    ]
+   },
+   "since": "2026-11-11",
+   "live": 74.13,
+   "liveBand": 1.26,
+   "mgp": 5
+  },
+  {
+   "n": "Livingston Blues 11U AA (NY)",
+   "proj": 69.28,
+   "band": 0.94,
+   "usa": true,
+   "na": true,
+   "rank": 313,
+   "snaps": {
+    "2026-11-11": [
+     69.28,
+     0.94,
+     9
+    ]
+   },
+   "since": "2026-11-11",
+   "live": 69.28,
+   "liveBand": 0.94,
+   "mgp": 9
   }
  ]
 }

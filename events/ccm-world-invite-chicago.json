@@ -420,7 +420,8 @@
    "home": "arizona-bobcats",
    "away": "chicago-hawks",
    "homeScore": 6,
-   "awayScore": 3
+   "awayScore": 3,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "5",
@@ -487,7 +488,8 @@
    "home": "cincinnati-jr-cyclones",
    "away": "chicago-stallions",
    "homeScore": 1,
-   "awayScore": 6
+   "awayScore": 6,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "11",
@@ -509,7 +511,8 @@
    "home": "san-francisco-sabercats",
    "away": "chicago-jets",
    "homeScore": 0,
-   "awayScore": 7
+   "awayScore": 7,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "13",
@@ -642,7 +645,8 @@
    "home": "chicago-jets",
    "away": "cincinnati-jr-cyclones",
    "homeScore": 8,
-   "awayScore": 1
+   "awayScore": 1,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "25",
@@ -686,7 +690,8 @@
    "home": "arizona-bobcats",
    "away": "northwest-chargers",
    "homeScore": 3,
-   "awayScore": 2
+   "awayScore": 2,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "29",
@@ -764,7 +769,8 @@
    "home": "san-francisco-sabercats",
    "away": "chicago-stallions",
    "homeScore": 0,
-   "awayScore": 7
+   "awayScore": 7,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "36",
@@ -847,7 +853,8 @@
    "home": "arizona-bobcats",
    "away": "glenview-stars",
    "homeScore": 4,
-   "awayScore": 5
+   "awayScore": 5,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "43",
@@ -895,7 +902,8 @@
    "home": "winnetka-warriors",
    "away": "chicago-stallions",
    "homeScore": 8,
-   "awayScore": 1
+   "awayScore": 1,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "47",
@@ -955,7 +963,8 @@
    "home": "chicago-hawks",
    "away": "winnetka-warriors",
    "homeScore": 0,
-   "awayScore": 2
+   "awayScore": 2,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "52",
@@ -968,7 +977,8 @@
    "away": "glenview-stars",
    "homeScore": 3,
    "awayScore": 4,
-   "decision": "OT"
+   "decision": "OT",
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "53",
@@ -1004,7 +1014,8 @@
    "home": "naperville-sabres",
    "away": "chicago-stallions",
    "homeScore": 9,
-   "awayScore": 2
+   "awayScore": 2,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "56",
@@ -1016,7 +1027,8 @@
    "home": "allegheny-badgers",
    "away": "arizona-bobcats",
    "homeScore": 1,
-   "awayScore": 6
+   "awayScore": 6,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "57",
@@ -1040,7 +1052,8 @@
    "home": "winnetka-warriors",
    "away": "glenview-stars",
    "homeScore": 7,
-   "awayScore": 3
+   "awayScore": 3,
+   "mhrMissing": "2026-11-11"
   },
   {
    "id": "59",

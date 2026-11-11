@@ -46,8 +46,27 @@ for games entered since `live.asOf`. Only teams on the 11U list carry a rank
 (`na`), so the Analysis tab's ranks are MHR's USA 11U ranks.
 
 Refresh: copy the 11U list into a new `mhr_11u_<date>.tsv` (the built-in
-browser gets past Cloudflare; read every row of the table), set `AS_OF`, add
-any 12U-only tournament teams to `TWELVE_U`, and run `python build/ratings.py`.
+browser gets past Cloudflare; read every row of the table, all pages), add a
+`TWELVE_U[<date>]` entry for every 12U-only team from the USA 12U list
+(`v=124`), and run `python build/ratings.py`. Never edit or delete an older
+tsv: **every week is kept**, as on the girls' site. `ratings.json` carries
+`snapshots` and each team's `snaps[date]`, and the page reads the week in
+force on the day it is asking about. With only the newest week, a refresh
+would put a past tournament's seeds and Analysis on MHR's later number, which
+already holds that tournament's games -- counting them twice.
+
+**Then compare each team's ledger games with what MHR counted**, exactly as
+the girls' CLAUDE.md describes. MHR is slow to receive tournament scores: on
+11 November it had 13 of CCM Chicago's 59 games on neither team's page (most
+of Sunday's), and those carry `"mhrMissing": "2026-11-11"`. A game on one
+side's MHR page only is MHR filing it under a different team (see below) and
+is left unmarked, or that side would count it twice.
+
+**MHR disagrees with two of our 12U identities.** The Hawks' and Northwest
+Chargers' CCM games are filed against Twin Bridges Lightning **(#2)** 12U A3,
+and the Hawks' game against Naperville Sabres **12U A1**, where our file has
+(#1) A3 and 12U A2 (named by the Jets). Chicago Stallions 12U A2 has no CCM
+game on MHR at all. Unresolved: ask the owner before changing them.
 
 **A club with several 12U teams and no 11U team cannot be identified from MHR
 alone**, because nothing on the list marks the 2015 roster. Those teams carry

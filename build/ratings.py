@@ -60,6 +60,18 @@ TWELVE_U = {
         ('West Dundee Leafs 12U A1 (IL)', '7-5-1', 80.85),
         ('Geneva Cyclones 12U A1 (IL)', '2-12-2', 80.21),
     ],
+    # 18 November: all eight on the USA 12U list itself, Twin Bridges
+    # included (MHR now prints it as (MO)).
+    '2026-11-18': [
+        ('Allegheny Badgers (#2) 11U A (PA)', '13-5-2', 82.65),
+        ('Omaha Jr Mavericks (Red) 12U A (NE)', '2-7-0', 78.23),
+        ('Chicago Stallions 12U A2 (IL)', '7-4-0', 77.55),
+        ('San Francisco Sabercats 12U BB (CA)', '5-6-0', 74.39),
+        ('Naperville Sabres 12U A2 (IL)', '5-7-1', 78.58),
+        ('Twin Bridges Lightning (#1) 12U A3 (IL)', '3-2-0', 78.99),
+        ('West Dundee Leafs 12U A1 (IL)', '8-7-1', 81.46),
+        ('Geneva Cyclones 12U A1 (IL)', '3-14-2', 80.18),
+    ],
 }
 
 

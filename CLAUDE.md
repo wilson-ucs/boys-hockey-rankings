@@ -62,6 +62,13 @@ of Sunday's), and those carry `"mhrMissing": "2026-11-11"`. A game on one
 side's MHR page only is MHR filing it under a different team (see below) and
 is left unmarked, or that side would count it twice.
 
+**At AA a missing game may never arrive.** AA teams keep their MHR results up
+far less than AAA teams do; there is less at stake in a ranking (the owner,
+21 November). On 18 November all 13 were still on neither page, checked team
+by team, and were re-marked `"2026-11-18"`. `mhrMissing` names one snapshot
+and expires with it, so each refresh must re-check and re-mark these games
+or they silently drop out of the ledger.
+
 **MHR disagrees with two of our 12U identities.** The Hawks' and Northwest
 Chargers' CCM games are filed against Twin Bridges Lightning **(#2)** 12U A3,
 and the Hawks' game against Naperville Sabres **12U A1**, where our file has

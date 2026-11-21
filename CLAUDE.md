@@ -65,9 +65,18 @@ is left unmarked, or that side would count it twice.
 **At AA a missing game may never arrive.** AA teams keep their MHR results up
 far less than AAA teams do; there is less at stake in a ranking (the owner,
 21 November). On 18 November all 13 were still on neither page, checked team
-by team, and were re-marked `"2026-11-18"`. `mhrMissing` names one snapshot
-and expires with it, so each refresh must re-check and re-mark these games
-or they silently drop out of the ledger.
+by team. **Such a game carries `"mhrMissingFrom": "<snapshot>"`** instead of
+`mhrMissing`: it stays in the ledger for that snapshot and every later one
+until the marker is taken off by hand, so a refresh nobody re-marks no longer
+drops it. (Re-marking with `mhrMissing` did exactly that once: tagging the 13
+`"2026-11-18"` took them out of the 11 November week, and the Jets read 84.43
+for it instead of the published 84.16.)
+
+The risk runs the other way now: if MHR does add one, keeping it counts it
+twice. `python build/ratings.py` lists every open marker with each team's MHR
+game count at marking and now. After each refresh, open the MHR page of any
+team whose count has grown and look for the dates; take the marker off only
+for a game MHR now shows.
 
 **MHR disagrees with two of our 12U identities.** The Hawks' and Northwest
 Chargers' CCM games are filed against Twin Bridges Lightning **(#2)** 12U A3,

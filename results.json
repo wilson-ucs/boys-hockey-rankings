@@ -33,7 +33,7 @@
    "away": "Chicago Hawks (CSDHL) 11U AA (IL)",
    "homeScore": 6,
    "awayScore": 3,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -70,7 +70,7 @@
    "away": "Cincinnati Jr Cyclones (Watson) 11U AA (OH)",
    "homeScore": 8,
    "awayScore": 1,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -89,7 +89,7 @@
    "away": "Chicago Stallions 12U A2 (IL)",
    "homeScore": 1,
    "awayScore": 6,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -198,7 +198,7 @@
    "away": "Chicago Jets (CSDHL) 11U AA (IL)",
    "homeScore": 0,
    "awayScore": 7,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -253,7 +253,7 @@
    "away": "Northwest Chargers (CSDHL) 11U AA (IL)",
    "homeScore": 3,
    "awayScore": 2,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -263,7 +263,7 @@
    "away": "Glenview Stars (CSDHL) 11U AA (IL)",
    "homeScore": 4,
    "awayScore": 5,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -408,7 +408,7 @@
    "away": "Chicago Stallions 12U A2 (IL)",
    "homeScore": 0,
    "awayScore": 7,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -454,7 +454,7 @@
    "away": "Chicago Stallions 12U A2 (IL)",
    "homeScore": 8,
    "awayScore": 1,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -464,7 +464,7 @@
    "away": "Arizona Bobcats 11U AA (AZ)",
    "homeScore": 1,
    "awayScore": 6,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -483,7 +483,7 @@
    "away": "Winnetka Warriors (CSDHL) 11U AA (IL)",
    "homeScore": 0,
    "awayScore": 2,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -493,7 +493,7 @@
    "away": "Glenview Stars (CSDHL) 11U AA (IL)",
    "homeScore": 3,
    "awayScore": 4,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -512,7 +512,7 @@
    "away": "Chicago Stallions 12U A2 (IL)",
    "homeScore": 9,
    "awayScore": 2,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   },
   {
    "event": "ccm-world-invite-chicago",
@@ -558,7 +558,7 @@
    "away": "Glenview Stars (CSDHL) 11U AA (IL)",
    "homeScore": 7,
    "awayScore": 3,
-   "mhrMissing": "2026-11-18"
+   "mhrMissingFrom": "2026-11-11"
   }
  ],
  "stormName": "Chicago Jets",
@@ -658,7 +658,7 @@
    "home": false,
    "opp": "Geneva Cyclones",
    "oppMhr": "Geneva Cyclones 12U A1 (IL)",
-   "oppRating": 80.21,
+   "oppRating": 80.18,
    "rated": true,
    "gf": null,
    "ga": null,
@@ -675,7 +675,7 @@
    "home": true,
    "opp": "West Dundee Leafs",
    "oppMhr": "West Dundee Leafs 12U A1 (IL)",
-   "oppRating": 80.85,
+   "oppRating": 81.46,
    "rated": true,
    "gf": null,
    "ga": null,
@@ -692,7 +692,7 @@
    "home": false,
    "opp": "Crystal Lake Yellowjackets",
    "oppMhr": "Crystal Lake Yellowjackets (CSDHL) 11U AA (IL)",
-   "oppRating": 86.98,
+   "oppRating": 87.35,
    "rated": true,
    "gf": null,
    "ga": null,

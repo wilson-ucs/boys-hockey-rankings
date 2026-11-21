@@ -798,8 +798,11 @@ function adjustRatings(ratings, results, on){
     const on = String(g.date || '');
     if(on > latest) latest = on;
     const missing = g.mhrMissing ? String(g.mhrMissing) : null;
-    (seen[g.home] = seen[g.home] || []).push({opp: g.away, gd: gd, on: on, missing: missing});
-    (seen[g.away] = seen[g.away] || []).push({opp: g.home, gd: -gd, on: on, missing: missing});
+    const missingFrom = g.mhrMissingFrom ? String(g.mhrMissingFrom) : null;
+    (seen[g.home] = seen[g.home] || []).push({opp: g.away, gd: gd, on: on, missing: missing,
+                                              missingFrom: missingFrom});
+    (seen[g.away] = seen[g.away] || []).push({opp: g.home, gd: -gd, on: on, missing: missing,
+                                              missingFrom: missingFrom});
   }
 
   const dayMs = 86400000;
@@ -825,8 +828,14 @@ function adjustRatings(ratings, results, on){
     // but is not in MHR's number yet -- MHR counts a game at its next weekly
     // update, not on the day -- so it stays. The marker names one snapshot,
     // so the next capture, which will have counted it, drops it as usual.
+    // mhrMissingFrom is the open-ended form, for a game MHR may never get --
+    // AA teams often do not post their scores. It stays for every snapshot
+    // on or after its date until the marker is taken off by hand.
     if(name in mgp){
-      const keep = mine.map(function(m){ return String(m.on) >= snap || m.missing === snap; });
+      const keep = mine.map(function(m){
+        return String(m.on) >= snap || m.missing === snap
+            || (m.missingFrom !== null && snap >= m.missingFrom);
+      });
       seen[name] = mine.filter(function(m, i){ return keep[i]; });
       w = w.filter(function(x, i){ return keep[i]; });
     }
@@ -4239,7 +4248,11 @@ function simulate(teams, games, byId, rules, groups, focusId){
     // default; with `rules.crossover` and two groups, the other group's team
     // one place away instead -- 1A v 2B, 2A v 1B, 3A v 4B, 4A v 3B -- which
     // is the Goya format and which no ordering of seats can express.
-    const cross = rules.crossover && placed.length === 2;
+    // `rules.crossPlaces` names the other group's place for each place
+    // (0-based) where the pairing is something else: [3, 2, 1, 0, 4, 5] is
+    // 1A v 4B, 2A v 3B, 3A v 2B, 4A v 1B, 5A v 5B, 6A v 6B.
+    const crossPlaces = Array.isArray(rules.crossPlaces) ? rules.crossPlaces : null;
+    const cross = (rules.crossover || crossPlaces) && placed.length === 2;
     function partner(i){
       // rules.crossPairs: [["A","D"],["B","C"]] names the pools that meet, and
       // rules.crossPlaces maps a finishing place (from 0) to the place it meets
@@ -4262,7 +4275,9 @@ function simulate(teams, games, byId, rules, groups, focusId){
       if(cross){
         for(let gi = 0; gi < 2; gi++){
           const p = placed[gi].indexOf(i);
-          if(p >= 0) return placed[1 - gi][p ^ 1];
+          if(p < 0) continue;
+          const q = crossPlaces ? crossPlaces[p] : (p ^ 1);
+          return typeof q === 'number' ? placed[1 - gi][q] : undefined;
         }
         return undefined;
       }

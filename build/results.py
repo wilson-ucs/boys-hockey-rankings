@@ -118,6 +118,9 @@ def main():
             # number, so the page keeps it in the ledger for that snapshot.
             if g.get('mhrMissing'):
                 row['mhrMissing'] = g['mhrMissing']
+            # The open-ended form: kept for every snapshot from this date on.
+            if g.get('mhrMissingFrom'):
+                row['mhrMissingFrom'] = g['mhrMissingFrom']
             games.append(row)
             kept += 1
         print('%-24s %3d games' % (event_id, kept))

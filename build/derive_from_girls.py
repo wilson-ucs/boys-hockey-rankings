@@ -97,9 +97,9 @@ sub(r"""    + 'list with these results in. Ranks are on the North American list,
 # ---------------------------------------------------------------- crossover
 # The 2015 Ribcor round of 16 pairs pool A with D and B with C, 1st v 4th and
 # 2nd v 3rd, and the 5th and 6th places with the like finisher across.
-sub(r"""    const cross = rules.crossover && placed.length === 2;
+sub(r"""    const cross = (rules.crossover || crossPlaces) && placed.length === 2;
     function partner(i){
-      if(cross){""", r"""    const cross = rules.crossover && placed.length === 2;
+      if(cross){""", r"""    const cross = (rules.crossover || crossPlaces) && placed.length === 2;
     function partner(i){
       // rules.crossPairs: [["A","D"],["B","C"]] names the pools that meet, and
       // rules.crossPlaces maps a finishing place (from 0) to the place it meets

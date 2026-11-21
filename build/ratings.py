@@ -132,3 +132,39 @@ out = {'live': {'asOf': newest, 'source': 'MyHockeyRankings USA 11U and 12U'},
 print(len(order), 'teams over', len(dates), 'weeks ->', ROOT / 'ratings.json')
 for d in dates:
     print(' ', d, len(weeks[d]), 'teams')
+
+
+# Games marked mhrMissingFrom stay in the ledger for every snapshot until the
+# marker is taken off. If MHR has since counted one, keeping it counts it
+# twice, so list them with each team's MHR game count then and now: a team
+# whose count has grown may have had them added. Open its MHR page and look
+# for the dates before removing anything.
+def open_missing():
+    import glob
+    rows = []
+    for f in sorted(glob.glob(str(ROOT / 'events' / '*.json'))):
+        ev = json.loads(Path(f).read_text(encoding='utf-8'))
+        mhr = {t['id']: t.get('mhrName') for t in ev.get('teams', [])}
+        for g in ev.get('games', []):
+            if g.get('mhrMissingFrom'):
+                rows.append((g['mhrMissingFrom'], g['start'][:10],
+                             mhr.get(g['home']), mhr.get(g['away'])))
+    return rows
+
+
+missing = open_missing()
+if missing:
+    print('\n%d games MHR had not counted (mhrMissingFrom); check each team\'s MHR page:'
+          % len(missing))
+    by_team = {}
+    for since, day, h, a in missing:
+        for me, opp in ((h, a), (a, h)):
+            by_team.setdefault(me, []).append((since, day, opp))
+    for name in sorted(by_team, key=str):
+        t = teams.get(name)
+        since = min(s for s, _, _ in by_team[name])
+        then = t['snaps'].get(since, [None] * 3)[2] if t else None
+        now = t['snaps'].get(newest, [None] * 3)[2] if t else None
+        print('  %-45s MHR games %s on %s, %s now' % (name, then, since, now))
+        for _, day, opp in sorted(by_team[name]):
+            print('      %s  v %s' % (day, opp))
